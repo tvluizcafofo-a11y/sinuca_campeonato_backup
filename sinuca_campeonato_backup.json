@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-29T21:02:12.681Z",
+  "timestamp": "2026-05-29T21:04:10.289Z",
   "titulo": "🎱Campeonato de Sinuca 26",
   "jogadores": [
     {
@@ -684,21 +684,34 @@
       "jogadorBId": 1779731673678,
       "vencedorId": 1779731673678,
       "timestamp": "2026-05-29T20:49:45.948Z"
+    },
+    {
+      "id": 1780088640274,
+      "tipo": "mata",
+      "fase": "Semi-Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731673678,
+      "vencedorId": 1779731633065,
+      "timestamp": "2026-05-29T21:04:00.274Z"
+    },
+    {
+      "id": 1780088644564,
+      "tipo": "mata",
+      "fase": "Quartas de Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731637329,
+      "jogadorBId": 1779731635399,
+      "vencedorId": 1779731637329,
+      "timestamp": "2026-05-29T21:04:04.564Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_1780087785949_0",
+        "id": "mata_1780088644565_0",
         "jogadorAId": 1779731633065,
-        "jogadorBId": 1779731673678,
-        "vencedorId": null,
-        "finalizado": false
-      },
-      {
-        "id": "mata_1780087785949_1",
-        "jogadorAId": 1779731637329,
-        "jogadorBId": 1779731635399,
+        "jogadorBId": 1779731637329,
         "vencedorId": null,
         "finalizado": false
       }
