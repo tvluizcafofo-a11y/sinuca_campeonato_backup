@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-29T20:47:04.446Z",
+  "timestamp": "2026-05-29T20:47:34.445Z",
   "titulo": "🎱Campeonato de Sinuca 26",
   "jogadores": [
     {
@@ -644,6 +644,16 @@
       "vencedorId": 1779731673678,
       "bolasRestantes": 0,
       "timestamp": "2026-05-29T20:23:38.368Z"
+    },
+    {
+      "id": 1780087644410,
+      "tipo": "mata",
+      "fase": "Quartas de Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731637329,
+      "jogadorBId": 1779731667712,
+      "vencedorId": 1779731637329,
+      "timestamp": "2026-05-29T20:47:24.410Z"
     }
   ],
   "mataMataAtivo": {
@@ -652,8 +662,8 @@
         "id": "mata_1780087619351_0_1_1",
         "jogadorAId": 1779731637329,
         "jogadorBId": 1779731667712,
-        "vencedorId": null,
-        "finalizado": false
+        "vencedorId": 1779731637329,
+        "finalizado": true
       },
       {
         "id": "mata_1780087619352_1_0_2",
@@ -677,7 +687,9 @@
         "finalizado": false
       }
     ],
-    "participantesProximaRodada": [],
+    "participantesProximaRodada": [
+      1779731637329
+    ],
     "campeaoId": null,
     "finalizado": false
   }
