@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-29T20:25:29.723Z",
+  "timestamp": "2026-05-29T20:25:47.202Z",
   "titulo": "🎱II Campeonato de Sinuca 26",
   "jogadores": [
     {
@@ -13,8 +13,8 @@
     {
       "id": 1779731648820,
       "nome": "Tulinho",
-      "pontos": 1,
-      "vitorias": 1,
+      "pontos": 0,
+      "vitorias": 0,
       "creditoBolas": 0
     },
     {
@@ -90,8 +90,8 @@
     {
       "id": 1779731673678,
       "nome": "Felipe Lekao",
-      "pontos": 2,
-      "vitorias": 2,
+      "pontos": 1,
+      "vitorias": 1,
       "creditoBolas": 1
     },
     {
@@ -292,8 +292,8 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731633065,
       "jogadorBId": 1779731648820,
-      "vencedorId": 1779731648820,
-      "realizado": true,
+      "vencedorId": null,
+      "realizado": false,
       "bolasRestantes": 0
     },
     {
@@ -301,8 +301,8 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731673678,
       "jogadorBId": 1779731648820,
-      "vencedorId": 1779731673678,
-      "realizado": true,
+      "vencedorId": null,
+      "realizado": false,
       "bolasRestantes": 0
     },
     {
@@ -624,26 +624,6 @@
       "vencedorId": 1779731633065,
       "bolasRestantes": 2,
       "timestamp": "2026-05-29T20:20:25.324Z"
-    },
-    {
-      "id": 1780086210230,
-      "tipo": "grupo",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731648820,
-      "vencedorId": 1779731648820,
-      "bolasRestantes": 0,
-      "timestamp": "2026-05-29T20:23:30.230Z"
-    },
-    {
-      "id": 1780086218368,
-      "tipo": "grupo",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731673678,
-      "jogadorBId": 1779731648820,
-      "vencedorId": 1779731673678,
-      "bolasRestantes": 0,
-      "timestamp": "2026-05-29T20:23:38.368Z"
     }
   ],
   "mataMataAtivo": null
