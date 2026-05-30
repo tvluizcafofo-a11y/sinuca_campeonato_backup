@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T03:20:18.116Z",
+  "timestamp": "2026-05-30T03:20:37.378Z",
   "titulo": "🎱 II Campeonato de Sinuca Lekão 2026",
   "jogadores": [
     {
@@ -20,8 +20,8 @@
     {
       "id": 1779731699551,
       "nome": "Juninho",
-      "pontos": 2,
-      "vitorias": 2,
+      "pontos": 3,
+      "vitorias": 3,
       "creditoBolas": 0
     },
     {
@@ -97,9 +97,9 @@
     {
       "id": 1779731667044,
       "nome": "Andre",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 3
     },
     {
       "id": 1779731706685,
@@ -193,8 +193,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731667712,
       "jogadorBId": 1779731699551,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731699551,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -202,9 +202,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731673678,
       "jogadorBId": 1779731667044,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731667044,
+      "realizado": true,
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1780088883661_1_1779731673678_1779731636341_0.3228868573374536",
@@ -410,6 +410,26 @@
       "vencedorId": 1779731699551,
       "bolasRestantes": 0,
       "timestamp": "2026-05-30T03:06:11.652Z"
+    },
+    {
+      "id": 1780111200405,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731667712,
+      "jogadorBId": 1779731699551,
+      "vencedorId": 1779731699551,
+      "bolasRestantes": 0,
+      "timestamp": "2026-05-30T03:20:00.405Z"
+    },
+    {
+      "id": 1780111222416,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731673678,
+      "jogadorBId": 1779731667044,
+      "vencedorId": 1779731667044,
+      "bolasRestantes": 3,
+      "timestamp": "2026-05-30T03:20:22.417Z"
     }
   ],
   "mataMataAtivo": null
