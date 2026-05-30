@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T12:33:39.168Z",
+  "timestamp": "2026-05-30T12:34:09.168Z",
   "titulo": "🎱 I Campeonato de Sinuca do Lulu",
   "jogadores": [
     {
@@ -27,9 +27,9 @@
     {
       "id": 1779731637329,
       "nome": "Cassio",
-      "pontos": 1,
-      "vitorias": 1,
-      "creditoBolas": 2
+      "pontos": 2,
+      "vitorias": 2,
+      "creditoBolas": 5
     },
     {
       "id": 1779731636341,
@@ -355,9 +355,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731677633,
       "jogadorBId": 1779731637329,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731637329,
+      "realizado": true,
+      "bolasRestantes": 3
     }
   ],
   "partidasHist": [
@@ -590,6 +590,16 @@
       "vencedorId": 1779731675145,
       "bolasRestantes": 3,
       "timestamp": "2026-05-30T12:23:46.135Z"
+    },
+    {
+      "id": 1780144445311,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731677633,
+      "jogadorBId": 1779731637329,
+      "vencedorId": 1779731637329,
+      "bolasRestantes": 3,
+      "timestamp": "2026-05-30T12:34:05.311Z"
     }
   ],
   "mataMataAtivo": null
