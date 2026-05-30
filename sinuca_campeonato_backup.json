@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T13:25:35.790Z",
+  "timestamp": "2026-05-30T13:26:04.826Z",
   "titulo": "🎱 I Campeonato de Sinuca do Lulu",
   "jogadores": [
     {
@@ -640,21 +640,34 @@
       "jogadorBId": 1779731659091,
       "vencedorId": 1779731659091,
       "timestamp": "2026-05-30T12:49:39.111Z"
+    },
+    {
+      "id": 1780147544047,
+      "tipo": "mata",
+      "fase": "Semi-Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731667044,
+      "jogadorBId": 1779731659091,
+      "vencedorId": 1779731659091,
+      "timestamp": "2026-05-30T13:25:44.048Z"
+    },
+    {
+      "id": 1780147548905,
+      "tipo": "mata",
+      "fase": "Quartas de Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731673128,
+      "vencedorId": 1779731633065,
+      "timestamp": "2026-05-30T13:25:48.905Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_1780145379115_0",
-        "jogadorAId": 1779731667044,
-        "jogadorBId": 1779731659091,
-        "vencedorId": null,
-        "finalizado": false
-      },
-      {
-        "id": "mata_1780145379115_1",
+        "id": "mata_1780147548907_0",
         "jogadorAId": 1779731633065,
-        "jogadorBId": 1779731673128,
+        "jogadorBId": 1779731659091,
         "vencedorId": null,
         "finalizado": false
       }
