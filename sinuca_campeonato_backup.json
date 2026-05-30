@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T03:06:03.125Z",
+  "timestamp": "2026-05-30T03:06:53.427Z",
   "titulo": "🎱 II Campeonato de Sinuca Lekão 2026",
   "jogadores": [
     {
@@ -20,8 +20,8 @@
     {
       "id": 1779731699551,
       "nome": "Juninho",
-      "pontos": 1,
-      "vitorias": 1,
+      "pontos": 2,
+      "vitorias": 2,
       "creditoBolas": 0
     },
     {
@@ -184,8 +184,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731706685,
       "jogadorBId": 1779731699551,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731699551,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -400,6 +400,16 @@
       "vencedorId": 1779731667712,
       "bolasRestantes": 0,
       "timestamp": "2026-05-29T22:15:12.160Z"
+    },
+    {
+      "id": 1780110371652,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731706685,
+      "jogadorBId": 1779731699551,
+      "vencedorId": 1779731699551,
+      "bolasRestantes": 0,
+      "timestamp": "2026-05-30T03:06:11.652Z"
     }
   ],
   "mataMataAtivo": null
