@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T12:09:59.149Z",
+  "timestamp": "2026-05-30T12:10:29.149Z",
   "titulo": "🎱 I Campeonato de Sinuca do Lulu",
   "jogadores": [
     {
@@ -13,9 +13,9 @@
     {
       "id": 1779731648820,
       "nome": "Tulinho",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731699551,
@@ -301,9 +301,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731648820,
       "jogadorBId": 1779731659091,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731648820,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780088883661_3_1779731705216_1779731675145_0.5236909745841025",
@@ -530,6 +530,16 @@
       "vencedorId": 1779731659091,
       "bolasRestantes": 2,
       "timestamp": "2026-05-30T12:09:45.884Z"
+    },
+    {
+      "id": 1780143016997,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731648820,
+      "jogadorBId": 1779731659091,
+      "vencedorId": 1779731648820,
+      "bolasRestantes": 2,
+      "timestamp": "2026-05-30T12:10:16.997Z"
     }
   ],
   "mataMataAtivo": null
