@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T12:02:54.730Z",
+  "timestamp": "2026-05-30T12:03:24.664Z",
   "titulo": "🎱 I Campeonato de Sinuca do Lulu",
   "jogadores": [
     {
@@ -97,9 +97,9 @@
     {
       "id": 1779731667044,
       "nome": "Andre",
-      "pontos": 2,
-      "vitorias": 2,
-      "creditoBolas": 10
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 3
     },
     {
       "id": 1779731706685,
@@ -238,9 +238,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731667044,
       "jogadorBId": 1779731673128,
-      "vencedorId": 1779731667044,
-      "realizado": true,
-      "bolasRestantes": 7
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
     },
     {
       "id": "conf_1780088883661_1_1779731636341_1779731673128_0.36402554964580647",
@@ -470,16 +470,6 @@
       "vencedorId": 1779731633065,
       "bolasRestantes": 5,
       "timestamp": "2026-05-30T03:37:28.052Z"
-    },
-    {
-      "id": 1780142533768,
-      "tipo": "grupo",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731667044,
-      "jogadorBId": 1779731673128,
-      "vencedorId": 1779731667044,
-      "bolasRestantes": 7,
-      "timestamp": "2026-05-30T12:02:13.768Z"
     }
   ],
   "mataMataAtivo": null
