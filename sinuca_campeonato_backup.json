@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T15:30:03.697Z",
+  "timestamp": "2026-05-30T15:34:17.853Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -602,5 +602,39 @@
       "timestamp": "2026-05-30T15:27:17.239Z"
     }
   ],
-  "mataMataAtivo": null
+  "mataMataAtivo": {
+    "confrontosAtuais": [
+      {
+        "id": "mata_1780155245294_0_1_1",
+        "jogadorAId": 1779731633065,
+        "jogadorBId": 1779731673128,
+        "vencedorId": null,
+        "finalizado": false
+      },
+      {
+        "id": "mata_1780155245294_1_0_2",
+        "jogadorAId": 1779731706685,
+        "jogadorBId": 1779731677633,
+        "vencedorId": null,
+        "finalizado": false
+      },
+      {
+        "id": "mata_1780155245294_2_3_1",
+        "jogadorAId": 1779731667712,
+        "jogadorBId": 1779731637329,
+        "vencedorId": null,
+        "finalizado": false
+      },
+      {
+        "id": "mata_1780155245294_3_2_2",
+        "jogadorAId": 1779731636341,
+        "jogadorBId": 1779731667044,
+        "vencedorId": null,
+        "finalizado": false
+      }
+    ],
+    "participantesProximaRodada": [],
+    "campeaoId": null,
+    "finalizado": false
+  }
 }
