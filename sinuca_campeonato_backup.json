@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T15:23:16.958Z",
+  "timestamp": "2026-05-30T15:23:46.958Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -55,16 +55,16 @@
     {
       "id": 1779731659091,
       "nome": "Rodrigo Digao",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731673128,
       "nome": "Ernani",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731667712,
@@ -104,9 +104,9 @@
     {
       "id": 1779731706685,
       "nome": "Carlao",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 1
     },
     {
       "id": 1779731675145,
@@ -202,27 +202,27 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731659091,
       "jogadorBId": 1779731705593,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731659091,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780153954496_1_1779731659091_1779731673128_0.4033288277768595",
       "grupoIndex": 1,
       "jogadorAId": 1779731659091,
       "jogadorBId": 1779731673128,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731673128,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780153954496_1_1779731659091_1779731706685_0.48981187975822005",
       "grupoIndex": 1,
       "jogadorAId": 1779731659091,
       "jogadorBId": 1779731706685,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731706685,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780153954496_1_1779731705593_1779731673128_0.9402798575147258",
@@ -420,6 +420,36 @@
       "vencedorId": 1779731699551,
       "bolasRestantes": 3,
       "timestamp": "2026-05-30T15:23:07.604Z"
+    },
+    {
+      "id": 1780154599774,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731659091,
+      "jogadorBId": 1779731705593,
+      "vencedorId": 1779731659091,
+      "bolasRestantes": 2,
+      "timestamp": "2026-05-30T15:23:19.774Z"
+    },
+    {
+      "id": 1780154606719,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731659091,
+      "jogadorBId": 1779731673128,
+      "vencedorId": 1779731673128,
+      "bolasRestantes": 2,
+      "timestamp": "2026-05-30T15:23:26.719Z"
+    },
+    {
+      "id": 1780154614522,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731659091,
+      "jogadorBId": 1779731706685,
+      "vencedorId": 1779731706685,
+      "bolasRestantes": 1,
+      "timestamp": "2026-05-30T15:23:34.522Z"
     }
   ],
   "mataMataAtivo": null
