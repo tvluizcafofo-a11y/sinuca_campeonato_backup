@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T00:37:58.540Z",
+  "timestamp": "2026-05-30T00:34:01.923Z",
   "titulo": "🎱 II Campeonato de Sinuca Lekão 2026",
   "jogadores": [
     {
@@ -20,9 +20,9 @@
     {
       "id": 1779731699551,
       "nome": "Juninho",
-      "pontos": 2,
-      "vitorias": 2,
-      "creditoBolas": 1
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 0
     },
     {
       "id": 1779731637329,
@@ -69,8 +69,8 @@
     {
       "id": 1779731667712,
       "nome": "Saulinho",
-      "pontos": 3,
-      "vitorias": 3,
+      "pontos": 2,
+      "vitorias": 2,
       "creditoBolas": 2
     },
     {
@@ -97,8 +97,8 @@
     {
       "id": 1779731667044,
       "nome": "Andre",
-      "pontos": 1,
-      "vitorias": 1,
+      "pontos": 0,
+      "vitorias": 0,
       "creditoBolas": 0
     },
     {
@@ -184,17 +184,17 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731706685,
       "jogadorBId": 1779731699551,
-      "vencedorId": 1779731699551,
-      "realizado": true,
-      "bolasRestantes": 1
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
     },
     {
       "id": "conf_1780088883661_0_1779731667712_1779731699551_0.8411603178963026",
       "grupoIndex": 0,
       "jogadorAId": 1779731667712,
       "jogadorBId": 1779731699551,
-      "vencedorId": 1779731667712,
-      "realizado": true,
+      "vencedorId": null,
+      "realizado": false,
       "bolasRestantes": 0
     },
     {
@@ -202,8 +202,8 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731673678,
       "jogadorBId": 1779731667044,
-      "vencedorId": 1779731667044,
-      "realizado": true,
+      "vencedorId": null,
+      "realizado": false,
       "bolasRestantes": 0
     },
     {
@@ -400,36 +400,6 @@
       "vencedorId": 1779731667712,
       "bolasRestantes": 0,
       "timestamp": "2026-05-29T22:15:12.160Z"
-    },
-    {
-      "id": 1780101263520,
-      "tipo": "grupo",
-      "grupoIndex": 0,
-      "jogadorAId": 1779731706685,
-      "jogadorBId": 1779731699551,
-      "vencedorId": 1779731699551,
-      "bolasRestantes": 1,
-      "timestamp": "2026-05-30T00:34:23.520Z"
-    },
-    {
-      "id": 1780101338951,
-      "tipo": "grupo",
-      "grupoIndex": 0,
-      "jogadorAId": 1779731667712,
-      "jogadorBId": 1779731699551,
-      "vencedorId": 1779731667712,
-      "bolasRestantes": 0,
-      "timestamp": "2026-05-30T00:35:38.951Z"
-    },
-    {
-      "id": 1780101433912,
-      "tipo": "grupo",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731673678,
-      "jogadorBId": 1779731667044,
-      "vencedorId": 1779731667044,
-      "bolasRestantes": 0,
-      "timestamp": "2026-05-30T00:37:13.912Z"
     }
   ],
   "mataMataAtivo": null
