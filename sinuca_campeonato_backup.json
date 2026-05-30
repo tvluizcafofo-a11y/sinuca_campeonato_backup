@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T12:09:29.151Z",
+  "timestamp": "2026-05-30T12:09:59.149Z",
   "titulo": "🎱 I Campeonato de Sinuca do Lulu",
   "jogadores": [
     {
@@ -55,9 +55,9 @@
     {
       "id": 1779731659091,
       "nome": "Rodrigo Digao",
-      "pontos": 1,
-      "vitorias": 1,
-      "creditoBolas": 2
+      "pontos": 2,
+      "vitorias": 2,
+      "creditoBolas": 4
     },
     {
       "id": 1779731673128,
@@ -83,9 +83,9 @@
     {
       "id": 1779731705593,
       "nome": "Rodrigo Moraes",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731673678,
@@ -283,18 +283,18 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731705593,
       "jogadorBId": 1779731648820,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731705593,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780088883661_2_1779731705593_1779731659091_0.011871467401109448",
       "grupoIndex": 2,
       "jogadorAId": 1779731705593,
       "jogadorBId": 1779731659091,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731659091,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780088883661_2_1779731648820_1779731659091_0.23682439621955842",
@@ -510,6 +510,26 @@
       "vencedorId": 1779731659091,
       "bolasRestantes": 2,
       "timestamp": "2026-05-30T12:09:16.082Z"
+    },
+    {
+      "id": 1780142975427,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731705593,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731705593,
+      "bolasRestantes": 2,
+      "timestamp": "2026-05-30T12:09:35.427Z"
+    },
+    {
+      "id": 1780142985884,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731705593,
+      "jogadorBId": 1779731659091,
+      "vencedorId": 1779731659091,
+      "bolasRestantes": 2,
+      "timestamp": "2026-05-30T12:09:45.884Z"
     }
   ],
   "mataMataAtivo": null
