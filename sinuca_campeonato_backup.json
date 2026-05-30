@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T00:35:28.539Z",
+  "timestamp": "2026-05-30T00:35:58.542Z",
   "titulo": "🎱 II Campeonato de Sinuca Lekão 2026",
   "jogadores": [
     {
@@ -69,8 +69,8 @@
     {
       "id": 1779731667712,
       "nome": "Saulinho",
-      "pontos": 2,
-      "vitorias": 2,
+      "pontos": 3,
+      "vitorias": 3,
       "creditoBolas": 2
     },
     {
@@ -193,8 +193,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731667712,
       "jogadorBId": 1779731699551,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731667712,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -410,6 +410,16 @@
       "vencedorId": 1779731699551,
       "bolasRestantes": 1,
       "timestamp": "2026-05-30T00:34:23.520Z"
+    },
+    {
+      "id": 1780101338951,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731667712,
+      "jogadorBId": 1779731699551,
+      "vencedorId": 1779731667712,
+      "bolasRestantes": 0,
+      "timestamp": "2026-05-30T00:35:38.951Z"
     }
   ],
   "mataMataAtivo": null
