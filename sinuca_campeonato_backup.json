@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T03:26:30.863Z",
+  "timestamp": "2026-05-30T03:37:10.499Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -34,9 +34,9 @@
     {
       "id": 1779731636341,
       "nome": "Plinio",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 5
     },
     {
       "id": 1779731635399,
@@ -62,8 +62,8 @@
     {
       "id": 1779731673128,
       "nome": "Ernani",
-      "pontos": 0,
-      "vitorias": 0,
+      "pontos": 1,
+      "vitorias": 1,
       "creditoBolas": 0
     },
     {
@@ -211,17 +211,17 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731673678,
       "jogadorBId": 1779731636341,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731636341,
+      "realizado": true,
+      "bolasRestantes": 5
     },
     {
       "id": "conf_1780088883661_1_1779731673678_1779731673128_0.8003810866310862",
       "grupoIndex": 1,
       "jogadorAId": 1779731673678,
       "jogadorBId": 1779731673128,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731673128,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -430,6 +430,26 @@
       "vencedorId": 1779731667044,
       "bolasRestantes": 3,
       "timestamp": "2026-05-30T03:20:22.417Z"
+    },
+    {
+      "id": 1780111485665,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731673678,
+      "jogadorBId": 1779731636341,
+      "vencedorId": 1779731636341,
+      "bolasRestantes": 5,
+      "timestamp": "2026-05-30T03:24:45.665Z"
+    },
+    {
+      "id": 1780112223563,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731673678,
+      "jogadorBId": 1779731673128,
+      "vencedorId": 1779731673128,
+      "bolasRestantes": 0,
+      "timestamp": "2026-05-30T03:37:03.563Z"
     }
   ],
   "mataMataAtivo": null
