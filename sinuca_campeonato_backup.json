@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-30T15:43:17.394Z",
+  "timestamp": "2026-05-30T15:43:20.716Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -600,61 +600,35 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 1,
       "timestamp": "2026-05-30T15:27:17.239Z"
-    },
-    {
-      "id": 1780155780764,
-      "tipo": "mata",
-      "fase": "Quartas de Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731673128,
-      "vencedorId": 1779731633065,
-      "timestamp": "2026-05-30T15:43:00.764Z"
-    },
-    {
-      "id": 1780155785749,
-      "tipo": "mata",
-      "fase": "Oitavas de Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731706685,
-      "jogadorBId": 1779731677633,
-      "vencedorId": 1779731706685,
-      "timestamp": "2026-05-30T15:43:05.749Z"
-    },
-    {
-      "id": 1780155789103,
-      "tipo": "mata",
-      "fase": "Oitavas de Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731667712,
-      "jogadorBId": 1779731637329,
-      "vencedorId": 1779731637329,
-      "timestamp": "2026-05-30T15:43:09.103Z"
-    },
-    {
-      "id": 1780155793580,
-      "tipo": "mata",
-      "fase": "Oitavas de Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731636341,
-      "jogadorBId": 1779731667044,
-      "vencedorId": 1779731636341,
-      "timestamp": "2026-05-30T15:43:13.580Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_1780155793581_0",
-        "jogadorAId": 1779731636341,
+        "id": "mata_1780155245294_0_1_1",
+        "jogadorAId": 1779731633065,
+        "jogadorBId": 1779731673128,
+        "vencedorId": null,
+        "finalizado": false
+      },
+      {
+        "id": "mata_1780155245294_1_0_2",
+        "jogadorAId": 1779731706685,
+        "jogadorBId": 1779731677633,
+        "vencedorId": null,
+        "finalizado": false
+      },
+      {
+        "id": "mata_1780155245294_2_3_1",
+        "jogadorAId": 1779731667712,
         "jogadorBId": 1779731637329,
         "vencedorId": null,
         "finalizado": false
       },
       {
-        "id": "mata_1780155793581_1",
-        "jogadorAId": 1779731633065,
-        "jogadorBId": 1779731706685,
+        "id": "mata_1780155245294_3_2_2",
+        "jogadorAId": 1779731636341,
+        "jogadorBId": 1779731667044,
         "vencedorId": null,
         "finalizado": false
       }
