@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-31T15:46:27.087Z",
+  "timestamp": "2026-05-31T15:46:34.004Z",
   "titulo": "🎱 30.06 Campeonato de Sinuca",
   "jogadores": [
     {
@@ -630,45 +630,54 @@
       "jogadorBId": 1779731705216,
       "vencedorId": 1779731633065,
       "timestamp": "2026-05-30T19:05:14.368Z"
+    },
+    {
+      "id": 1780234803126,
+      "tipo": "mata",
+      "fase": "Oitavas de Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731636341,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731636341,
+      "timestamp": "2026-05-31T13:40:03.126Z"
+    },
+    {
+      "id": 1780234815111,
+      "tipo": "mata",
+      "fase": "Semi-Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731699551,
+      "vencedorId": 1779731633065,
+      "timestamp": "2026-05-31T13:40:15.111Z"
+    },
+    {
+      "id": 1780234824063,
+      "tipo": "mata",
+      "fase": "Quartas de Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731636341,
+      "vencedorId": 1779731673128,
+      "timestamp": "2026-05-31T13:40:24.063Z"
+    },
+    {
+      "id": 1780242220263,
+      "tipo": "mata",
+      "fase": "Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731673128,
+      "vencedorId": 1779731633065,
+      "timestamp": "2026-05-31T15:43:40.263Z"
     }
   ],
   "mataMataAtivo": {
-    "confrontosAtuais": [
-      {
-        "id": "mata_1780167742957_0_1_1",
-        "jogadorAId": 1779731673128,
-        "jogadorBId": 1779731705593,
-        "vencedorId": 1779731673128,
-        "finalizado": true
-      },
-      {
-        "id": "mata_1780167742957_1_0_2",
-        "jogadorAId": 1779731699551,
-        "jogadorBId": 1779731637329,
-        "vencedorId": 1779731699551,
-        "finalizado": true
-      },
-      {
-        "id": "mata_1780167742957_2_3_1",
-        "jogadorAId": 1779731633065,
-        "jogadorBId": 1779731705216,
-        "vencedorId": 1779731633065,
-        "finalizado": true
-      },
-      {
-        "id": "mata_1780167742957_3_2_2",
-        "jogadorAId": 1779731636341,
-        "jogadorBId": 1779731648820,
-        "vencedorId": null,
-        "finalizado": false
-      }
-    ],
+    "confrontosAtuais": [],
     "participantesProximaRodada": [
-      1779731673128,
-      1779731699551,
       1779731633065
     ],
-    "campeaoId": null,
-    "finalizado": false
+    "campeaoId": 1779731633065,
+    "finalizado": true
   }
 }
