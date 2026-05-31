@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-31T17:55:50.695Z",
+  "timestamp": "2026-05-31T17:57:17.120Z",
   "titulo": "🎱 30.06 Campeonato de Sinuca",
   "jogadores": [
     {
@@ -602,66 +602,50 @@
       "timestamp": "2026-05-31T17:46:36.029Z"
     },
     {
-      "id": 1780250132495,
+      "id": 1780250237118,
       "tipo": "mata",
       "fase": "Quartas de Final",
       "rodada": "eliminatória",
       "jogadorAId": 1779731677633,
       "jogadorBId": 1779731706685,
       "vencedorId": 1779731677633,
-      "timestamp": "2026-05-31T17:55:32.495Z"
-    },
-    {
-      "id": 1780250141102,
-      "tipo": "mata",
-      "fase": "Oitavas de Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731659091,
-      "jogadorBId": 1779731673678,
-      "vencedorId": 1779731659091,
-      "timestamp": "2026-05-31T17:55:41.102Z"
-    },
-    {
-      "id": 1780250146742,
-      "tipo": "mata",
-      "fase": "Oitavas de Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731705216,
-      "jogadorBId": 1779731705593,
-      "vencedorId": 1779731705216,
-      "timestamp": "2026-05-31T17:55:46.742Z"
-    },
-    {
-      "id": 1780250150694,
-      "tipo": "mata",
-      "fase": "Oitavas de Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731699551,
-      "vencedorId": 1779731633065,
-      "timestamp": "2026-05-31T17:55:50.694Z"
+      "timestamp": "2026-05-31T17:57:17.118Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_1780250150695_0",
+        "id": "mata_1780249627483_0_1_1",
         "jogadorAId": 1779731677633,
-        "jogadorBId": 1779731705216,
-        "vencedorId": null,
-        "finalizado": false,
-        "fase": "Semi-Final"
+        "jogadorBId": 1779731706685,
+        "vencedorId": 1779731677633,
+        "finalizado": true
       },
       {
-        "id": "mata_1780250150695_1",
-        "jogadorAId": 1779731633065,
-        "jogadorBId": 1779731659091,
+        "id": "mata_1780249627483_1_0_2",
+        "jogadorAId": 1779731659091,
+        "jogadorBId": 1779731673678,
         "vencedorId": null,
-        "finalizado": false,
-        "fase": "Semi-Final"
+        "finalizado": false
+      },
+      {
+        "id": "mata_1780249627483_2_3_1",
+        "jogadorAId": 1779731705216,
+        "jogadorBId": 1779731705593,
+        "vencedorId": null,
+        "finalizado": false
+      },
+      {
+        "id": "mata_1780249627483_3_2_2",
+        "jogadorAId": 1779731633065,
+        "jogadorBId": 1779731699551,
+        "vencedorId": null,
+        "finalizado": false
       }
     ],
-    "participantesProximaRodada": [],
+    "participantesProximaRodada": [
+      1779731677633
+    ],
     "campeaoId": null,
     "finalizado": false,
     "faseAtual": "Quartas de Final"
