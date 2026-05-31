@@ -1,0 +1,130 @@
+{
+  "grupos": {
+    "Grupo A": [
+      {
+        "jogador1": "Ralf Oliveira",
+        "jogador2": "Mário Souza",
+        "placar1": 3,
+        "placar2": 1
+      },
+      {
+        "jogador1": "Cadu Dias",
+        "jogador2": "Pedro Mattos",
+        "placar1": 2,
+        "placar2": 2
+      },
+      {
+        "jogador1": "Ralf Oliveira",
+        "jogador2": "Cadu Dias",
+        "placar1": null,
+        "placar2": null
+      },
+      {
+        "jogador1": "Mário Souza",
+        "jogador2": "Pedro Mattos",
+        "placar1": null,
+        "placar2": null
+      }
+    ],
+    "Grupo B": [
+      {
+        "jogador1": "Lucas Almeida",
+        "jogador2": "Thiago Nunes",
+        "placar1": 1,
+        "placar2": 3
+      },
+      {
+        "jogador1": "Fernanda Rios",
+        "jogador2": "Carlos Mendez",
+        "placar1": 2,
+        "placar2": 2
+      },
+      {
+        "jogador1": "Lucas Almeida",
+        "jogador2": "Fernanda Rios",
+        "placar1": null,
+        "placar2": null
+      },
+      {
+        "jogador1": "Thiago Nunes",
+        "jogador2": "Carlos Mendez",
+        "placar1": null,
+        "placar2": null
+      }
+    ]
+  },
+  "oitavas": [
+    {
+      "jogador1": "1º Grupo A",
+      "jogador2": "2º Grupo B",
+      "placar1": null,
+      "placar2": null
+    },
+    {
+      "jogador1": "1º Grupo B",
+      "jogador2": "2º Grupo A",
+      "placar1": null,
+      "placar2": null
+    },
+    {
+      "jogador1": "Melhor 3º",
+      "jogador2": "Vice líder C",
+      "placar1": null,
+      "placar2": null
+    },
+    {
+      "jogador1": "Líder C",
+      "jogador2": "2º Melhor 3º",
+      "placar1": null,
+      "placar2": null
+    }
+  ],
+  "quartas": [
+    {
+      "jogador1": "Vencedor OIT1",
+      "jogador2": "Vencedor OIT2",
+      "placar1": null,
+      "placar2": null
+    },
+    {
+      "jogador1": "Vencedor OIT3",
+      "jogador2": "Vencedor OIT4",
+      "placar1": null,
+      "placar2": null
+    },
+    {
+      "jogador1": "Vencedor OIT5",
+      "jogador2": "Vencedor OIT6",
+      "placar1": null,
+      "placar2": null
+    },
+    {
+      "jogador1": "Vencedor OIT7",
+      "jogador2": "Vencedor OIT8",
+      "placar1": null,
+      "placar2": null
+    }
+  ],
+  "semi": [
+    {
+      "jogador1": "Quartas 1 Vencedor",
+      "jogador2": "Quartas 2 Vencedor",
+      "placar1": null,
+      "placar2": null
+    },
+    {
+      "jogador1": "Quartas 3 Vencedor",
+      "jogador2": "Quartas 4 Vencedor",
+      "placar1": null,
+      "placar2": null
+    }
+  ],
+  "final": [
+    {
+      "jogador1": "Vencedor Semi 1",
+      "jogador2": "Vencedor Semi 2",
+      "placar1": null,
+      "placar2": null
+    }
+  ]
+}
