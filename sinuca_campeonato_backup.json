@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-05-31T18:41:51.603Z",
+  "timestamp": "2026-05-31T18:42:00.233Z",
   "titulo": "🎱 30.06 Campeonato de Sinuca",
   "jogadores": [
     {
@@ -13,9 +13,9 @@
     {
       "id": 1779731648820,
       "nome": "Tulinho",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731699551,
@@ -274,9 +274,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731648820,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731648820,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780252316524_2_1779731675145_1779731637329_0.06527279754980875",
@@ -500,6 +500,16 @@
       "vencedorId": 1779731637329,
       "bolasRestantes": 3,
       "timestamp": "2026-05-31T18:41:51.603Z"
+    },
+    {
+      "id": 1780252920233,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731648820,
+      "bolasRestantes": 2,
+      "timestamp": "2026-05-31T18:42:00.233Z"
     }
   ],
   "mataMataAtivo": null
