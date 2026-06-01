@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-01T22:13:08.846Z",
+  "timestamp": "2026-06-01T22:13:18.004Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -104,9 +104,9 @@
     {
       "id": 1779731706685,
       "nome": "Carlao",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 3
     },
     {
       "id": 1779731675145,
@@ -283,9 +283,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731706685,
       "jogadorBId": 1779731667712,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731706685,
+      "realizado": true,
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1780351298660_2_1779731706685_1779731635399_0.9276649377291747",
@@ -510,6 +510,16 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 1,
       "timestamp": "2026-06-01T22:13:08.845Z"
+    },
+    {
+      "id": 1780351998003,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731706685,
+      "jogadorBId": 1779731667712,
+      "vencedorId": 1779731706685,
+      "bolasRestantes": 3,
+      "timestamp": "2026-06-01T22:13:18.003Z"
     }
   ],
   "mataMataAtivo": null
