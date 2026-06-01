@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-01T22:09:56.298Z",
+  "timestamp": "2026-06-01T22:10:03.846Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -27,9 +27,9 @@
     {
       "id": 1779731637329,
       "nome": "Cassio",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 1
     },
     {
       "id": 1779731636341,
@@ -184,9 +184,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731675145,
       "jogadorBId": 1779731637329,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731637329,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780351298660_0_1779731673678_1779731637329_0.8973476976505389",
@@ -450,6 +450,16 @@
       "vencedorId": 1779731675145,
       "bolasRestantes": 1,
       "timestamp": "2026-06-01T22:09:56.298Z"
+    },
+    {
+      "id": 1780351803846,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731675145,
+      "jogadorBId": 1779731637329,
+      "vencedorId": 1779731637329,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-01T22:10:03.846Z"
     }
   ],
   "mataMataAtivo": null
