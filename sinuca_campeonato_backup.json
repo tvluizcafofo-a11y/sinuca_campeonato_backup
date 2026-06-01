@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-01T17:27:28.889Z",
+  "timestamp": "2026-06-01T17:28:15.002Z",
   "titulo": "🎱 Campeonato de Sinuca",
   "jogadores": [
     {
@@ -48,9 +48,9 @@
     {
       "id": 1779731633065,
       "nome": "Luiz",
-      "pontos": 1,
-      "vitorias": 1,
-      "creditoBolas": 2
+      "pontos": 2,
+      "vitorias": 2,
+      "creditoBolas": 7
     },
     {
       "id": 1779731659091,
@@ -328,9 +328,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731633065,
       "jogadorBId": 1779731648820,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731633065,
+      "realizado": true,
+      "bolasRestantes": 5
     },
     {
       "id": "conf_1780333487873_3_1779731675145_1779731636341_0.797346089333162",
@@ -560,6 +560,16 @@
       "vencedorId": 1779731667044,
       "bolasRestantes": 5,
       "timestamp": "2026-06-01T17:27:28.887Z"
+    },
+    {
+      "id": 1780334895002,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731633065,
+      "bolasRestantes": 5,
+      "timestamp": "2026-06-01T17:28:15.002Z"
     }
   ],
   "mataMataAtivo": null
