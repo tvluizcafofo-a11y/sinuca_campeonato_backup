@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-01T22:03:52.957Z",
+  "timestamp": "2026-06-01T22:04:00.160Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -48,9 +48,9 @@
     {
       "id": 1779731633065,
       "nome": "Luiz",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731659091,
@@ -202,9 +202,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731633065,
       "jogadorBId": 1779731699551,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731633065,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780351298660_1_1779731633065_1779731705216_0.148390084284848",
@@ -370,6 +370,16 @@
       "vencedorId": 1779731667044,
       "bolasRestantes": 1,
       "timestamp": "2026-06-01T22:03:52.957Z"
+    },
+    {
+      "id": 1780351440160,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731699551,
+      "vencedorId": 1779731633065,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-01T22:04:00.160Z"
     }
   ],
   "mataMataAtivo": null
