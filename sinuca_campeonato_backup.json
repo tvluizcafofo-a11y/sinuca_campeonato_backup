@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-01T14:37:22.880Z",
+  "timestamp": "2026-06-01T14:37:32.400Z",
   "titulo": "🎱 Campeonato de Sinuca",
   "jogadores": [
     {
@@ -55,9 +55,9 @@
     {
       "id": 1779731659091,
       "nome": "Rodrigo Digao",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 1
     },
     {
       "id": 1779731673128,
@@ -193,9 +193,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731659091,
       "jogadorBId": 1779731705216,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731659091,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780296024272_1_1779731648820_1779731706685_0.9453094941860858",
@@ -410,6 +410,16 @@
       "vencedorId": 1779731705216,
       "bolasRestantes": 2,
       "timestamp": "2026-06-01T14:37:22.880Z"
+    },
+    {
+      "id": 1780324652399,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731659091,
+      "jogadorBId": 1779731705216,
+      "vencedorId": 1779731659091,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-01T14:37:32.399Z"
     }
   ],
   "mataMataAtivo": null
