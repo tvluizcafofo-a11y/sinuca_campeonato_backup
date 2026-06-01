@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-01T17:16:22.225Z",
+  "timestamp": "2026-06-01T17:18:53.750Z",
   "titulo": "🎱 Campeonato de Sinuca",
   "jogadores": [
     {
@@ -62,9 +62,9 @@
     {
       "id": 1779731673128,
       "nome": "Ernani",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 4
     },
     {
       "id": 1779731667712,
@@ -256,9 +256,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731705216,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731673128,
+      "realizado": true,
+      "bolasRestantes": 4
     },
     {
       "id": "conf_1780333487873_2_1779731673128_1779731677633_0.9801678702866042",
@@ -400,6 +400,16 @@
       "vencedorId": 1779731667044,
       "bolasRestantes": 2,
       "timestamp": "2026-06-01T17:16:22.224Z"
+    },
+    {
+      "id": 1780334333750,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731705216,
+      "vencedorId": 1779731673128,
+      "bolasRestantes": 4,
+      "timestamp": "2026-06-01T17:18:53.750Z"
     }
   ],
   "mataMataAtivo": null
