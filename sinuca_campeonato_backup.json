@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-01T17:25:00.562Z",
+  "timestamp": "2026-06-01T17:25:13.963Z",
   "titulo": "🎱 Campeonato de Sinuca",
   "jogadores": [
     {
@@ -20,9 +20,9 @@
     {
       "id": 1779731699551,
       "nome": "Juninho",
-      "pontos": 1,
-      "vitorias": 1,
-      "creditoBolas": 1
+      "pontos": 2,
+      "vitorias": 2,
+      "creditoBolas": 3
     },
     {
       "id": 1779731637329,
@@ -247,9 +247,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731699551,
       "jogadorBId": 1779731659091,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731699551,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780333487873_2_1779731673128_1779731705216_0.4771936377639404",
@@ -510,6 +510,16 @@
       "vencedorId": 1779731659091,
       "bolasRestantes": 3,
       "timestamp": "2026-06-01T17:25:00.562Z"
+    },
+    {
+      "id": 1780334713962,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731699551,
+      "jogadorBId": 1779731659091,
+      "vencedorId": 1779731699551,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-01T17:25:13.962Z"
     }
   ],
   "mataMataAtivo": null
