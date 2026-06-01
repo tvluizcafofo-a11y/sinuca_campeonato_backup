@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-01T14:41:39.249Z",
+  "timestamp": "2026-06-01T14:41:58.703Z",
   "titulo": "🎱 Campeonato de Sinuca",
   "jogadores": [
     {
@@ -111,9 +111,9 @@
     {
       "id": 1779731675145,
       "nome": "Wilson",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 1
     }
   ],
   "gruposSalvos": [
@@ -220,9 +220,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731648820,
       "jogadorBId": 1779731675145,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731675145,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780296024272_1_1779731706685_1779731673678_0.3302983152382414",
@@ -440,6 +440,16 @@
       "vencedorId": 1779731673678,
       "bolasRestantes": 2,
       "timestamp": "2026-06-01T14:41:39.249Z"
+    },
+    {
+      "id": 1780324918702,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731648820,
+      "jogadorBId": 1779731675145,
+      "vencedorId": 1779731675145,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-01T14:41:58.702Z"
     }
   ],
   "mataMataAtivo": null
