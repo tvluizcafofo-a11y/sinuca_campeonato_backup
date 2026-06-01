@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-01T21:17:59.462Z",
+  "timestamp": "2026-06-01T21:18:07.477Z",
   "titulo": "🎱 Campeonato de Sinuca",
   "jogadores": [
     {
@@ -90,9 +90,9 @@
     {
       "id": 1779731673678,
       "nome": "Felipe Lekao",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 3
     },
     {
       "id": 1779731667044,
@@ -337,9 +337,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731673678,
       "jogadorBId": 1779731667712,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731673678,
+      "realizado": true,
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1780252000797_3_1779731673678_1779731667044_0.15001244336380148",
@@ -570,6 +570,16 @@
       "vencedorId": 1779731667712,
       "bolasRestantes": 0,
       "timestamp": "2026-06-01T21:17:59.462Z"
+    },
+    {
+      "id": 1780348687477,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731673678,
+      "jogadorBId": 1779731667712,
+      "vencedorId": 1779731673678,
+      "bolasRestantes": 3,
+      "timestamp": "2026-06-01T21:18:07.477Z"
     }
   ],
   "mataMataAtivo": null
