@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:21:12.871Z",
+  "timestamp": "2026-06-02T00:31:48.145Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -202,9 +202,9 @@
     {
       "id": 1780359352386,
       "nome": "Joao",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 1
     },
     {
       "id": 1780359362562,
@@ -446,9 +446,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1780359352386,
       "jogadorBId": 1780359362562,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359352386,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780359672846_3_1780359352386_1779731633065_0.12356858347218636",
@@ -712,6 +712,17 @@
       "bolasRestantes": 0
     }
   ],
-  "partidasHist": [],
+  "partidasHist": [
+    {
+      "id": 1780360308143,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1780359352386,
+      "jogadorBId": 1780359362562,
+      "vencedorId": 1780359352386,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-02T00:31:48.143Z"
+    }
+  ],
   "mataMataAtivo": null
 }
