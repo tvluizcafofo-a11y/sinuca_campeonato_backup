@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:44:48.932Z",
+  "timestamp": "2026-06-02T00:45:12.873Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -76,8 +76,8 @@
     {
       "id": 1779731705216,
       "nome": "Lau Taxi",
-      "pontos": 1,
-      "vitorias": 1,
+      "pontos": 2,
+      "vitorias": 2,
       "creditoBolas": 3
     },
     {
@@ -671,8 +671,8 @@
       "grupoIndex": 7,
       "jogadorAId": 1779731705216,
       "jogadorBId": 1780359316425,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731705216,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -1142,6 +1142,16 @@
       "vencedorId": 1779731705216,
       "bolasRestantes": 3,
       "timestamp": "2026-06-02T00:44:48.932Z"
+    },
+    {
+      "id": 1780361112873,
+      "tipo": "grupo",
+      "grupoIndex": 7,
+      "jogadorAId": 1779731705216,
+      "jogadorBId": 1780359316425,
+      "vencedorId": 1779731705216,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-02T00:45:12.873Z"
     }
   ],
   "mataMataAtivo": null
