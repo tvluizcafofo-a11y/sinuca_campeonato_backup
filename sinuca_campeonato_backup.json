@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:41:36.735Z",
+  "timestamp": "2026-06-02T00:41:48.290Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -83,9 +83,9 @@
     {
       "id": 1779731705593,
       "nome": "Rodrigo Moraes",
-      "pontos": 1,
-      "vitorias": 1,
-      "creditoBolas": 1
+      "pontos": 2,
+      "vitorias": 2,
+      "creditoBolas": 4
     },
     {
       "id": 1779731673678,
@@ -572,9 +572,9 @@
       "grupoIndex": 5,
       "jogadorAId": 1779731705593,
       "jogadorBId": 1780359455744,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731705593,
+      "realizado": true,
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1780359672846_5_1779731659091_1779731699551_0.049986910033837706",
@@ -1032,6 +1032,16 @@
       "vencedorId": 1779731699551,
       "bolasRestantes": 3,
       "timestamp": "2026-06-02T00:41:36.734Z"
+    },
+    {
+      "id": 1780360908289,
+      "tipo": "grupo",
+      "grupoIndex": 5,
+      "jogadorAId": 1779731705593,
+      "jogadorBId": 1780359455744,
+      "vencedorId": 1779731705593,
+      "bolasRestantes": 3,
+      "timestamp": "2026-06-02T00:41:48.289Z"
     }
   ],
   "mataMataAtivo": null
