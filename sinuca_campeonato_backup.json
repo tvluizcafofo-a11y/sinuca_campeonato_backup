@@ -1,14 +1,14 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:38:16.095Z",
+  "timestamp": "2026-06-02T00:38:26.248Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
       "id": 1779731677633,
       "nome": "Sr. Geraldo",
-      "pontos": 1,
-      "vitorias": 1,
-      "creditoBolas": 3
+      "pontos": 2,
+      "vitorias": 2,
+      "creditoBolas": 8
     },
     {
       "id": 1779731648820,
@@ -428,9 +428,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1780359243391,
       "jogadorBId": 1779731677633,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731677633,
+      "realizado": true,
+      "bolasRestantes": 5
     },
     {
       "id": "conf_1780359672846_2_1780359369731_1779731677633_0.25002955835304486",
@@ -882,6 +882,16 @@
       "vencedorId": 1780359243391,
       "bolasRestantes": 1,
       "timestamp": "2026-06-02T00:38:16.094Z"
+    },
+    {
+      "id": 1780360706248,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1780359243391,
+      "jogadorBId": 1779731677633,
+      "vencedorId": 1779731677633,
+      "bolasRestantes": 5,
+      "timestamp": "2026-06-02T00:38:26.248Z"
     }
   ],
   "mataMataAtivo": null
