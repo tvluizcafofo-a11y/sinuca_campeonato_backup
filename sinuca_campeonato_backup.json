@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:43:55.972Z",
+  "timestamp": "2026-06-02T00:44:06.482Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -146,9 +146,9 @@
     {
       "id": 1780359221546,
       "nome": "Patinhas",
-      "pontos": 1,
-      "vitorias": 1,
-      "creditoBolas": 2
+      "pontos": 2,
+      "vitorias": 2,
+      "creditoBolas": 4
     },
     {
       "id": 1780359237034,
@@ -644,9 +644,9 @@
       "grupoIndex": 6,
       "jogadorAId": 1780359221546,
       "jogadorBId": 1780359338607,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359221546,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780359672846_6_1779731636341_1780359338607_0.30138823755367217",
@@ -1112,6 +1112,16 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 2,
       "timestamp": "2026-06-02T00:43:55.972Z"
+    },
+    {
+      "id": 1780361046481,
+      "tipo": "grupo",
+      "grupoIndex": 6,
+      "jogadorAId": 1780359221546,
+      "jogadorBId": 1780359338607,
+      "vencedorId": 1780359221546,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-02T00:44:06.481Z"
     }
   ],
   "mataMataAtivo": null
