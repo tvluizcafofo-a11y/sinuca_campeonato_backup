@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:36:42.868Z",
+  "timestamp": "2026-06-02T00:37:49.564Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -160,9 +160,9 @@
     {
       "id": 1780359243391,
       "nome": "Zezinho",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 3
     },
     {
       "id": 1780359251062,
@@ -392,9 +392,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1780359346625,
       "jogadorBId": 1780359243391,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359243391,
+      "realizado": true,
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1780359672846_2_1780359346625_1780359369731_0.41702639005650166",
@@ -842,6 +842,16 @@
       "vencedorId": 1780359180129,
       "bolasRestantes": 3,
       "timestamp": "2026-06-02T00:36:42.867Z"
+    },
+    {
+      "id": 1780360669564,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1780359346625,
+      "jogadorBId": 1780359243391,
+      "vencedorId": 1780359243391,
+      "bolasRestantes": 3,
+      "timestamp": "2026-06-02T00:37:49.564Z"
     }
   ],
   "mataMataAtivo": null
