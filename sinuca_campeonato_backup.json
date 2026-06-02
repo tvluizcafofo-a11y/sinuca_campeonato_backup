@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T02:25:19.516Z",
+  "timestamp": "2026-06-02T02:25:38.240Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -13,8 +13,8 @@
     {
       "id": 1779731648820,
       "nome": "Tulinho",
-      "pontos": 1,
-      "vitorias": 1,
+      "pontos": 2,
+      "vitorias": 2,
       "creditoBolas": 0
     },
     {
@@ -301,8 +301,8 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731648820,
       "jogadorBId": 1779731705216,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731648820,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -530,6 +530,16 @@
       "vencedorId": 1779731705216,
       "bolasRestantes": 0,
       "timestamp": "2026-06-02T02:25:19.516Z"
+    },
+    {
+      "id": 1780367138240,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731648820,
+      "jogadorBId": 1779731705216,
+      "vencedorId": 1779731648820,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-02T02:25:38.240Z"
     }
   ],
   "mataMataAtivo": null
