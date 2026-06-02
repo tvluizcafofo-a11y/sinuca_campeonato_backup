@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:42:10.425Z",
+  "timestamp": "2026-06-02T00:42:18.524Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -223,9 +223,9 @@
     {
       "id": 1780359455744,
       "nome": "Pedro",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 1
     }
   ],
   "gruposSalvos": [
@@ -599,9 +599,9 @@
       "grupoIndex": 5,
       "jogadorAId": 1779731699551,
       "jogadorBId": 1780359455744,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359455744,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780359672846_6_1780359237034_1780359221546_0.8413513984000898",
@@ -1062,6 +1062,16 @@
       "vencedorId": 1779731659091,
       "bolasRestantes": 0,
       "timestamp": "2026-06-02T00:42:10.424Z"
+    },
+    {
+      "id": 1780360938524,
+      "tipo": "grupo",
+      "grupoIndex": 5,
+      "jogadorAId": 1779731699551,
+      "jogadorBId": 1780359455744,
+      "vencedorId": 1780359455744,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-02T00:42:18.524Z"
     }
   ],
   "mataMataAtivo": null
