@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:39:18.370Z",
+  "timestamp": "2026-06-02T00:39:28.668Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -209,9 +209,9 @@
     {
       "id": 1780359362562,
       "nome": "Hildon",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 6
     },
     {
       "id": 1780359369731,
@@ -482,9 +482,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1780359362562,
       "jogadorBId": 1779731675145,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359362562,
+      "realizado": true,
+      "bolasRestantes": 6
     },
     {
       "id": "conf_1780359672846_3_1779731633065_1779731675145_0.27198211980112474",
@@ -932,6 +932,16 @@
       "vencedorId": 1779731633065,
       "bolasRestantes": 0,
       "timestamp": "2026-06-02T00:39:18.369Z"
+    },
+    {
+      "id": 1780360768667,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1780359362562,
+      "jogadorBId": 1779731675145,
+      "vencedorId": 1780359362562,
+      "bolasRestantes": 6,
+      "timestamp": "2026-06-02T00:39:28.667Z"
     }
   ],
   "mataMataAtivo": null
