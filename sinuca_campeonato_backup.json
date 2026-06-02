@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:33:57.679Z",
+  "timestamp": "2026-06-02T00:35:07.161Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -69,9 +69,9 @@
     {
       "id": 1779731667712,
       "nome": "Saulinho",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731705216,
@@ -338,9 +338,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731667712,
       "jogadorBId": 1779731648820,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731667712,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780359672846_1_1779731667712_1780359291798_0.8558054662285863",
@@ -782,6 +782,16 @@
       "vencedorId": 1780359251062,
       "bolasRestantes": 3,
       "timestamp": "2026-06-02T00:33:57.678Z"
+    },
+    {
+      "id": 1780360507161,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731667712,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731667712,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-02T00:35:07.161Z"
     }
   ],
   "mataMataAtivo": null
