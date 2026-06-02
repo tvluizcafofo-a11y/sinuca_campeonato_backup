@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:35:07.161Z",
+  "timestamp": "2026-06-02T00:35:18.731Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -174,9 +174,9 @@
     {
       "id": 1780359291798,
       "nome": "Gastao",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 1
     },
     {
       "id": 1780359316425,
@@ -347,9 +347,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731667712,
       "jogadorBId": 1780359291798,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359291798,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780359672846_1_1779731667712_1780359180129_0.8018551749583328",
@@ -792,6 +792,16 @@
       "vencedorId": 1779731667712,
       "bolasRestantes": 2,
       "timestamp": "2026-06-02T00:35:07.161Z"
+    },
+    {
+      "id": 1780360518730,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731667712,
+      "jogadorBId": 1780359291798,
+      "vencedorId": 1780359291798,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-02T00:35:18.730Z"
     }
   ],
   "mataMataAtivo": null
