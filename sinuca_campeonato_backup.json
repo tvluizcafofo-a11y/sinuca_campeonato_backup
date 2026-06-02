@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:43:38.243Z",
+  "timestamp": "2026-06-02T00:43:45.643Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -188,9 +188,9 @@
     {
       "id": 1780359338607,
       "nome": "Mancha Negra",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1780359346625,
@@ -626,9 +626,9 @@
       "grupoIndex": 6,
       "jogadorAId": 1780359237034,
       "jogadorBId": 1780359338607,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359338607,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780359672846_6_1780359221546_1779731636341_0.26355433669651274",
@@ -1092,6 +1092,16 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 3,
       "timestamp": "2026-06-02T00:43:38.242Z"
+    },
+    {
+      "id": 1780361025642,
+      "tipo": "grupo",
+      "grupoIndex": 6,
+      "jogadorAId": 1780359237034,
+      "jogadorBId": 1780359338607,
+      "vencedorId": 1780359338607,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-02T00:43:45.642Z"
     }
   ],
   "mataMataAtivo": null
