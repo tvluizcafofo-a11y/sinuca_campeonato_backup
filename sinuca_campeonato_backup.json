@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-02T00:43:45.643Z",
+  "timestamp": "2026-06-02T00:43:55.972Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -34,9 +34,9 @@
     {
       "id": 1779731636341,
       "nome": "Plinio",
-      "pontos": 1,
-      "vitorias": 1,
-      "creditoBolas": 3
+      "pontos": 2,
+      "vitorias": 2,
+      "creditoBolas": 5
     },
     {
       "id": 1779731635399,
@@ -635,9 +635,9 @@
       "grupoIndex": 6,
       "jogadorAId": 1780359221546,
       "jogadorBId": 1779731636341,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731636341,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780359672846_6_1780359221546_1780359338607_0.780863676934079",
@@ -1102,6 +1102,16 @@
       "vencedorId": 1780359338607,
       "bolasRestantes": 2,
       "timestamp": "2026-06-02T00:43:45.642Z"
+    },
+    {
+      "id": 1780361035972,
+      "tipo": "grupo",
+      "grupoIndex": 6,
+      "jogadorAId": 1780359221546,
+      "jogadorBId": 1779731636341,
+      "vencedorId": 1779731636341,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-02T00:43:55.972Z"
     }
   ],
   "mataMataAtivo": null
