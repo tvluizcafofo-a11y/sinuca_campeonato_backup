@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-03T16:13:34.706Z",
+  "timestamp": "2026-06-03T16:13:41.714Z",
   "titulo": "🎱 XV Campeonato de Sinuca 03.06.2026",
   "jogadores": [
     {
@@ -654,48 +654,38 @@
       "jogadorBId": 1779731667044,
       "vencedorId": 1779731667712,
       "timestamp": "2026-06-03T16:13:34.705Z"
+    },
+    {
+      "id": 1780503221712,
+      "tipo": "mata",
+      "fase": "Quartas",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731677633,
+      "jogadorBId": 1779731673128,
+      "vencedorId": 1779731677633,
+      "timestamp": "2026-06-03T16:13:41.712Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_1780503152145_0_1",
-        "jogadorAId": 1779731633065,
-        "jogadorBId": 1779731636341,
-        "vencedorId": 1779731633065,
-        "finalizado": true,
-        "fase": "Quartas"
-      },
-      {
-        "id": "mata_1780503152145_1_0",
-        "jogadorAId": 1779731637329,
-        "jogadorBId": 1779731675145,
-        "vencedorId": 1779731675145,
-        "finalizado": true,
-        "fase": "Quartas"
-      },
-      {
-        "id": "mata_1780503152145_2_3",
+        "id": "mata_1780503221713_0",
         "jogadorAId": 1779731667712,
-        "jogadorBId": 1779731667044,
-        "vencedorId": 1779731667712,
-        "finalizado": true,
-        "fase": "Quartas"
-      },
-      {
-        "id": "mata_1780503152145_3_2",
-        "jogadorAId": 1779731677633,
-        "jogadorBId": 1779731673128,
+        "jogadorBId": 1779731675145,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas"
+        "fase": "Semi-Final"
+      },
+      {
+        "id": "mata_1780503221713_1",
+        "jogadorAId": 1779731677633,
+        "jogadorBId": 1779731633065,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Semi-Final"
       }
     ],
-    "participantesProximaRodada": [
-      1779731633065,
-      1779731675145,
-      1779731667712
-    ],
+    "participantesProximaRodada": [],
     "finalizado": false,
     "campeaoId": null
   }
