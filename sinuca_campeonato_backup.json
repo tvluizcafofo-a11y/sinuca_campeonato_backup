@@ -1,117 +1,101 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-03T19:19:08.570Z",
+  "timestamp": "2026-06-03T20:59:54.999Z",
   "titulo": "🎱 XV Campeonato de Sinuca 03.06.2026",
   "jogadores": [
     {
       "id": 1779731677633,
       "nome": "Sr. Geraldo",
-      "pontos": 2,
       "vitorias": 2,
       "creditoBolas": 8
     },
     {
       "id": 1779731648820,
       "nome": "Tulinho",
-      "pontos": 1,
       "vitorias": 1,
       "creditoBolas": 1
     },
     {
       "id": 1779731699551,
       "nome": "Juninho",
-      "pontos": 1,
       "vitorias": 1,
       "creditoBolas": 3
     },
     {
       "id": 1779731637329,
       "nome": "Cassio",
-      "pontos": 3,
       "vitorias": 3,
       "creditoBolas": 0
     },
     {
       "id": 1779731636341,
       "nome": "Plinio",
-      "pontos": 1,
       "vitorias": 1,
       "creditoBolas": 1
     },
     {
       "id": 1779731635399,
       "nome": "Rodrigo Gomes",
-      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731633065,
       "nome": "Luiz",
-      "pontos": 3,
       "vitorias": 3,
       "creditoBolas": 0
     },
     {
       "id": 1779731659091,
       "nome": "Rodrigo Digao",
-      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731673128,
       "nome": "Ernani",
-      "pontos": 2,
       "vitorias": 2,
       "creditoBolas": 1
     },
     {
       "id": 1779731667712,
       "nome": "Saulinho",
-      "pontos": 2,
       "vitorias": 2,
       "creditoBolas": 2
     },
     {
       "id": 1779731705216,
       "nome": "Lau Taxi",
-      "pontos": 1,
       "vitorias": 1,
       "creditoBolas": 1
     },
     {
       "id": 1779731705593,
       "nome": "Rodrigo Moraes",
-      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731673678,
       "nome": "Felipe Lekao",
-      "pontos": 2,
       "vitorias": 2,
       "creditoBolas": 3
     },
     {
       "id": 1779731667044,
       "nome": "Andre",
-      "pontos": 2,
       "vitorias": 2,
       "creditoBolas": 3
     },
     {
       "id": 1779731706685,
       "nome": "Carlao",
-      "pontos": 2,
       "vitorias": 2,
       "creditoBolas": 3
     },
     {
       "id": 1779731675145,
       "nome": "Wilson",
-      "pontos": 2,
       "vitorias": 2,
       "creditoBolas": 4
     }
@@ -658,6 +642,16 @@
       "jogadorBId": 1779731673678,
       "vencedorId": 1779731667044,
       "timestamp": "2026-06-03T19:18:26.665Z"
+    },
+    {
+      "id": 1780520394994,
+      "tipo": "mata",
+      "fase": "Quartas de Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731675145,
+      "jogadorBId": 1779731667712,
+      "vencedorId": 1779731675145,
+      "timestamp": "2026-06-03T20:59:54.995Z"
     }
   ],
   "mataMataAtivo": {
@@ -674,8 +668,8 @@
         "id": "mata_quartas_1780513868804_1_0_2",
         "jogadorAId": 1779731675145,
         "jogadorBId": 1779731667712,
-        "vencedorId": null,
-        "finalizado": false,
+        "vencedorId": 1779731675145,
+        "finalizado": true,
         "fase": "Quartas de Final"
       },
       {
@@ -696,7 +690,8 @@
       }
     ],
     "participantesProximaRodada": [
-      1779731667044
+      1779731667044,
+      1779731675145
     ],
     "campeaoId": null,
     "finalizado": false,
