@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-03T16:17:28.754Z",
+  "timestamp": "2026-06-03T16:18:11.995Z",
   "titulo": "🎱 XV Campeonato de Sinuca 03.06.2026",
   "jogadores": [
     {
@@ -736,6 +736,16 @@
       "jogadorBId": 1779731667712,
       "vencedorId": 1779731677633,
       "timestamp": "2026-06-03T16:17:28.753Z"
+    },
+    {
+      "id": 1780503491994,
+      "tipo": "mata",
+      "fase": "Semi-Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731677633,
+      "jogadorBId": 1779731675145,
+      "vencedorId": 1779731677633,
+      "timestamp": "2026-06-03T16:18:11.994Z"
     }
   ],
   "mataMataAtivo": {
@@ -744,8 +754,8 @@
         "id": "mata_1780503448754_0",
         "jogadorAId": 1779731677633,
         "jogadorBId": 1779731675145,
-        "vencedorId": null,
-        "finalizado": false,
+        "vencedorId": 1779731677633,
+        "finalizado": true,
         "fase": "Semi-Final"
       },
       {
@@ -757,7 +767,9 @@
         "fase": "Semi-Final"
       }
     ],
-    "participantesProximaRodada": [],
+    "participantesProximaRodada": [
+      1779731677633
+    ],
     "finalizado": false,
     "campeaoId": null
   }
