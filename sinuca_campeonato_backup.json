@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-03T14:27:35.434Z",
+  "timestamp": "2026-06-03T14:27:47.186Z",
   "titulo": "🎱 II Campeonato de Sinuca 02.06.2026",
   "jogadores": [
     {
@@ -41,9 +41,9 @@
     {
       "id": 1779731635399,
       "nome": "Rodrigo Gomes",
-      "pontos": 0,
-      "vitorias": 0,
-      "creditoBolas": 0
+      "pontos": 1,
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731633065,
@@ -310,9 +310,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731677633,
       "jogadorBId": 1779731635399,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731635399,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780495895508_3_1779731677633_1779731648820_0.22093883281384064",
@@ -540,6 +540,16 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 6,
       "timestamp": "2026-06-03T14:27:35.433Z"
+    },
+    {
+      "id": 1780496867185,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731677633,
+      "jogadorBId": 1779731635399,
+      "vencedorId": 1779731635399,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-03T14:27:47.185Z"
     }
   ],
   "mataMataAtivo": null
