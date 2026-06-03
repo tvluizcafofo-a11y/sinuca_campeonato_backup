@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-03T18:32:11.735Z",
+  "timestamp": "2026-06-03T18:32:24.936Z",
   "titulo": "🎱 XV Campeonato de Sinuca 03.06.2026",
   "jogadores": [
     {
@@ -48,8 +48,8 @@
     {
       "id": 1779731633065,
       "nome": "Luiz",
-      "pontos": 2,
-      "vitorias": 2,
+      "pontos": 3,
+      "vitorias": 3,
       "creditoBolas": 0
     },
     {
@@ -390,8 +390,8 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731633065,
       "jogadorBId": 1779731677633,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731633065,
+      "realizado": true,
       "bolasRestantes": 0,
       "pontosA": 0,
       "pontosB": 0
@@ -628,6 +628,16 @@
       "vencedorId": 1779731633065,
       "bolasRestantes": 0,
       "timestamp": "2026-06-03T18:32:11.734Z"
+    },
+    {
+      "id": 1780511544934,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731677633,
+      "vencedorId": 1779731633065,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-03T18:32:24.934Z"
     }
   ]
 }
