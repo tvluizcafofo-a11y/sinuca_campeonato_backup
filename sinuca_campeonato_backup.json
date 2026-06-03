@@ -1,101 +1,117 @@
 {
-  "versao": "2.0",
-  "timestamp": "2026-06-03T18:12:49.677Z",
+  "versao": "1.0",
+  "timestamp": "2026-06-03T18:25:07.204Z",
   "titulo": "🎱 XV Campeonato de Sinuca 03.06.2026",
   "jogadores": [
     {
       "id": 1779731677633,
       "nome": "Sr. Geraldo",
+      "pontos": 0,
       "vitorias": 2,
       "creditoBolas": 3
     },
     {
       "id": 1779731648820,
       "nome": "Tulinho",
+      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731699551,
       "nome": "Juninho",
+      "pontos": 0,
       "vitorias": 2,
       "creditoBolas": 3
     },
     {
       "id": 1779731637329,
       "nome": "Cassio",
+      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731636341,
       "nome": "Plinio",
+      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731635399,
       "nome": "Rodrigo Gomes",
+      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731633065,
       "nome": "Luiz",
+      "pontos": 1,
       "vitorias": 2,
       "creditoBolas": 8
     },
     {
       "id": 1779731659091,
       "nome": "Rodrigo Digao",
+      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731673128,
       "nome": "Ernani",
+      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731667712,
       "nome": "Saulinho",
+      "pontos": 0,
       "vitorias": 2,
       "creditoBolas": 4
     },
     {
       "id": 1779731705216,
       "nome": "Lau Taxi",
+      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731705593,
       "nome": "Rodrigo Moraes",
+      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731673678,
       "nome": "Felipe Lekao",
+      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     },
     {
       "id": 1779731667044,
       "nome": "Andre",
+      "pontos": 0,
       "vitorias": 3,
       "creditoBolas": 4
     },
     {
       "id": 1779731706685,
       "nome": "Carlao",
+      "pontos": 0,
       "vitorias": 1,
       "creditoBolas": 1
     },
     {
       "id": 1779731675145,
       "nome": "Wilson",
+      "pontos": 0,
       "vitorias": 0,
       "creditoBolas": 0
     }
@@ -512,6 +528,17 @@
       "vencedorId": 1779731667044,
       "bolasRestantes": 2,
       "timestamp": "2026-06-03T18:12:49.677Z"
+    },
+    {
+      "id": 1780511107202,
+      "tipo": "edit_grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731633065,
+      "bolasRestantes": 7,
+      "antigoVencedorId": 1779731633065,
+      "timestamp": "2026-06-03T18:25:07.202Z"
     }
   ]
 }
