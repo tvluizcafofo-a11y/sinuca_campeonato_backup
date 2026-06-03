@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-03T18:12:40.692Z",
+  "timestamp": "2026-06-03T18:12:49.677Z",
   "titulo": "🎱 XV Campeonato de Sinuca 03.06.2026",
   "jogadores": [
     {
@@ -84,8 +84,8 @@
     {
       "id": 1779731667044,
       "nome": "Andre",
-      "vitorias": 2,
-      "creditoBolas": 2
+      "vitorias": 3,
+      "creditoBolas": 4
     },
     {
       "id": 1779731706685,
@@ -253,9 +253,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731667044,
       "jogadorBId": 1779731635399,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0,
+      "vencedorId": 1779731667044,
+      "realizado": true,
+      "bolasRestantes": 2,
       "pontosA": 0,
       "pontosB": 0
     },
@@ -502,6 +502,16 @@
       "vencedorId": 1779731706685,
       "bolasRestantes": 1,
       "timestamp": "2026-06-03T18:12:40.692Z"
+    },
+    {
+      "id": 1780510369677,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731667044,
+      "jogadorBId": 1779731635399,
+      "vencedorId": 1779731667044,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-03T18:12:49.677Z"
     }
   ]
 }
