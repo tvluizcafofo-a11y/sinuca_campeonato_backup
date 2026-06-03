@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-03T16:14:58.794Z",
+  "timestamp": "2026-06-03T16:15:07.758Z",
   "titulo": "🎱 XV Campeonato de Sinuca 03.06.2026",
   "jogadores": [
     {
@@ -681,40 +681,41 @@
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_1780503235446_0_1",
+        "id": "mata_quartas_1780503307756_0_1_1",
         "jogadorAId": 1779731633065,
         "jogadorBId": 1779731636341,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas"
+        "fase": "Quartas de Final"
       },
       {
-        "id": "mata_1780503235446_1_0",
+        "id": "mata_quartas_1780503307756_1_0_2",
         "jogadorAId": 1779731637329,
         "jogadorBId": 1779731675145,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas"
+        "fase": "Quartas de Final"
       },
       {
-        "id": "mata_1780503235446_2_3",
-        "jogadorAId": 1779731667712,
+        "id": "mata_quartas_1780503307756_2_3_1",
+        "jogadorAId": 1779731673678,
         "jogadorBId": 1779731667044,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas"
+        "fase": "Quartas de Final"
       },
       {
-        "id": "mata_1780503235446_3_2",
+        "id": "mata_quartas_1780503307756_3_2_2",
         "jogadorAId": 1779731677633,
-        "jogadorBId": 1779731673128,
+        "jogadorBId": 1779731667712,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas"
+        "fase": "Quartas de Final"
       }
     ],
     "participantesProximaRodada": [],
+    "campeaoId": null,
     "finalizado": false,
-    "campeaoId": null
+    "faseAtual": "Quartas de Final"
   }
 }
