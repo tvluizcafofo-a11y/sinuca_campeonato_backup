@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-03T18:29:20.420Z",
+  "timestamp": "2026-06-03T18:30:53.808Z",
   "titulo": "🎱 XV Campeonato de Sinuca 03.06.2026",
   "jogadores": [
     {
@@ -104,9 +104,9 @@
     {
       "id": 1779731706685,
       "nome": "Carlao",
-      "pontos": 1,
-      "vitorias": 1,
-      "creditoBolas": 2
+      "pontos": 2,
+      "vitorias": 2,
+      "creditoBolas": 3
     },
     {
       "id": 1779731675145,
@@ -313,11 +313,11 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731705216,
       "jogadorBId": 1779731706685,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0,
+      "vencedorId": 1779731706685,
+      "realizado": true,
+      "bolasRestantes": 1,
       "pontosA": 0,
-      "pontosB": 0
+      "pontosB": 1
     },
     {
       "id": "conf_1780511144643_2_1779731705216_1779731637329_0.5917148039869571",
@@ -558,6 +558,16 @@
       "vencedorId": 1779731637329,
       "bolasRestantes": 0,
       "timestamp": "2026-06-03T18:29:20.418Z"
+    },
+    {
+      "id": 1780511453807,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731705216,
+      "jogadorBId": 1779731706685,
+      "vencedorId": 1779731706685,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-03T18:30:53.807Z"
     }
   ]
 }
