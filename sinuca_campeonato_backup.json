@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-03T16:13:41.714Z",
+  "timestamp": "2026-06-03T16:14:58.794Z",
   "titulo": "🎱 XV Campeonato de Sinuca 03.06.2026",
   "jogadores": [
     {
@@ -90,9 +90,9 @@
     {
       "id": 1779731673678,
       "nome": "Felipe Lekao",
-      "pontos": 3,
-      "vitorias": 1,
-      "creditoBolas": 2
+      "pontos": 6,
+      "vitorias": 2,
+      "creditoBolas": 4
     },
     {
       "id": 1779731667044,
@@ -290,9 +290,11 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731673678,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731673678,
+      "realizado": true,
+      "bolasRestantes": 2,
+      "pontosA": 0,
+      "pontosB": 2
     },
     {
       "id": "conf_1780498847571_2_1779731667712_1779731659091_0.28632210022078475",
@@ -664,25 +666,51 @@
       "jogadorBId": 1779731673128,
       "vencedorId": 1779731677633,
       "timestamp": "2026-06-03T16:13:41.712Z"
+    },
+    {
+      "id": 1780503298792,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731673678,
+      "vencedorId": 1779731673678,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-03T16:14:58.792Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_1780503221713_0",
-        "jogadorAId": 1779731667712,
+        "id": "mata_1780503235446_0_1",
+        "jogadorAId": 1779731633065,
+        "jogadorBId": 1779731636341,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780503235446_1_0",
+        "jogadorAId": 1779731637329,
         "jogadorBId": 1779731675145,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Semi-Final"
+        "fase": "Quartas"
       },
       {
-        "id": "mata_1780503221713_1",
-        "jogadorAId": 1779731677633,
-        "jogadorBId": 1779731633065,
+        "id": "mata_1780503235446_2_3",
+        "jogadorAId": 1779731667712,
+        "jogadorBId": 1779731667044,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Semi-Final"
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780503235446_3_2",
+        "jogadorAId": 1779731677633,
+        "jogadorBId": 1779731673128,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
       }
     ],
     "participantesProximaRodada": [],
