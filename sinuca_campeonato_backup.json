@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T11:42:05.340Z",
+  "timestamp": "2026-06-04T11:42:14.745Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -132,7 +132,7 @@
     {
       "id": 1780359237034,
       "nome": "Huguinho",
-      "vitorias": 0,
+      "vitorias": 1,
       "creditoBolas": 0
     },
     {
@@ -270,8 +270,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1780359180129,
       "jogadorBId": 1780359237034,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1780359237034,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -700,6 +700,16 @@
       "vencedorId": 1780359291798,
       "bolasRestantes": 2,
       "timestamp": "2026-06-04T11:42:05.340Z"
+    },
+    {
+      "id": 1780573334744,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1780359180129,
+      "jogadorBId": 1780359237034,
+      "vencedorId": 1780359237034,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T11:42:14.744Z"
     }
   ],
   "mataMataAtivo": null
