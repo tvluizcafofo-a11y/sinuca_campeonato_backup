@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:03:14.236Z",
+  "timestamp": "2026-06-04T03:03:22.707Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -42,7 +42,7 @@
     {
       "id": 1779731633065,
       "nome": "Luiz",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 3
     },
     {
@@ -222,8 +222,8 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731667044,
       "jogadorBId": 1779731633065,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731633065,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -444,6 +444,16 @@
       "vencedorId": 1779731667044,
       "bolasRestantes": 5,
       "timestamp": "2026-06-04T03:03:14.236Z"
+    },
+    {
+      "id": 1780542202706,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731667044,
+      "jogadorBId": 1779731633065,
+      "vencedorId": 1779731633065,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T03:03:22.706Z"
     }
   ],
   "mataMataAtivo": null
