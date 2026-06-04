@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T11:08:15.435Z",
+  "timestamp": "2026-06-04T11:08:21.979Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -594,6 +594,16 @@
       "jogadorBId": 1779731675145,
       "vencedorId": 1779731667712,
       "timestamp": "2026-06-04T11:08:15.434Z"
+    },
+    {
+      "id": 1780571301978,
+      "tipo": "mata",
+      "fase": "Quartas",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731648820,
+      "jogadorBId": 1779731673128,
+      "vencedorId": 1779731648820,
+      "timestamp": "2026-06-04T11:08:21.978Z"
     }
   ],
   "mataMataAtivo": {
@@ -618,8 +628,8 @@
         "id": "mata_1780571244073_2_3",
         "jogadorAId": 1779731648820,
         "jogadorBId": 1779731673128,
-        "vencedorId": null,
-        "finalizado": false,
+        "vencedorId": 1779731648820,
+        "finalizado": true,
         "fase": "Quartas"
       },
       {
@@ -632,7 +642,8 @@
       }
     ],
     "participantesProximaRodada": [
-      1779731667712
+      1779731667712,
+      1779731648820
     ],
     "finalizado": false,
     "campeaoId": null
