@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:02:51.374Z",
+  "timestamp": "2026-06-04T03:03:02.033Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -96,7 +96,7 @@
     {
       "id": 1779731675145,
       "nome": "Wilson",
-      "vitorias": 0,
+      "vitorias": 1,
       "creditoBolas": 0
     }
   ],
@@ -195,8 +195,8 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731636341,
       "jogadorBId": 1779731675145,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731675145,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -424,6 +424,16 @@
       "vencedorId": 1779731633065,
       "bolasRestantes": 3,
       "timestamp": "2026-06-04T03:02:51.373Z"
+    },
+    {
+      "id": 1780542182033,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731636341,
+      "jogadorBId": 1779731675145,
+      "vencedorId": 1779731675145,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T03:03:02.033Z"
     }
   ],
   "mataMataAtivo": null
