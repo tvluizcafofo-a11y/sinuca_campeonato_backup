@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:08:18.311Z",
+  "timestamp": "2026-06-04T11:08:15.435Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -584,46 +584,57 @@
       "vencedorId": 1779731706685,
       "bolasRestantes": 2,
       "timestamp": "2026-06-04T03:06:29.002Z"
+    },
+    {
+      "id": 1780571295433,
+      "tipo": "mata",
+      "fase": "Quartas",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731667712,
+      "jogadorBId": 1779731675145,
+      "vencedorId": 1779731667712,
+      "timestamp": "2026-06-04T11:08:15.434Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_quartas_1780542480441_0_1_1",
+        "id": "mata_1780571244073_0_1",
         "jogadorAId": 1779731667712,
         "jogadorBId": 1779731675145,
-        "vencedorId": null,
-        "finalizado": false,
-        "fase": "Quartas de Final"
+        "vencedorId": 1779731667712,
+        "finalizado": true,
+        "fase": "Quartas"
       },
       {
-        "id": "mata_quartas_1780542480441_1_0_2",
+        "id": "mata_1780571244073_1_0",
         "jogadorAId": 1779731633065,
         "jogadorBId": 1779731659091,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas de Final"
+        "fase": "Quartas"
       },
       {
-        "id": "mata_quartas_1780542480441_2_3_1",
+        "id": "mata_1780571244073_2_3",
         "jogadorAId": 1779731648820,
         "jogadorBId": 1779731673128,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas de Final"
+        "fase": "Quartas"
       },
       {
-        "id": "mata_quartas_1780542480441_3_2_2",
+        "id": "mata_1780571244073_3_2",
         "jogadorAId": 1779731673678,
         "jogadorBId": 1779731699551,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas de Final"
+        "fase": "Quartas"
       }
     ],
-    "participantesProximaRodada": [],
-    "campeaoId": null,
+    "participantesProximaRodada": [
+      1779731667712
+    ],
     "finalizado": false,
-    "faseAtual": "Quartas de Final"
+    "campeaoId": null
   }
 }
