@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:48:37.019Z",
+  "timestamp": "2026-06-04T12:48:57.581Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -168,7 +168,7 @@
     {
       "id": 1780359346625,
       "nome": "Manoel",
-      "vitorias": 0,
+      "vitorias": 1,
       "creditoBolas": 0
     },
     {
@@ -630,8 +630,8 @@
       "grupoIndex": 7,
       "jogadorAId": 1780359346625,
       "jogadorBId": 1780359455744,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1780359346625,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -1100,6 +1100,16 @@
       "vencedorId": 1779731699551,
       "bolasRestantes": 0,
       "timestamp": "2026-06-04T12:48:37.018Z"
+    },
+    {
+      "id": 1780577337580,
+      "tipo": "grupo",
+      "grupoIndex": 7,
+      "jogadorAId": 1780359346625,
+      "jogadorBId": 1780359455744,
+      "vencedorId": 1780359346625,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T12:48:57.580Z"
     }
   ],
   "mataMataAtivo": null
