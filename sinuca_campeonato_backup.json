@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:04:39.821Z",
+  "timestamp": "2026-06-04T03:04:48.687Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -12,8 +12,8 @@
     {
       "id": 1779731648820,
       "nome": "Tulinho",
-      "vitorias": 1,
-      "creditoBolas": 3
+      "vitorias": 2,
+      "creditoBolas": 5
     },
     {
       "id": 1779731699551,
@@ -276,9 +276,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731648820,
       "jogadorBId": 1779731699551,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731648820,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780541433318_2_1779731677633_1779731699551_0.8814317650498892",
@@ -504,6 +504,16 @@
       "vencedorId": 1779731648820,
       "bolasRestantes": 3,
       "timestamp": "2026-06-04T03:04:39.821Z"
+    },
+    {
+      "id": 1780542288687,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731648820,
+      "jogadorBId": 1779731699551,
+      "vencedorId": 1779731648820,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-04T03:04:48.687Z"
     }
   ],
   "mataMataAtivo": null
