@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T02:58:09.701Z",
+  "timestamp": "2026-06-04T03:00:37.948Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -24,7 +24,7 @@
     {
       "id": 1779731637329,
       "nome": "Cassio",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 0
     },
     {
@@ -141,8 +141,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731637329,
       "jogadorBId": 1779731635399,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731637329,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -374,7 +374,55 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 3,
       "timestamp": "2026-06-04T02:58:09.701Z"
+    },
+    {
+      "id": 1780542037943,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731637329,
+      "jogadorBId": 1779731635399,
+      "vencedorId": 1779731637329,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T03:00:37.943Z"
     }
   ],
-  "mataMataAtivo": null
+  "mataMataAtivo": {
+    "confrontosAtuais": [
+      {
+        "id": "mata_1780541930465_0_1",
+        "jogadorAId": 1779731659091,
+        "jogadorBId": 1779731667044,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780541930465_1_0",
+        "jogadorAId": 1779731636341,
+        "jogadorBId": 1779731637329,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780541930465_2_3",
+        "jogadorAId": 1779731705216,
+        "jogadorBId": 1779731673678,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780541930465_3_2",
+        "jogadorAId": 1779731673128,
+        "jogadorBId": 1779731648820,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      }
+    ],
+    "participantesProximaRodada": [],
+    "finalizado": false,
+    "campeaoId": null
+  }
 }
