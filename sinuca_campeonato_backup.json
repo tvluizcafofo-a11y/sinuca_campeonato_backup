@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:04:20.361Z",
+  "timestamp": "2026-06-04T03:04:30.278Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -18,8 +18,8 @@
     {
       "id": 1779731699551,
       "nome": "Juninho",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731637329,
@@ -258,9 +258,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731705216,
       "jogadorBId": 1779731699551,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731699551,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780541433318_2_1779731648820_1779731677633_0.8260249568612154",
@@ -484,6 +484,16 @@
       "vencedorId": 1779731677633,
       "bolasRestantes": 5,
       "timestamp": "2026-06-04T03:04:20.359Z"
+    },
+    {
+      "id": 1780542270277,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731705216,
+      "jogadorBId": 1779731699551,
+      "vencedorId": 1779731699551,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-04T03:04:30.277Z"
     }
   ],
   "mataMataAtivo": null
