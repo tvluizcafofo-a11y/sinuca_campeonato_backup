@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:49:25.470Z",
+  "timestamp": "2026-06-04T12:49:34.313Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -90,7 +90,7 @@
     {
       "id": 1779731706685,
       "nome": "Carlao",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 0
     },
     {
@@ -666,8 +666,8 @@
       "grupoIndex": 7,
       "jogadorAId": 1780359455744,
       "jogadorBId": 1779731706685,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731706685,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -1140,6 +1140,16 @@
       "vencedorId": 1780359455744,
       "bolasRestantes": 5,
       "timestamp": "2026-06-04T12:49:25.468Z"
+    },
+    {
+      "id": 1780577374312,
+      "tipo": "grupo",
+      "grupoIndex": 7,
+      "jogadorAId": 1780359455744,
+      "jogadorBId": 1779731706685,
+      "vencedorId": 1779731706685,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T12:49:34.312Z"
     }
   ],
   "mataMataAtivo": null
