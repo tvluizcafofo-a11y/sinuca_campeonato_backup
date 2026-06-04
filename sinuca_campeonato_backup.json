@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:06:29.003Z",
+  "timestamp": "2026-06-04T03:08:00.451Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -586,5 +586,44 @@
       "timestamp": "2026-06-04T03:06:29.002Z"
     }
   ],
-  "mataMataAtivo": null
+  "mataMataAtivo": {
+    "confrontosAtuais": [
+      {
+        "id": "mata_quartas_1780542480441_0_1_1",
+        "jogadorAId": 1779731667712,
+        "jogadorBId": 1779731675145,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas de Final"
+      },
+      {
+        "id": "mata_quartas_1780542480441_1_0_2",
+        "jogadorAId": 1779731633065,
+        "jogadorBId": 1779731659091,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas de Final"
+      },
+      {
+        "id": "mata_quartas_1780542480441_2_3_1",
+        "jogadorAId": 1779731648820,
+        "jogadorBId": 1779731673128,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas de Final"
+      },
+      {
+        "id": "mata_quartas_1780542480441_3_2_2",
+        "jogadorAId": 1779731673678,
+        "jogadorBId": 1779731699551,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas de Final"
+      }
+    ],
+    "participantesProximaRodada": [],
+    "campeaoId": null,
+    "finalizado": false,
+    "faseAtual": "Quartas de Final"
+  }
 }
