@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:47:42.616Z",
+  "timestamp": "2026-06-04T12:47:51.868Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -42,7 +42,7 @@
     {
       "id": 1779731633065,
       "nome": "Luiz",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 6
     },
     {
@@ -585,8 +585,8 @@
       "grupoIndex": 6,
       "jogadorAId": 1779731633065,
       "jogadorBId": 1779731699551,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731633065,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -1050,6 +1050,16 @@
       "vencedorId": 1779731633065,
       "bolasRestantes": 6,
       "timestamp": "2026-06-04T12:47:42.615Z"
+    },
+    {
+      "id": 1780577271867,
+      "tipo": "grupo",
+      "grupoIndex": 6,
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731699551,
+      "vencedorId": 1779731633065,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T12:47:51.867Z"
     }
   ],
   "mataMataAtivo": null
