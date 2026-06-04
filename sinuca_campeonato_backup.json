@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:03:02.033Z",
+  "timestamp": "2026-06-04T03:03:14.236Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -84,8 +84,8 @@
     {
       "id": 1779731667044,
       "nome": "Andre",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 5
     },
     {
       "id": 1779731706685,
@@ -213,9 +213,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731667044,
       "jogadorBId": 1779731675145,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731667044,
+      "realizado": true,
+      "bolasRestantes": 5
     },
     {
       "id": "conf_1780541433318_1_1779731667044_1779731633065_0.6129876723384776",
@@ -434,6 +434,16 @@
       "vencedorId": 1779731675145,
       "bolasRestantes": 0,
       "timestamp": "2026-06-04T03:03:02.033Z"
+    },
+    {
+      "id": 1780542194236,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731667044,
+      "jogadorBId": 1779731675145,
+      "vencedorId": 1779731667044,
+      "bolasRestantes": 5,
+      "timestamp": "2026-06-04T03:03:14.236Z"
     }
   ],
   "mataMataAtivo": null
