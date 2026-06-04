@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:05:41.745Z",
+  "timestamp": "2026-06-04T12:05:53.913Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -174,7 +174,7 @@
     {
       "id": 1780359352386,
       "nome": "Joao",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 6
     },
     {
@@ -387,8 +387,8 @@
       "grupoIndex": 2,
       "jogadorAId": 1780359352386,
       "jogadorBId": 1780359221546,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1780359352386,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -830,6 +830,16 @@
       "vencedorId": 1780359251062,
       "bolasRestantes": 3,
       "timestamp": "2026-06-04T12:05:41.744Z"
+    },
+    {
+      "id": 1780574753911,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1780359352386,
+      "jogadorBId": 1780359221546,
+      "vencedorId": 1780359352386,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T12:05:53.911Z"
     }
   ],
   "mataMataAtivo": null
