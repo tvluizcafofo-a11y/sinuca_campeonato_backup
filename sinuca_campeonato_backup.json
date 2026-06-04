@@ -1,7 +1,7 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T11:43:59.067Z",
-  "titulo": "I Champion of BH",
+  "timestamp": "2026-06-04T11:46:08.954Z",
+  "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
       "id": 1779731677633,
@@ -762,5 +762,75 @@
       "timestamp": "2026-06-04T11:43:59.066Z"
     }
   ],
-  "mataMataAtivo": null
+  "mataMataAtivo": {
+    "confrontosAtuais": [
+      {
+        "id": "mata_1780573449301_0_1",
+        "jogadorAId": 1780359291798,
+        "jogadorBId": 1779731636341,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780573449301_1_0",
+        "jogadorAId": 1779731667044,
+        "jogadorBId": 1780359237034,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780573449301_2_3",
+        "jogadorAId": 1780359196507,
+        "jogadorBId": 1779731667712,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780573449301_3_2",
+        "jogadorAId": 1779731677633,
+        "jogadorBId": 1780359352386,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780573449301_4_5",
+        "jogadorAId": 1779731635399,
+        "jogadorBId": 1779731705216,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780573449301_5_4",
+        "jogadorAId": 1779731673128,
+        "jogadorBId": 1779731675145,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780573449301_6_7",
+        "jogadorAId": 1779731633065,
+        "jogadorBId": 1780359455744,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      },
+      {
+        "id": "mata_1780573449301_7_6",
+        "jogadorAId": 1780359346625,
+        "jogadorBId": 1779731648820,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Quartas"
+      }
+    ],
+    "participantesProximaRodada": [],
+    "finalizado": false,
+    "campeaoId": null
+  }
 }
