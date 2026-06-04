@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:00:47.848Z",
+  "timestamp": "2026-06-04T03:00:57.396Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -60,7 +60,7 @@
     {
       "id": 1779731667712,
       "nome": "Saulinho",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 6
     },
     {
@@ -168,8 +168,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731667712,
       "jogadorBId": 1779731659091,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731667712,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -394,6 +394,16 @@
       "vencedorId": 1779731667712,
       "bolasRestantes": 6,
       "timestamp": "2026-06-04T03:00:47.848Z"
+    },
+    {
+      "id": 1780542057395,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731667712,
+      "jogadorBId": 1779731659091,
+      "vencedorId": 1779731667712,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T03:00:57.395Z"
     }
   ],
   "mataMataAtivo": null
