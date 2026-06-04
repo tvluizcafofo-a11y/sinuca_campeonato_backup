@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:53:47.623Z",
+  "timestamp": "2026-06-04T12:53:57.903Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -1250,6 +1250,16 @@
       "jogadorBId": 1779731677633,
       "vencedorId": 1779731677633,
       "timestamp": "2026-06-04T12:53:47.621Z"
+    },
+    {
+      "id": 1780577637903,
+      "tipo": "mata",
+      "fase": "Semi-Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1780359251062,
+      "jogadorBId": 1779731633065,
+      "vencedorId": 1779731633065,
+      "timestamp": "2026-06-04T12:53:57.903Z"
     }
   ],
   "mataMataAtivo": {
@@ -1266,8 +1276,8 @@
         "id": "mata_1780577586561_1",
         "jogadorAId": 1780359251062,
         "jogadorBId": 1779731633065,
-        "vencedorId": null,
-        "finalizado": false,
+        "vencedorId": 1779731633065,
+        "finalizado": true,
         "fase": "Semi-Final"
       },
       {
@@ -1288,7 +1298,8 @@
       }
     ],
     "participantesProximaRodada": [
-      1779731677633
+      1779731677633,
+      1779731633065
     ],
     "campeaoId": null,
     "finalizado": false,
