@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:06:09.615Z",
+  "timestamp": "2026-06-04T03:06:19.364Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -78,8 +78,8 @@
     {
       "id": 1779731673678,
       "nome": "Felipe Lekao",
-      "vitorias": 1,
-      "creditoBolas": 2
+      "vitorias": 2,
+      "creditoBolas": 8
     },
     {
       "id": 1779731667044,
@@ -330,9 +330,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731673678,
       "jogadorBId": 1779731705593,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731673678,
+      "realizado": true,
+      "bolasRestantes": 6
     },
     {
       "id": "conf_1780541433318_3_1779731706685_1779731705593_0.8046142898630001",
@@ -564,6 +564,16 @@
       "vencedorId": 1779731673678,
       "bolasRestantes": 2,
       "timestamp": "2026-06-04T03:06:09.614Z"
+    },
+    {
+      "id": 1780542379364,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731673678,
+      "jogadorBId": 1779731705593,
+      "vencedorId": 1779731673678,
+      "bolasRestantes": 6,
+      "timestamp": "2026-06-04T03:06:19.364Z"
     }
   ],
   "mataMataAtivo": null
