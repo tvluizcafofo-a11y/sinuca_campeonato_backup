@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T11:13:24.869Z",
+  "timestamp": "2026-06-04T11:13:32.110Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -634,30 +634,30 @@
       "jogadorBId": 1779731648820,
       "vencedorId": 1779731673678,
       "timestamp": "2026-06-04T11:13:24.868Z"
+    },
+    {
+      "id": 1780571612109,
+      "tipo": "mata",
+      "fase": "Semi-Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731667712,
+      "jogadorBId": 1779731659091,
+      "vencedorId": 1779731667712,
+      "timestamp": "2026-06-04T11:13:32.109Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_1780571316837_0",
+        "id": "mata_1780571612110_0",
         "jogadorAId": 1779731673678,
-        "jogadorBId": 1779731648820,
-        "vencedorId": 1779731673678,
-        "finalizado": true,
-        "fase": "Semi-Final"
-      },
-      {
-        "id": "mata_1780571316837_1",
-        "jogadorAId": 1779731667712,
-        "jogadorBId": 1779731659091,
+        "jogadorBId": 1779731667712,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Semi-Final"
+        "fase": "Final"
       }
     ],
-    "participantesProximaRodada": [
-      1779731673678
-    ],
+    "participantesProximaRodada": [],
     "finalizado": false,
     "campeaoId": null
   }
