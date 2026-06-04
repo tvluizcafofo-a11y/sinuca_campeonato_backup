@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:06:13.450Z",
+  "timestamp": "2026-06-04T12:07:17.652Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -144,8 +144,8 @@
     {
       "id": 1780359251062,
       "nome": "Luizinho",
-      "vitorias": 2,
-      "creditoBolas": 4
+      "vitorias": 3,
+      "creditoBolas": 5
     },
     {
       "id": 1780359291798,
@@ -405,9 +405,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1780359221546,
       "jogadorBId": 1780359251062,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359251062,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780573293460_3_1779731677633_1779731667712_0.42135996748722737",
@@ -850,6 +850,16 @@
       "vencedorId": 1780359251062,
       "bolasRestantes": 1,
       "timestamp": "2026-06-04T12:06:13.449Z"
+    },
+    {
+      "id": 1780574837651,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1780359221546,
+      "jogadorBId": 1780359251062,
+      "vencedorId": 1780359251062,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-04T12:07:17.651Z"
     }
   ],
   "mataMataAtivo": null
