@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T11:08:28.797Z",
+  "timestamp": "2026-06-04T11:08:36.837Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -614,48 +614,38 @@
       "jogadorBId": 1779731659091,
       "vencedorId": 1779731659091,
       "timestamp": "2026-06-04T11:08:28.796Z"
+    },
+    {
+      "id": 1780571316836,
+      "tipo": "mata",
+      "fase": "Quartas",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731673678,
+      "jogadorBId": 1779731699551,
+      "vencedorId": 1779731673678,
+      "timestamp": "2026-06-04T11:08:36.836Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_1780571244073_0_1",
-        "jogadorAId": 1779731667712,
-        "jogadorBId": 1779731675145,
-        "vencedorId": 1779731667712,
-        "finalizado": true,
-        "fase": "Quartas"
-      },
-      {
-        "id": "mata_1780571244073_1_0",
-        "jogadorAId": 1779731633065,
-        "jogadorBId": 1779731659091,
-        "vencedorId": 1779731659091,
-        "finalizado": true,
-        "fase": "Quartas"
-      },
-      {
-        "id": "mata_1780571244073_2_3",
-        "jogadorAId": 1779731648820,
-        "jogadorBId": 1779731673128,
-        "vencedorId": 1779731648820,
-        "finalizado": true,
-        "fase": "Quartas"
-      },
-      {
-        "id": "mata_1780571244073_3_2",
+        "id": "mata_1780571316837_0",
         "jogadorAId": 1779731673678,
-        "jogadorBId": 1779731699551,
+        "jogadorBId": 1779731648820,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas"
+        "fase": "Semi-Final"
+      },
+      {
+        "id": "mata_1780571316837_1",
+        "jogadorAId": 1779731667712,
+        "jogadorBId": 1779731659091,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Semi-Final"
       }
     ],
-    "participantesProximaRodada": [
-      1779731667712,
-      1779731648820,
-      1779731659091
-    ],
+    "participantesProximaRodada": [],
     "finalizado": false,
     "campeaoId": null
   }
