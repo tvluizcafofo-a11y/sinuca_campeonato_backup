@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:04:01.150Z",
+  "timestamp": "2026-06-04T12:04:10.425Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -30,7 +30,7 @@
     {
       "id": 1779731636341,
       "nome": "Plinio",
-      "vitorias": 2,
+      "vitorias": 3,
       "creditoBolas": 0
     },
     {
@@ -342,8 +342,8 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731636341,
       "jogadorBId": 1779731637329,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731636341,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -780,6 +780,16 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 0,
       "timestamp": "2026-06-04T12:04:01.148Z"
+    },
+    {
+      "id": 1780574650424,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731636341,
+      "jogadorBId": 1779731637329,
+      "vencedorId": 1779731636341,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T12:04:10.424Z"
     }
   ],
   "mataMataAtivo": null
