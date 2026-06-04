@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:05:50.178Z",
+  "timestamp": "2026-06-04T03:06:00.280Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -54,7 +54,7 @@
     {
       "id": 1779731673128,
       "nome": "Ernani",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 3
     },
     {
@@ -312,8 +312,8 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731705593,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731673128,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -544,6 +544,16 @@
       "vencedorId": 1779731706685,
       "bolasRestantes": 1,
       "timestamp": "2026-06-04T03:05:50.177Z"
+    },
+    {
+      "id": 1780542360279,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731705593,
+      "vencedorId": 1779731673128,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T03:06:00.279Z"
     }
   ],
   "mataMataAtivo": null
