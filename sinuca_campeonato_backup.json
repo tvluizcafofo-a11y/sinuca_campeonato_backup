@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:16:31.985Z",
+  "timestamp": "2026-06-04T12:45:20.428Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -96,7 +96,7 @@
     {
       "id": 1779731675145,
       "nome": "Wilson",
-      "vitorias": 2,
+      "vitorias": 3,
       "creditoBolas": 8
     },
     {
@@ -504,8 +504,8 @@
       "grupoIndex": 4,
       "jogadorAId": 1779731675145,
       "jogadorBId": 1780359338607,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731675145,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -960,6 +960,16 @@
       "vencedorId": 1779731675145,
       "bolasRestantes": 3,
       "timestamp": "2026-06-04T12:16:31.984Z"
+    },
+    {
+      "id": 1780577120427,
+      "tipo": "grupo",
+      "grupoIndex": 4,
+      "jogadorAId": 1779731675145,
+      "jogadorBId": 1780359338607,
+      "vencedorId": 1779731675145,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T12:45:20.427Z"
     }
   ],
   "mataMataAtivo": null
