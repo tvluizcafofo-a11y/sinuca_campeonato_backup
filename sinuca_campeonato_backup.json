@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:07:17.652Z",
+  "timestamp": "2026-06-04T12:09:19.627Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -60,7 +60,7 @@
     {
       "id": 1779731667712,
       "nome": "Saulinho",
-      "vitorias": 0,
+      "vitorias": 1,
       "creditoBolas": 0
     },
     {
@@ -414,8 +414,8 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731677633,
       "jogadorBId": 1779731667712,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731667712,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -860,6 +860,16 @@
       "vencedorId": 1780359251062,
       "bolasRestantes": 1,
       "timestamp": "2026-06-04T12:07:17.651Z"
+    },
+    {
+      "id": 1780574959625,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731677633,
+      "jogadorBId": 1779731667712,
+      "vencedorId": 1779731667712,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T12:09:19.625Z"
     }
   ],
   "mataMataAtivo": null
