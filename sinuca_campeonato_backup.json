@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T11:42:43.156Z",
+  "timestamp": "2026-06-04T11:43:49.031Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -30,7 +30,7 @@
     {
       "id": 1779731636341,
       "nome": "Plinio",
-      "vitorias": 0,
+      "vitorias": 1,
       "creditoBolas": 0
     },
     {
@@ -306,8 +306,8 @@
       "grupoIndex": 1,
       "jogadorAId": 1780359243391,
       "jogadorBId": 1779731636341,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731636341,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -740,6 +740,16 @@
       "vencedorId": 1780359291798,
       "bolasRestantes": 0,
       "timestamp": "2026-06-04T11:42:43.156Z"
+    },
+    {
+      "id": 1780573429030,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1780359243391,
+      "jogadorBId": 1779731636341,
+      "vencedorId": 1779731636341,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T11:43:49.030Z"
     }
   ],
   "mataMataAtivo": null
