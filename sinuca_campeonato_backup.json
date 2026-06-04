@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:52:59.216Z",
+  "timestamp": "2026-06-04T12:53:06.561Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -1230,84 +1230,54 @@
       "jogadorBId": 1780359455744,
       "vencedorId": 1779731667712,
       "timestamp": "2026-06-04T12:52:59.216Z"
+    },
+    {
+      "id": 1780577586559,
+      "tipo": "mata",
+      "fase": "Oitavas de Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731706685,
+      "jogadorBId": 1779731677633,
+      "vencedorId": 1779731677633,
+      "timestamp": "2026-06-04T12:53:06.559Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_oitavas_1780577464344_0_4_1",
-        "jogadorAId": 1780359291798,
-        "jogadorBId": 1779731705593,
-        "vencedorId": 1779731705593,
-        "finalizado": true,
-        "fase": "Oitavas de Final"
-      },
-      {
-        "id": "mata_oitavas_1780577464344_4_0_2",
+        "id": "mata_1780577586561_0",
         "jogadorAId": 1779731675145,
-        "jogadorBId": 1780359237034,
-        "vencedorId": 1779731675145,
-        "finalizado": true,
-        "fase": "Oitavas de Final"
-      },
-      {
-        "id": "mata_oitavas_1780577464344_1_5_1",
-        "jogadorAId": 1779731636341,
-        "jogadorBId": 1779731673128,
-        "vencedorId": 1779731636341,
-        "finalizado": true,
-        "fase": "Oitavas de Final"
-      },
-      {
-        "id": "mata_oitavas_1780577464344_5_1_2",
-        "jogadorAId": 1779731705216,
-        "jogadorBId": 1779731667044,
-        "vencedorId": 1779731705216,
-        "finalizado": true,
-        "fase": "Oitavas de Final"
-      },
-      {
-        "id": "mata_oitavas_1780577464344_2_6_1",
-        "jogadorAId": 1780359251062,
-        "jogadorBId": 1779731659091,
-        "vencedorId": 1780359251062,
-        "finalizado": true,
-        "fase": "Oitavas de Final"
-      },
-      {
-        "id": "mata_oitavas_1780577464344_6_2_2",
-        "jogadorAId": 1779731633065,
-        "jogadorBId": 1780359352386,
-        "vencedorId": 1779731633065,
-        "finalizado": true,
-        "fase": "Oitavas de Final"
-      },
-      {
-        "id": "mata_oitavas_1780577464344_3_7_1",
-        "jogadorAId": 1779731667712,
-        "jogadorBId": 1780359455744,
-        "vencedorId": 1779731667712,
-        "finalizado": true,
-        "fase": "Oitavas de Final"
-      },
-      {
-        "id": "mata_oitavas_1780577464344_7_3_2",
-        "jogadorAId": 1779731706685,
         "jogadorBId": 1779731677633,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Oitavas de Final"
+        "fase": "Semi-Final"
+      },
+      {
+        "id": "mata_1780577586561_1",
+        "jogadorAId": 1780359251062,
+        "jogadorBId": 1779731633065,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Semi-Final"
+      },
+      {
+        "id": "mata_1780577586561_2",
+        "jogadorAId": 1779731667712,
+        "jogadorBId": 1779731705216,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Semi-Final"
+      },
+      {
+        "id": "mata_1780577586561_3",
+        "jogadorAId": 1779731636341,
+        "jogadorBId": 1779731705593,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Semi-Final"
       }
     ],
-    "participantesProximaRodada": [
-      1779731705593,
-      1779731675145,
-      1779731636341,
-      1779731705216,
-      1780359251062,
-      1779731633065,
-      1779731667712
-    ],
+    "participantesProximaRodada": [],
     "campeaoId": null,
     "finalizado": false,
     "faseAtual": "Oitavas de Final"
