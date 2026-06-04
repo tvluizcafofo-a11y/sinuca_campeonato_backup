@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:51:04.364Z",
+  "timestamp": "2026-06-04T12:51:32.344Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -1160,6 +1160,16 @@
       "vencedorId": 1779731706685,
       "bolasRestantes": 0,
       "timestamp": "2026-06-04T12:49:42.346Z"
+    },
+    {
+      "id": 1780577492343,
+      "tipo": "mata",
+      "fase": "Oitavas de Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1780359291798,
+      "jogadorBId": 1779731705593,
+      "vencedorId": 1779731705593,
+      "timestamp": "2026-06-04T12:51:32.343Z"
     }
   ],
   "mataMataAtivo": {
@@ -1168,8 +1178,8 @@
         "id": "mata_oitavas_1780577464344_0_4_1",
         "jogadorAId": 1780359291798,
         "jogadorBId": 1779731705593,
-        "vencedorId": null,
-        "finalizado": false,
+        "vencedorId": 1779731705593,
+        "finalizado": true,
         "fase": "Oitavas de Final"
       },
       {
@@ -1229,7 +1239,9 @@
         "fase": "Oitavas de Final"
       }
     ],
-    "participantesProximaRodada": [],
+    "participantesProximaRodada": [
+      1779731705593
+    ],
     "campeaoId": null,
     "finalizado": false,
     "faseAtual": "Oitavas de Final"
