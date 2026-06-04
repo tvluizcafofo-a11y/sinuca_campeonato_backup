@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:45:20.428Z",
+  "timestamp": "2026-06-04T12:45:33.288Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -72,8 +72,8 @@
     {
       "id": 1779731705593,
       "nome": "Rodrigo Moraes",
-      "vitorias": 1,
-      "creditoBolas": 2
+      "vitorias": 2,
+      "creditoBolas": 7
     },
     {
       "id": 1779731673678,
@@ -513,9 +513,9 @@
       "grupoIndex": 4,
       "jogadorAId": 1779731705593,
       "jogadorBId": 1780359338607,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731705593,
+      "realizado": true,
+      "bolasRestantes": 5
     },
     {
       "id": "conf_1780573293460_5_1779731673128_1779731705216_0.1456234539683644",
@@ -970,6 +970,16 @@
       "vencedorId": 1779731675145,
       "bolasRestantes": 0,
       "timestamp": "2026-06-04T12:45:20.427Z"
+    },
+    {
+      "id": 1780577133288,
+      "tipo": "grupo",
+      "grupoIndex": 4,
+      "jogadorAId": 1779731705593,
+      "jogadorBId": 1780359338607,
+      "vencedorId": 1779731705593,
+      "bolasRestantes": 5,
+      "timestamp": "2026-06-04T12:45:33.288Z"
     }
   ],
   "mataMataAtivo": null
