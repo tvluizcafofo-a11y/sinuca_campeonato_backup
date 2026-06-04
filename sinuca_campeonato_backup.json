@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:02:21.380Z",
+  "timestamp": "2026-06-04T03:02:51.374Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -42,8 +42,8 @@
     {
       "id": 1779731633065,
       "nome": "Luiz",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 3
     },
     {
       "id": 1779731659091,
@@ -204,9 +204,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731636341,
       "jogadorBId": 1779731633065,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731633065,
+      "realizado": true,
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1780541433318_1_1779731667044_1779731675145_0.2076563618846583",
@@ -414,45 +414,17 @@
       "vencedorId": 1779731659091,
       "bolasRestantes": 0,
       "timestamp": "2026-06-04T03:02:21.379Z"
+    },
+    {
+      "id": 1780542171373,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731636341,
+      "jogadorBId": 1779731633065,
+      "vencedorId": 1779731633065,
+      "bolasRestantes": 3,
+      "timestamp": "2026-06-04T03:02:51.373Z"
     }
   ],
-  "mataMataAtivo": {
-    "confrontosAtuais": [
-      {
-        "id": "mata_1780542074905_0_1",
-        "jogadorAId": 1779731667712,
-        "jogadorBId": 1779731667044,
-        "vencedorId": null,
-        "finalizado": false,
-        "fase": "Quartas"
-      },
-      {
-        "id": "mata_1780542074905_1_0",
-        "jogadorAId": 1779731636341,
-        "jogadorBId": 1779731637329,
-        "vencedorId": null,
-        "finalizado": false,
-        "fase": "Quartas"
-      },
-      {
-        "id": "mata_1780542074905_2_3",
-        "jogadorAId": 1779731705216,
-        "jogadorBId": 1779731673678,
-        "vencedorId": null,
-        "finalizado": false,
-        "fase": "Quartas"
-      },
-      {
-        "id": "mata_1780542074905_3_2",
-        "jogadorAId": 1779731673128,
-        "jogadorBId": 1779731648820,
-        "vencedorId": null,
-        "finalizado": false,
-        "fase": "Quartas"
-      }
-    ],
-    "participantesProximaRodada": [],
-    "finalizado": false,
-    "campeaoId": null
-  }
+  "mataMataAtivo": null
 }
