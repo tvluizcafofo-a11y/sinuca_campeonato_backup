@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:54:04.246Z",
+  "timestamp": "2026-06-04T12:54:18.206Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -1270,48 +1270,38 @@
       "jogadorBId": 1779731705216,
       "vencedorId": 1779731667712,
       "timestamp": "2026-06-04T12:54:04.246Z"
+    },
+    {
+      "id": 1780577658205,
+      "tipo": "mata",
+      "fase": "Semi-Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731636341,
+      "jogadorBId": 1779731705593,
+      "vencedorId": 1779731636341,
+      "timestamp": "2026-06-04T12:54:18.205Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_1780577586561_0",
-        "jogadorAId": 1779731675145,
-        "jogadorBId": 1779731677633,
-        "vencedorId": 1779731677633,
-        "finalizado": true,
-        "fase": "Semi-Final"
-      },
-      {
-        "id": "mata_1780577586561_1",
-        "jogadorAId": 1780359251062,
-        "jogadorBId": 1779731633065,
-        "vencedorId": 1779731633065,
-        "finalizado": true,
-        "fase": "Semi-Final"
-      },
-      {
-        "id": "mata_1780577586561_2",
+        "id": "mata_1780577658206_0",
         "jogadorAId": 1779731667712,
-        "jogadorBId": 1779731705216,
-        "vencedorId": 1779731667712,
-        "finalizado": true,
+        "jogadorBId": 1779731633065,
+        "vencedorId": null,
+        "finalizado": false,
         "fase": "Semi-Final"
       },
       {
-        "id": "mata_1780577586561_3",
+        "id": "mata_1780577658206_1",
         "jogadorAId": 1779731636341,
-        "jogadorBId": 1779731705593,
+        "jogadorBId": 1779731677633,
         "vencedorId": null,
         "finalizado": false,
         "fase": "Semi-Final"
       }
     ],
-    "participantesProximaRodada": [
-      1779731677633,
-      1779731633065,
-      1779731667712
-    ],
+    "participantesProximaRodada": [],
     "campeaoId": null,
     "finalizado": false,
     "faseAtual": "Oitavas de Final"
