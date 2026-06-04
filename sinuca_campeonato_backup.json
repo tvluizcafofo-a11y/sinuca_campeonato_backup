@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:04:49.821Z",
+  "timestamp": "2026-06-04T12:05:30.773Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -114,8 +114,8 @@
     {
       "id": 1780359196507,
       "nome": "Cascao",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 5
     },
     {
       "id": 1780359210282,
@@ -369,9 +369,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1780359196507,
       "jogadorBId": 1780359221546,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359196507,
+      "realizado": true,
+      "bolasRestantes": 5
     },
     {
       "id": "conf_1780573293460_2_1780359196507_1780359251062_0.6550965544087256",
@@ -810,6 +810,16 @@
       "vencedorId": 1780359352386,
       "bolasRestantes": 6,
       "timestamp": "2026-06-04T12:04:49.820Z"
+    },
+    {
+      "id": 1780574730773,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1780359196507,
+      "jogadorBId": 1780359221546,
+      "vencedorId": 1780359196507,
+      "bolasRestantes": 5,
+      "timestamp": "2026-06-04T12:05:30.773Z"
     }
   ],
   "mataMataAtivo": null
