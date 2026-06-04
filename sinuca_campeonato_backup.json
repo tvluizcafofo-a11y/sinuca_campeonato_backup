@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T03:06:19.364Z",
+  "timestamp": "2026-06-04T03:06:29.003Z",
   "titulo": "I Champion of BH",
   "jogadores": [
     {
@@ -90,8 +90,8 @@
     {
       "id": 1779731706685,
       "nome": "Carlao",
-      "vitorias": 1,
-      "creditoBolas": 1
+      "vitorias": 2,
+      "creditoBolas": 3
     },
     {
       "id": 1779731675145,
@@ -339,9 +339,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731706685,
       "jogadorBId": 1779731705593,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731706685,
+      "realizado": true,
+      "bolasRestantes": 2
     }
   ],
   "partidasHist": [
@@ -574,6 +574,16 @@
       "vencedorId": 1779731673678,
       "bolasRestantes": 6,
       "timestamp": "2026-06-04T03:06:19.364Z"
+    },
+    {
+      "id": 1780542389002,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731706685,
+      "jogadorBId": 1779731705593,
+      "vencedorId": 1779731706685,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-04T03:06:29.002Z"
     }
   ],
   "mataMataAtivo": null
