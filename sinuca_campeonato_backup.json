@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-04T12:16:11.272Z",
+  "timestamp": "2026-06-04T12:16:20.423Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -162,7 +162,7 @@
     {
       "id": 1780359338607,
       "nome": "Mancha Negra",
-      "vitorias": 0,
+      "vitorias": 1,
       "creditoBolas": 0
     },
     {
@@ -486,8 +486,8 @@
       "grupoIndex": 4,
       "jogadorAId": 1779731635399,
       "jogadorBId": 1780359338607,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1780359338607,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -940,6 +940,16 @@
       "vencedorId": 1779731705593,
       "bolasRestantes": 2,
       "timestamp": "2026-06-04T12:16:11.271Z"
+    },
+    {
+      "id": 1780575380422,
+      "tipo": "grupo",
+      "grupoIndex": 4,
+      "jogadorAId": 1779731635399,
+      "jogadorBId": 1780359338607,
+      "vencedorId": 1780359338607,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-04T12:16:20.422Z"
     }
   ],
   "mataMataAtivo": null
