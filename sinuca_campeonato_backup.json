@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T14:06:17.156Z",
+  "timestamp": "2026-06-05T14:06:40.263Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -18,8 +18,8 @@
     {
       "id": 1779731699551,
       "nome": "Juninho",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731637329,
@@ -294,9 +294,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731699551,
       "jogadorBId": 1779731636341,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731699551,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780586015377_3_1779731699551_1779731637329_0.47046487972409556",
@@ -524,6 +524,16 @@
       "vencedorId": 1779731659091,
       "bolasRestantes": 0,
       "timestamp": "2026-06-05T14:06:17.154Z"
+    },
+    {
+      "id": 1780668400261,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731699551,
+      "jogadorBId": 1779731636341,
+      "vencedorId": 1779731699551,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-05T14:06:40.261Z"
     }
   ],
   "mataMataAtivo": null
