@@ -1,12 +1,12 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T16:12:18.565Z",
+  "timestamp": "2026-06-05T16:12:39.044Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
       "id": 1779731677633,
       "nome": "Sr. Geraldo",
-      "vitorias": 2,
+      "vitorias": 3,
       "creditoBolas": 8
     },
     {
@@ -285,8 +285,8 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731677633,
       "jogadorBId": 1779731705216,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731677633,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -514,6 +514,16 @@
       "vencedorId": 1779731705216,
       "bolasRestantes": 2,
       "timestamp": "2026-06-05T16:12:18.564Z"
+    },
+    {
+      "id": 1780675959042,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731677633,
+      "jogadorBId": 1779731705216,
+      "vencedorId": 1779731677633,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-05T16:12:39.042Z"
     }
   ],
   "mataMataAtivo": null
