@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T19:57:08.544Z",
+  "timestamp": "2026-06-05T19:57:38.244Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
@@ -72,8 +72,8 @@
     {
       "id": 1779731705593,
       "nome": "Rodrigo Moraes",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731673678,
@@ -294,9 +294,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731705593,
       "jogadorBId": 1779731659091,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731705593,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780688417472_3_1779731705593_1779731706685_0.1661815586834271",
@@ -524,6 +524,16 @@
       "vencedorId": 1779731699551,
       "bolasRestantes": 5,
       "timestamp": "2026-06-05T19:57:08.544Z"
+    },
+    {
+      "id": 1780689458243,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731705593,
+      "jogadorBId": 1779731659091,
+      "vencedorId": 1779731705593,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-05T19:57:38.243Z"
     }
   ],
   "mataMataAtivo": null
