@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T17:53:21.824Z",
+  "timestamp": "2026-06-05T17:53:59.368Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -36,8 +36,8 @@
     {
       "id": 1779731635399,
       "nome": "Rodrigo Gomes",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 7
     },
     {
       "id": 1779731633065,
@@ -285,9 +285,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731667044,
       "jogadorBId": 1779731635399,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731635399,
+      "realizado": true,
+      "bolasRestantes": 7
     },
     {
       "id": "conf_1780678807285_3_1779731659091_1779731706685_0.10115436403503297",
@@ -525,6 +525,16 @@
       "vencedorId": 1779731675145,
       "bolasRestantes": 0,
       "timestamp": "2026-06-05T17:53:21.823Z"
+    },
+    {
+      "id": 1780682039367,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731667044,
+      "jogadorBId": 1779731635399,
+      "vencedorId": 1779731635399,
+      "bolasRestantes": 7,
+      "timestamp": "2026-06-05T17:53:59.367Z"
     }
   ],
   "mataMataAtivo": null
