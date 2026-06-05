@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T19:55:04.938Z",
+  "timestamp": "2026-06-05T19:55:48.456Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
@@ -42,8 +42,8 @@
     {
       "id": 1779731633065,
       "nome": "Luiz",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 1
     },
     {
       "id": 1779731659091,
@@ -240,9 +240,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731635399,
       "jogadorBId": 1779731633065,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731633065,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780688417472_2_1779731635399_1779731699551_0.2984784370592203",
@@ -464,6 +464,16 @@
       "vencedorId": 1779731677633,
       "bolasRestantes": 0,
       "timestamp": "2026-06-05T19:55:04.938Z"
+    },
+    {
+      "id": 1780689348455,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731635399,
+      "jogadorBId": 1779731633065,
+      "vencedorId": 1779731633065,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-05T19:55:48.455Z"
     }
   ],
   "mataMataAtivo": null
