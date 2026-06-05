@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T19:54:12.725Z",
+  "timestamp": "2026-06-05T19:54:20.689Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
@@ -54,8 +54,8 @@
     {
       "id": 1779731673128,
       "nome": "Ernani",
-      "vitorias": 1,
-      "creditoBolas": 0
+      "vitorias": 2,
+      "creditoBolas": 2
     },
     {
       "id": 1779731667712,
@@ -204,9 +204,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731648820,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731673128,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780688417472_1_1779731636341_1779731677633_0.8185669019661314",
@@ -424,6 +424,16 @@
       "vencedorId": 1779731677633,
       "bolasRestantes": 2,
       "timestamp": "2026-06-05T19:54:12.725Z"
+    },
+    {
+      "id": 1780689260688,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731673128,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-05T19:54:20.689Z"
     }
   ],
   "mataMataAtivo": null
