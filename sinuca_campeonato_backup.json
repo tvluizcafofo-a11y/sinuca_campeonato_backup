@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T14:01:24.030Z",
+  "timestamp": "2026-06-05T14:04:12.379Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -66,8 +66,8 @@
     {
       "id": 1779731705216,
       "nome": "Lau Taxi",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 3
     },
     {
       "id": 1779731705593,
@@ -240,9 +240,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731705216,
       "jogadorBId": 1779731648820,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731705216,
+      "realizado": true,
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1780586015377_2_1779731705216_1779731633065_0.5009360071661161",
@@ -464,6 +464,16 @@
       "vencedorId": 1779731667712,
       "bolasRestantes": 2,
       "timestamp": "2026-06-05T14:01:24.021Z"
+    },
+    {
+      "id": 1780668252376,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731705216,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731705216,
+      "bolasRestantes": 3,
+      "timestamp": "2026-06-05T14:04:12.376Z"
     }
   ],
   "mataMataAtivo": null
