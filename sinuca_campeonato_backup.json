@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T19:50:46.365Z",
+  "timestamp": "2026-06-05T19:51:33.934Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
@@ -60,8 +60,8 @@
     {
       "id": 1779731667712,
       "nome": "Saulinho",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 1
     },
     {
       "id": 1779731705216,
@@ -168,9 +168,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731675145,
       "jogadorBId": 1779731667712,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731667712,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780688417472_0_1779731637329_1779731667712_0.9917245508700486",
@@ -384,6 +384,16 @@
       "vencedorId": 1779731675145,
       "bolasRestantes": 0,
       "timestamp": "2026-06-05T19:50:46.364Z"
+    },
+    {
+      "id": 1780689093934,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731675145,
+      "jogadorBId": 1779731667712,
+      "vencedorId": 1779731667712,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-05T19:51:33.934Z"
     }
   ],
   "mataMataAtivo": null
