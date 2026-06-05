@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T16:07:45.900Z",
+  "timestamp": "2026-06-05T16:07:53.841Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -48,7 +48,7 @@
     {
       "id": 1779731659091,
       "nome": "Rodrigo Digao",
-      "vitorias": 0,
+      "vitorias": 1,
       "creditoBolas": 0
     },
     {
@@ -159,8 +159,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731659091,
       "jogadorBId": 1779731673678,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731659091,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -374,6 +374,16 @@
       "vencedorId": 1779731673128,
       "bolasRestantes": 5,
       "timestamp": "2026-06-05T16:07:45.899Z"
+    },
+    {
+      "id": 1780675673840,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731659091,
+      "jogadorBId": 1779731673678,
+      "vencedorId": 1779731659091,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-05T16:07:53.840Z"
     }
   ],
   "mataMataAtivo": null
