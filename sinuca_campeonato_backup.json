@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T19:49:31.692Z",
+  "timestamp": "2026-06-05T19:50:24.685Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
@@ -24,7 +24,7 @@
     {
       "id": 1779731637329,
       "nome": "Cassio",
-      "vitorias": 0,
+      "vitorias": 1,
       "creditoBolas": 0
     },
     {
@@ -141,8 +141,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731705216,
       "jogadorBId": 1779731637329,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731637329,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -354,6 +354,16 @@
       "vencedorId": 1779731675145,
       "bolasRestantes": 0,
       "timestamp": "2026-06-05T19:49:31.691Z"
+    },
+    {
+      "id": 1780689024685,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731705216,
+      "jogadorBId": 1779731637329,
+      "vencedorId": 1779731637329,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-05T19:50:24.685Z"
     }
   ],
   "mataMataAtivo": null
