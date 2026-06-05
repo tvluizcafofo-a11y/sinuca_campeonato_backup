@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T17:18:01.519Z",
+  "timestamp": "2026-06-05T17:18:08.928Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -24,8 +24,8 @@
     {
       "id": 1779731637329,
       "nome": "Cassio",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 1
     },
     {
       "id": 1779731636341,
@@ -204,9 +204,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731705593,
       "jogadorBId": 1779731637329,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731637329,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780678807284_1_1779731633065_1779731673128_0.4456161403239216",
@@ -435,6 +435,16 @@
       "vencedorId": 1779731673128,
       "bolasRestantes": 3,
       "timestamp": "2026-06-05T17:18:01.518Z"
+    },
+    {
+      "id": 1780679888927,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731705593,
+      "jogadorBId": 1779731637329,
+      "vencedorId": 1779731637329,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-05T17:18:08.927Z"
     }
   ],
   "mataMataAtivo": null
