@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T17:19:10.725Z",
+  "timestamp": "2026-06-05T17:19:18.865Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -54,8 +54,8 @@
     {
       "id": 1779731673128,
       "nome": "Ernani",
-      "vitorias": 2,
-      "creditoBolas": 8
+      "vitorias": 3,
+      "creditoBolas": 10
     },
     {
       "id": 1779731667712,
@@ -231,9 +231,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731637329,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731673128,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780678807285_2_1779731705216_1779731675145_0.5433910823116916",
@@ -465,6 +465,16 @@
       "vencedorId": 1779731633065,
       "bolasRestantes": 5,
       "timestamp": "2026-06-05T17:19:10.724Z"
+    },
+    {
+      "id": 1780679958864,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731637329,
+      "vencedorId": 1779731673128,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-05T17:19:18.864Z"
     }
   ],
   "mataMataAtivo": null
