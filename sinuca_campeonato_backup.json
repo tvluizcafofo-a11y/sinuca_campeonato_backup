@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T11:26:48.998Z",
+  "timestamp": "2026-06-05T11:27:00.005Z",
   "titulo": "III CAMPEONATO DE SINUCA - LEKÃO",
   "jogadores": [
     {
@@ -84,8 +84,8 @@
     {
       "id": 1779731667044,
       "nome": "Andre",
-      "vitorias": 2,
-      "creditoBolas": 5
+      "vitorias": 3,
+      "creditoBolas": 6
     },
     {
       "id": 1779731706685,
@@ -222,9 +222,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731667044,
       "jogadorBId": 1779731667712,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731667044,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780586015377_1_1779731673128_1779731667712_0.2632057148496275",
@@ -444,6 +444,16 @@
       "vencedorId": 1779731667044,
       "bolasRestantes": 3,
       "timestamp": "2026-06-05T11:26:48.997Z"
+    },
+    {
+      "id": 1780658820004,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731667044,
+      "jogadorBId": 1779731667712,
+      "vencedorId": 1779731667044,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-05T11:27:00.004Z"
     }
   ],
   "mataMataAtivo": null
