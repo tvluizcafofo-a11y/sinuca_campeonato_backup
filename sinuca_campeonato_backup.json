@@ -1,12 +1,12 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T19:54:56.711Z",
+  "timestamp": "2026-06-05T19:55:04.938Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
       "id": 1779731677633,
       "nome": "Sr. Geraldo",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 2
     },
     {
@@ -231,8 +231,8 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731677633,
       "jogadorBId": 1779731648820,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731677633,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -454,6 +454,16 @@
       "vencedorId": 1779731648820,
       "bolasRestantes": 0,
       "timestamp": "2026-06-05T19:54:56.711Z"
+    },
+    {
+      "id": 1780689304938,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731677633,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731677633,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-05T19:55:04.938Z"
     }
   ],
   "mataMataAtivo": null
