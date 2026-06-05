@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-05T19:57:47.462Z",
+  "timestamp": "2026-06-05T19:57:56.386Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
@@ -84,8 +84,8 @@
     {
       "id": 1779731667044,
       "nome": "Andre",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 1
     },
     {
       "id": 1779731706685,
@@ -312,9 +312,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731705593,
       "jogadorBId": 1779731667044,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731667044,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780688417472_3_1779731659091_1779731706685_0.7062039064938892",
@@ -544,6 +544,16 @@
       "vencedorId": 1779731706685,
       "bolasRestantes": 4,
       "timestamp": "2026-06-05T19:57:47.461Z"
+    },
+    {
+      "id": 1780689476385,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731705593,
+      "jogadorBId": 1779731667044,
+      "vencedorId": 1779731667044,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-05T19:57:56.385Z"
     }
   ],
   "mataMataAtivo": null
