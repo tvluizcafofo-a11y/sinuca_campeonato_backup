@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-06T14:33:24.296Z",
+  "timestamp": "2026-06-06T14:33:57.405Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -56,7 +56,7 @@
       "nome": "Luiz",
       "email": "tvluizcafofo@gmail.com",
       "telefone": "31988129977",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 5
     },
     {
@@ -317,8 +317,8 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731706685,
       "jogadorBId": 1779731633065,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731633065,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -426,6 +426,16 @@
       "vencedorId": 1779731667712,
       "bolasRestantes": 0,
       "timestamp": "2026-06-06T14:33:24.294Z"
+    },
+    {
+      "id": 1780756437404,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731706685,
+      "jogadorBId": 1779731633065,
+      "vencedorId": 1779731633065,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-06T14:33:57.404Z"
     }
   ],
   "mataMataAtivo": null
