@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-06T18:22:36.649Z",
+  "timestamp": "2026-06-06T18:22:43.929Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -176,8 +176,8 @@
       "nome": "Huguinho",
       "email": "",
       "telefone": "",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1780359243391,
@@ -325,9 +325,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1780359196507,
       "jogadorBId": 1780359237034,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359237034,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780769818460_0_1780359196507_1780359180129_0.15637851716552587",
@@ -754,6 +754,16 @@
       "vencedorId": 1780359196507,
       "bolasRestantes": 1,
       "timestamp": "2026-06-06T18:22:36.648Z"
+    },
+    {
+      "id": 1780770163929,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1780359196507,
+      "jogadorBId": 1780359237034,
+      "vencedorId": 1780359237034,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-06T18:22:43.929Z"
     }
   ],
   "mataMataAtivo": null
