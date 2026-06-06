@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-06T11:36:48.175Z",
+  "timestamp": "2026-06-06T11:37:10.112Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
@@ -8,8 +8,8 @@
       "nome": "Tulinho",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
-      "creditoBolas": 11
+      "vitorias": 3,
+      "creditoBolas": 16
     },
     {
       "id": 1779731699551,
@@ -187,9 +187,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731648820,
       "jogadorBId": 1779731659091,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731648820,
+      "realizado": true,
+      "bolasRestantes": 5
     }
   ],
   "partidasHist": [
@@ -302,6 +302,16 @@
       "vencedorId": 1779731637329,
       "bolasRestantes": 0,
       "timestamp": "2026-06-06T11:36:48.174Z"
+    },
+    {
+      "id": 1780745830112,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731648820,
+      "jogadorBId": 1779731659091,
+      "vencedorId": 1779731648820,
+      "bolasRestantes": 5,
+      "timestamp": "2026-06-06T11:37:10.112Z"
     }
   ],
   "mataMataAtivo": null
