@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-06T14:22:46.188Z",
+  "timestamp": "2026-06-06T14:27:58.905Z",
   "titulo": "🎱 Campeonato de Sinuca",
   "jogadores": [
     {
@@ -54,8 +54,8 @@
     {
       "id": 1779731633065,
       "nome": "Luiz",
-      "email": "",
-      "telefone": "",
+      "email": "tvluizcafofo@gmail.com",
+      "telefone": "31988129977",
       "vitorias": 0,
       "creditoBolas": 0
     },
