@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-06T12:40:53.673Z",
+  "timestamp": "2026-06-06T12:41:00.780Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
@@ -16,8 +16,8 @@
       "nome": "Juninho",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 0
+      "vitorias": 2,
+      "creditoBolas": 3
     },
     {
       "id": 1779731637329,
@@ -97,9 +97,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731699551,
       "jogadorBId": 1779731635399,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731699551,
+      "realizado": true,
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1780749631640_0_1779731699551_1779731637329_0.22743670875328958",
@@ -202,6 +202,16 @@
       "vencedorId": 1779731699551,
       "bolasRestantes": 0,
       "timestamp": "2026-06-06T12:40:53.672Z"
+    },
+    {
+      "id": 1780749660779,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731699551,
+      "jogadorBId": 1779731635399,
+      "vencedorId": 1779731699551,
+      "bolasRestantes": 3,
+      "timestamp": "2026-06-06T12:41:00.779Z"
     }
   ],
   "mataMataAtivo": null
