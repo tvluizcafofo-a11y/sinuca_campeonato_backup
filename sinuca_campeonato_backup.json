@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-06T04:23:26.533Z",
+  "timestamp": "2026-06-06T04:24:09.536Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
@@ -322,30 +322,30 @@
       "jogadorBId": 1779731637329,
       "vencedorId": 1779731633065,
       "timestamp": "2026-06-06T04:23:26.531Z"
+    },
+    {
+      "id": 1780719849531,
+      "tipo": "mata",
+      "fase": "Quartas de Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731648820,
+      "jogadorBId": 1779731675145,
+      "vencedorId": 1779731675145,
+      "timestamp": "2026-06-06T04:24:09.531Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_quartas_1780719677943_0_1_1",
+        "id": "mata_1780719849535_0",
         "jogadorAId": 1779731633065,
-        "jogadorBId": 1779731637329,
-        "vencedorId": 1779731633065,
-        "finalizado": true,
-        "fase": "Quartas de Final"
-      },
-      {
-        "id": "mata_quartas_1780719677943_1_0_2",
-        "jogadorAId": 1779731648820,
         "jogadorBId": 1779731675145,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas de Final"
+        "fase": "Final"
       }
     ],
-    "participantesProximaRodada": [
-      1779731633065
-    ],
+    "participantesProximaRodada": [],
     "campeaoId": null,
     "finalizado": false,
     "faseAtual": "Quartas de Final"
