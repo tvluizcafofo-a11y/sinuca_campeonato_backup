@@ -1,6 +1,6 @@
 {
   "versao": "1.0",
-  "timestamp": "2026-06-06T05:14:30.014Z",
+  "timestamp": "2026-06-06T05:15:15.987Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
@@ -25,7 +25,7 @@
       "id": 1779731636341,
       "nome": "Plinio",
       "vitorias": 2,
-      "creditoBolas": 7
+      "creditoBolas": 6
     },
     {
       "id": 1779731635399,
@@ -119,7 +119,7 @@
       "jogadorBId": 1779731633065,
       "vencedorId": 1779731636341,
       "realizado": true,
-      "bolasRestantes": 4
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1780722151862_1_1779731637329_1779731675145_0.03169399927270089",
@@ -286,6 +286,17 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 4,
       "timestamp": "2026-06-06T05:14:30.014Z"
+    },
+    {
+      "id": 1780722915986,
+      "tipo": "edit_grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731636341,
+      "jogadorBId": 1779731633065,
+      "vencedorId": 1779731636341,
+      "bolasRestantes": 3,
+      "antigoVencedorId": 1779731636341,
+      "timestamp": "2026-06-06T05:15:15.986Z"
     }
   ],
   "mataMataAtivo": null
