@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-06T18:31:47.156Z",
+  "timestamp": "2026-06-06T18:31:55.905Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -64,8 +64,8 @@
       "nome": "Rodrigo Digao",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
-      "creditoBolas": 5
+      "vitorias": 3,
+      "creditoBolas": 6
     },
     {
       "id": 1779731673128,
@@ -739,9 +739,9 @@
       "grupoIndex": 7,
       "jogadorAId": 1779731659091,
       "jogadorBId": 1780359338607,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731659091,
+      "realizado": true,
+      "bolasRestantes": 1
     }
   ],
   "partidasHist": [
@@ -1214,6 +1214,16 @@
       "vencedorId": 1780359251062,
       "bolasRestantes": 6,
       "timestamp": "2026-06-06T18:31:47.155Z"
+    },
+    {
+      "id": 1780770715904,
+      "tipo": "grupo",
+      "grupoIndex": 7,
+      "jogadorAId": 1779731659091,
+      "jogadorBId": 1780359338607,
+      "vencedorId": 1779731659091,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-06T18:31:55.904Z"
     }
   ],
   "mataMataAtivo": null
