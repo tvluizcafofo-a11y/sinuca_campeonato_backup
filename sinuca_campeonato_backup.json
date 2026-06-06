@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-06T18:23:09.860Z",
+  "timestamp": "2026-06-06T18:23:17.726Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -144,8 +144,8 @@
       "nome": "Cebolinha",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 6
+      "vitorias": 2,
+      "creditoBolas": 8
     },
     {
       "id": 1780359196507,
@@ -361,9 +361,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1780359237034,
       "jogadorBId": 1780359180129,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359180129,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780769818460_1_1780359171752_1779731667712_0.5419762196685699",
@@ -794,6 +794,16 @@
       "vencedorId": 1780359210282,
       "bolasRestantes": 2,
       "timestamp": "2026-06-06T18:23:09.860Z"
+    },
+    {
+      "id": 1780770197726,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1780359237034,
+      "jogadorBId": 1780359180129,
+      "vencedorId": 1780359180129,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-06T18:23:17.726Z"
     }
   ],
   "mataMataAtivo": null
