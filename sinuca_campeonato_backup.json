@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-06T04:00:29.589Z",
+  "timestamp": "2026-06-06T04:02:25.698Z",
   "titulo": "VI CAMPEONATO DE SINUCA",
   "jogadores": [
     {
@@ -8,8 +8,8 @@
       "nome": "Tulinho",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 0
+      "vitorias": 2,
+      "creditoBolas": 3
     },
     {
       "id": 1779731699551,
@@ -48,7 +48,7 @@
       "nome": "Luiz",
       "email": "tvluizcafofo@gmail.com",
       "telefone": "31988129977",
-      "vitorias": 3,
+      "vitorias": 2,
       "creditoBolas": 5
     },
     {
@@ -187,9 +187,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731633065,
       "jogadorBId": 1779731648820,
-      "vencedorId": 1779731633065,
+      "vencedorId": 1779731648820,
       "realizado": true,
-      "bolasRestantes": 0
+      "bolasRestantes": 3
     }
   ],
   "partidasHist": [
@@ -312,6 +312,17 @@
       "vencedorId": 1779731633065,
       "bolasRestantes": 0,
       "timestamp": "2026-06-06T04:00:29.589Z"
+    },
+    {
+      "id": 1780718545698,
+      "tipo": "edit_grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731648820,
+      "bolasRestantes": 3,
+      "antigoVencedorId": 1779731633065,
+      "timestamp": "2026-06-06T04:02:25.698Z"
     }
   ],
   "mataMataAtivo": null
