@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-06T18:26:45.587Z",
+  "timestamp": "2026-06-06T18:26:53.513Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -184,8 +184,8 @@
       "nome": "Zezinho",
       "email": "",
       "telefone": "",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1780359251062,
@@ -487,9 +487,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1780359291798,
       "jogadorBId": 1780359243391,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1780359243391,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780769818460_3_1780359291798_1779731636341_0.2943033470398755",
@@ -934,6 +934,16 @@
       "vencedorId": 1779731633065,
       "bolasRestantes": 2,
       "timestamp": "2026-06-06T18:26:45.587Z"
+    },
+    {
+      "id": 1780770413512,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1780359291798,
+      "jogadorBId": 1780359243391,
+      "vencedorId": 1780359243391,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-06T18:26:53.512Z"
     }
   ],
   "mataMataAtivo": null
