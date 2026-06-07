@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-07T11:16:20.288Z",
+  "timestamp": "2026-06-07T11:16:30.685Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -32,8 +32,8 @@
       "nome": "Cassio",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 0
+      "vitorias": 2,
+      "creditoBolas": 2
     },
     {
       "id": 1779731636341,
@@ -290,9 +290,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731637329,
       "jogadorBId": 1779731648820,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731637329,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780777306502_2_1779731705593_1779731673678_0.09923245736512387",
@@ -516,6 +516,16 @@
       "vencedorId": 1779731673678,
       "bolasRestantes": 0,
       "timestamp": "2026-06-07T11:16:20.288Z"
+    },
+    {
+      "id": 1780830990685,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731637329,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731637329,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-07T11:16:30.685Z"
     }
   ],
   "mataMataAtivo": null
