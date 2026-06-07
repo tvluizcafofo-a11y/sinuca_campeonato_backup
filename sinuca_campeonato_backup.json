@@ -1,6 +1,6 @@
 {
   "versao": "2.3",
-  "timestamp": "2026-06-07T14:21:55.251Z",
+  "timestamp": "2026-06-07T14:23:02.008Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -672,6 +672,16 @@
       "jogadorBId": 1779731673128,
       "vencedorId": 1779731673128,
       "timestamp": "2026-06-07T14:21:55.248Z"
+    },
+    {
+      "id": 1780842182007,
+      "tipo": "mata",
+      "fase": "Semi-Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731667712,
+      "jogadorBId": 1779731673128,
+      "vencedorId": 1779731667712,
+      "timestamp": "2026-06-07T14:23:02.007Z"
     }
   ],
   "mataMataAtivo": {
@@ -680,8 +690,8 @@
         "id": "mata_1780842115251_0",
         "jogadorAId": 1779731667712,
         "jogadorBId": 1779731673128,
-        "vencedorId": null,
-        "finalizado": false,
+        "vencedorId": 1779731667712,
+        "finalizado": true,
         "fase": "Semi-Final"
       },
       {
@@ -693,7 +703,9 @@
         "fase": "Semi-Final"
       }
     ],
-    "participantesProximaRodada": [],
+    "participantesProximaRodada": [
+      1779731667712
+    ],
     "campeaoId": null,
     "finalizado": false,
     "faseAtual": "Quartas de Final"
