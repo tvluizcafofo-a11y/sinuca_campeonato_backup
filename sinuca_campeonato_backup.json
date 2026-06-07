@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-07T11:13:47.284Z",
+  "timestamp": "2026-06-07T11:13:55.459Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -120,8 +120,8 @@
       "nome": "Carlao",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 1
+      "vitorias": 2,
+      "creditoBolas": 3
     },
     {
       "id": 1779731675145,
@@ -200,9 +200,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731659091,
       "jogadorBId": 1779731706685,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731706685,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780777306501_0_1779731667044_1779731706685_0.8813652181103399",
@@ -416,6 +416,16 @@
       "vencedorId": 1779731659091,
       "bolasRestantes": 2,
       "timestamp": "2026-06-07T11:13:47.282Z"
+    },
+    {
+      "id": 1780830835459,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731659091,
+      "jogadorBId": 1779731706685,
+      "vencedorId": 1779731706685,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-07T11:13:55.459Z"
     }
   ],
   "mataMataAtivo": null
