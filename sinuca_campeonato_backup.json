@@ -1,14 +1,13 @@
 {
-  "versao": "2.3",
-  "timestamp": "2026-06-07T18:20:08.108Z",
-  "titulo": "🎱 III Campeonato de Sinuca",
+  "versao": "2.0",
+  "timestamp": "2026-06-07T18:46:25.200Z",
+  "titulo": "🎱 IX Campeonato de Sinuca",
   "jogadores": [
     {
       "id": 1779731677633,
       "nome": "Sr. Geraldo",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 2,
       "creditoBolas": 1
     },
@@ -17,7 +16,6 @@
       "nome": "Tulinho",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 0,
       "creditoBolas": 0
     },
@@ -26,7 +24,6 @@
       "nome": "Juninho",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 2,
       "creditoBolas": 3
     },
@@ -35,7 +32,6 @@
       "nome": "Cassio",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 2,
       "creditoBolas": 2
     },
@@ -44,7 +40,6 @@
       "nome": "Plinio",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 2,
       "creditoBolas": 2
     },
@@ -53,7 +48,6 @@
       "nome": "Rodrigo Gomes",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 0,
       "creditoBolas": 0
     },
@@ -62,7 +56,6 @@
       "nome": "Luiz",
       "email": "tvluizcafofo@gmail.com",
       "telefone": "31988129977",
-      "foto": null,
       "vitorias": 2,
       "creditoBolas": 6
     },
@@ -71,7 +64,6 @@
       "nome": "Rodrigo Digao",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 2,
       "creditoBolas": 2
     },
@@ -80,7 +72,6 @@
       "nome": "Ernani",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 2,
       "creditoBolas": 1
     },
@@ -89,7 +80,6 @@
       "nome": "Saulinho",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 1,
       "creditoBolas": 6
     },
@@ -98,7 +88,6 @@
       "nome": "Lau Taxi",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 0,
       "creditoBolas": 0
     },
@@ -107,7 +96,6 @@
       "nome": "Rodrigo Moraes",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 2,
       "creditoBolas": 3
     },
@@ -116,7 +104,6 @@
       "nome": "Felipe Lekao",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 2,
       "creditoBolas": 2
     },
@@ -125,7 +112,6 @@
       "nome": "Andre",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 1,
       "creditoBolas": 1
     },
@@ -134,7 +120,6 @@
       "nome": "Carlao",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 3,
       "creditoBolas": 4
     },
@@ -143,7 +128,6 @@
       "nome": "Wilson",
       "email": "",
       "telefone": "",
-      "foto": null,
       "vitorias": 1,
       "creditoBolas": 3
     }
