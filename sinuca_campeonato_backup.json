@@ -1,6 +1,6 @@
 {
   "versao": "2.3",
-  "timestamp": "2026-06-07T14:21:46.952Z",
+  "timestamp": "2026-06-07T14:21:55.251Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -662,48 +662,38 @@
       "jogadorBId": 1779731705593,
       "vencedorId": 1779731667712,
       "timestamp": "2026-06-07T14:21:46.951Z"
+    },
+    {
+      "id": 1780842115248,
+      "tipo": "mata",
+      "fase": "Quartas de Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731673678,
+      "jogadorBId": 1779731673128,
+      "vencedorId": 1779731673128,
+      "timestamp": "2026-06-07T14:21:55.248Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_quartas_1780842081945_0_1_1",
-        "jogadorAId": 1779731637329,
-        "jogadorBId": 1779731633065,
-        "vencedorId": 1779731633065,
-        "finalizado": true,
-        "fase": "Quartas de Final"
-      },
-      {
-        "id": "mata_quartas_1780842081945_1_0_2",
-        "jogadorAId": 1779731636341,
-        "jogadorBId": 1779731667044,
-        "vencedorId": 1779731667044,
-        "finalizado": true,
-        "fase": "Quartas de Final"
-      },
-      {
-        "id": "mata_quartas_1780842081945_2_3_1",
+        "id": "mata_1780842115251_0",
         "jogadorAId": 1779731667712,
-        "jogadorBId": 1779731705593,
-        "vencedorId": 1779731667712,
-        "finalizado": true,
-        "fase": "Quartas de Final"
-      },
-      {
-        "id": "mata_quartas_1780842081945_3_2_2",
-        "jogadorAId": 1779731673678,
         "jogadorBId": 1779731673128,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas de Final"
+        "fase": "Semi-Final"
+      },
+      {
+        "id": "mata_1780842115251_1",
+        "jogadorAId": 1779731633065,
+        "jogadorBId": 1779731667044,
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Semi-Final"
       }
     ],
-    "participantesProximaRodada": [
-      1779731633065,
-      1779731667044,
-      1779731667712
-    ],
+    "participantesProximaRodada": [],
     "campeaoId": null,
     "finalizado": false,
     "faseAtual": "Quartas de Final"
