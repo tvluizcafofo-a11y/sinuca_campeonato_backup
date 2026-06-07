@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-07T11:17:29.435Z",
+  "timestamp": "2026-06-07T11:18:57.525Z",
   "titulo": "🎱 I Campeonato de Sinuca",
   "jogadores": [
     {
@@ -16,8 +16,8 @@
       "nome": "Tulinho",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 2
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731699551,
@@ -96,8 +96,8 @@
       "nome": "Rodrigo Moraes",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 2
+      "vitorias": 2,
+      "creditoBolas": 3
     },
     {
       "id": 1779731673678,
@@ -308,9 +308,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731705593,
       "jogadorBId": 1779731648820,
-      "vencedorId": 1779731648820,
+      "vencedorId": 1779731705593,
       "realizado": true,
-      "bolasRestantes": 2
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780777306502_2_1779731673678_1779731648820_0.14340457715799415",
@@ -556,6 +556,17 @@
       "vencedorId": 1779731673678,
       "bolasRestantes": 2,
       "timestamp": "2026-06-07T11:17:29.435Z"
+    },
+    {
+      "id": 1780831137525,
+      "tipo": "edit_grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731705593,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731705593,
+      "bolasRestantes": 1,
+      "antigoVencedorId": 1779731648820,
+      "timestamp": "2026-06-07T11:18:57.525Z"
     }
   ],
   "mataMataAtivo": null
