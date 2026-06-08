@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T16:06:01.662Z",
+  "timestamp": "2026-06-08T20:46:33.200Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -8,8 +8,8 @@
       "nome": "Sr. Geraldo",
       "email": "",
       "telefone": "",
-      "vitorias": 3,
-      "creditoBolas": 2
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731648820,
@@ -24,23 +24,23 @@
       "nome": "Juninho",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
-      "creditoBolas": 2
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731637329,
       "nome": "Cassio",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 3
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731636341,
       "nome": "Plinio",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
+      "vitorias": 0,
       "creditoBolas": 0
     },
     {
@@ -48,7 +48,7 @@
       "nome": "Rodrigo Gomes",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
+      "vitorias": 0,
       "creditoBolas": 0
     },
     {
@@ -56,47 +56,47 @@
       "nome": "Luiz",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
-      "creditoBolas": 4
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731659091,
       "nome": "Rodrigo Digao",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 2
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731673128,
       "nome": "Ernani",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
-      "creditoBolas": 2
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731667712,
       "nome": "Saulinho",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
-      "creditoBolas": 1
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731705216,
       "nome": "Lau Taxi",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 2
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731705593,
       "nome": "Rodrigo Moraes",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
+      "vitorias": 0,
       "creditoBolas": 0
     },
     {
@@ -104,597 +104,278 @@
       "nome": "Felipe Lekao",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
-      "creditoBolas": 4
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731667044,
       "nome": "Andre",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
-      "creditoBolas": 5
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731706685,
       "nome": "Carlao",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
-      "creditoBolas": 7
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731675145,
       "nome": "Wilson",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 2
+      "vitorias": 0,
+      "creditoBolas": 0
     }
   ],
   "gruposSalvos": [
     [
-      1779731636341,
+      1779731635399,
       1779731706685,
-      1779731637329,
+      1779731633065,
       1779731667712
     ],
     [
-      1779731673678,
-      1779731675145,
-      1779731699551,
-      1779731705216
-    ],
-    [
       1779731667044,
-      1779731648820,
-      1779731659091,
-      1779731677633
+      1779731636341,
+      1779731705216,
+      1779731648820
     ],
     [
-      1779731633065,
-      1779731673128,
+      1779731677633,
+      1779731673678,
       1779731705593,
-      1779731635399
+      1779731659091
+    ],
+    [
+      1779731699551,
+      1779731673128,
+      1779731675145,
+      1779731637329
     ]
   ],
   "confrontosGrupo": [
     {
-      "id": "conf_1780934153681_0_1779731636341_1779731706685_0.565962776023209",
+      "id": "conf_1780951593180_0_1779731635399_1779731706685_0.09705767080941963",
       "grupoIndex": 0,
-      "jogadorAId": 1779731636341,
+      "jogadorAId": 1779731635399,
       "jogadorBId": 1779731706685,
-      "vencedorId": 1779731636341,
-      "realizado": true,
+      "vencedorId": null,
+      "realizado": false,
       "bolasRestantes": 0
     },
     {
-      "id": "conf_1780934153681_0_1779731636341_1779731637329_0.1989529568352989",
+      "id": "conf_1780951593180_0_1779731635399_1779731633065_0.22393836508547005",
       "grupoIndex": 0,
-      "jogadorAId": 1779731636341,
-      "jogadorBId": 1779731637329,
-      "vencedorId": 1779731637329,
-      "realizado": true,
-      "bolasRestantes": 3
-    },
-    {
-      "id": "conf_1780934153681_0_1779731636341_1779731667712_0.47983859343484925",
-      "grupoIndex": 0,
-      "jogadorAId": 1779731636341,
-      "jogadorBId": 1779731667712,
-      "vencedorId": 1779731667712,
-      "realizado": true,
-      "bolasRestantes": 1
-    },
-    {
-      "id": "conf_1780934153681_0_1779731706685_1779731637329_0.2990506827595917",
-      "grupoIndex": 0,
-      "jogadorAId": 1779731706685,
-      "jogadorBId": 1779731637329,
-      "vencedorId": 1779731706685,
-      "realizado": true,
-      "bolasRestantes": 6
-    },
-    {
-      "id": "conf_1780934153681_0_1779731706685_1779731667712_0.9360865474764873",
-      "grupoIndex": 0,
-      "jogadorAId": 1779731706685,
-      "jogadorBId": 1779731667712,
-      "vencedorId": 1779731706685,
-      "realizado": true,
-      "bolasRestantes": 1
-    },
-    {
-      "id": "conf_1780934153681_0_1779731637329_1779731667712_0.3739745899079866",
-      "grupoIndex": 0,
-      "jogadorAId": 1779731637329,
-      "jogadorBId": 1779731667712,
-      "vencedorId": 1779731667712,
-      "realizado": true,
+      "jogadorAId": 1779731635399,
+      "jogadorBId": 1779731633065,
+      "vencedorId": null,
+      "realizado": false,
       "bolasRestantes": 0
     },
     {
-      "id": "conf_1780934153681_1_1779731673678_1779731675145_0.24356209405152274",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731673678,
-      "jogadorBId": 1779731675145,
-      "vencedorId": 1779731673678,
-      "realizado": true,
-      "bolasRestantes": 2
+      "id": "conf_1780951593180_0_1779731635399_1779731667712_0.6589081176589866",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731635399,
+      "jogadorBId": 1779731667712,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
     },
     {
-      "id": "conf_1780934153681_1_1779731673678_1779731699551_0.5847254716941883",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731673678,
-      "jogadorBId": 1779731699551,
-      "vencedorId": 1779731699551,
-      "realizado": true,
-      "bolasRestantes": 1
+      "id": "conf_1780951593180_0_1779731706685_1779731633065_0.49052667717979936",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731706685,
+      "jogadorBId": 1779731633065,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
     },
     {
-      "id": "conf_1780934153681_1_1779731673678_1779731705216_0.6229809856043212",
+      "id": "conf_1780951593180_0_1779731706685_1779731667712_0.14740224963899617",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731706685,
+      "jogadorBId": 1779731667712,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
+    },
+    {
+      "id": "conf_1780951593180_0_1779731633065_1779731667712_0.8938624619859762",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731667712,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
+    },
+    {
+      "id": "conf_1780951593180_1_1779731667044_1779731636341_0.7277809442749245",
       "grupoIndex": 1,
-      "jogadorAId": 1779731673678,
+      "jogadorAId": 1779731667044,
+      "jogadorBId": 1779731636341,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
+    },
+    {
+      "id": "conf_1780951593180_1_1779731667044_1779731705216_0.4791151765179479",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731667044,
       "jogadorBId": 1779731705216,
-      "vencedorId": 1779731673678,
-      "realizado": true,
-      "bolasRestantes": 2
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
     },
     {
-      "id": "conf_1780934153681_1_1779731675145_1779731699551_0.033199668082772305",
+      "id": "conf_1780951593180_1_1779731667044_1779731648820_0.5397465421906129",
       "grupoIndex": 1,
-      "jogadorAId": 1779731675145,
-      "jogadorBId": 1779731699551,
-      "vencedorId": 1779731675145,
-      "realizado": true,
-      "bolasRestantes": 2
-    },
-    {
-      "id": "conf_1780934153681_1_1779731675145_1779731705216_0.8993344892678586",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731675145,
-      "jogadorBId": 1779731705216,
-      "vencedorId": 1779731705216,
-      "realizado": true,
-      "bolasRestantes": 2
-    },
-    {
-      "id": "conf_1780934153681_1_1779731699551_1779731705216_0.4151260484854822",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731699551,
-      "jogadorBId": 1779731705216,
-      "vencedorId": 1779731699551,
-      "realizado": true,
-      "bolasRestantes": 1
-    },
-    {
-      "id": "conf_1780934153681_2_1779731667044_1779731648820_0.5827623704305571",
-      "grupoIndex": 2,
       "jogadorAId": 1779731667044,
       "jogadorBId": 1779731648820,
-      "vencedorId": 1779731667044,
-      "realizado": true,
-      "bolasRestantes": 2
-    },
-    {
-      "id": "conf_1780934153681_2_1779731667044_1779731659091_0.9341714145924992",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731667044,
-      "jogadorBId": 1779731659091,
-      "vencedorId": 1779731667044,
-      "realizado": true,
-      "bolasRestantes": 3
-    },
-    {
-      "id": "conf_1780934153681_2_1779731667044_1779731677633_0.47765049219515987",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731667044,
-      "jogadorBId": 1779731677633,
-      "vencedorId": 1779731677633,
-      "realizado": true,
+      "vencedorId": null,
+      "realizado": false,
       "bolasRestantes": 0
     },
     {
-      "id": "conf_1780934153681_2_1779731648820_1779731659091_0.3974426008679761",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731648820,
-      "jogadorBId": 1779731659091,
-      "vencedorId": 1779731659091,
-      "realizado": true,
-      "bolasRestantes": 2
-    },
-    {
-      "id": "conf_1780934153681_2_1779731648820_1779731677633_0.8631615873842323",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731648820,
-      "jogadorBId": 1779731677633,
-      "vencedorId": 1779731677633,
-      "realizado": true,
-      "bolasRestantes": 1
-    },
-    {
-      "id": "conf_1780934153681_2_1779731659091_1779731677633_0.20473447573004844",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731659091,
-      "jogadorBId": 1779731677633,
-      "vencedorId": 1779731677633,
-      "realizado": true,
-      "bolasRestantes": 1
-    },
-    {
-      "id": "conf_1780934153681_3_1779731633065_1779731673128_0.03811832835176332",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731673128,
-      "vencedorId": 1779731633065,
-      "realizado": true,
-      "bolasRestantes": 2
-    },
-    {
-      "id": "conf_1780934153681_3_1779731633065_1779731705593_0.5316734694590154",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731705593,
-      "vencedorId": 1779731633065,
-      "realizado": true,
-      "bolasRestantes": 2
-    },
-    {
-      "id": "conf_1780934153681_3_1779731633065_1779731635399_0.5779230568312825",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731635399,
-      "vencedorId": 1779731635399,
-      "realizado": true,
+      "id": "conf_1780951593180_1_1779731636341_1779731705216_0.8016981176758787",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731636341,
+      "jogadorBId": 1779731705216,
+      "vencedorId": null,
+      "realizado": false,
       "bolasRestantes": 0
     },
     {
-      "id": "conf_1780934153681_3_1779731673128_1779731705593_0.8049465744588872",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731673128,
-      "jogadorBId": 1779731705593,
-      "vencedorId": 1779731673128,
-      "realizado": true,
-      "bolasRestantes": 1
-    },
-    {
-      "id": "conf_1780934153681_3_1779731673128_1779731635399_0.09499778128961656",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731673128,
-      "jogadorBId": 1779731635399,
-      "vencedorId": 1779731673128,
-      "realizado": true,
-      "bolasRestantes": 1
-    },
-    {
-      "id": "conf_1780934153681_3_1779731705593_1779731635399_0.7768756758292623",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731705593,
-      "jogadorBId": 1779731635399,
-      "vencedorId": 1779731705593,
-      "realizado": true,
-      "bolasRestantes": 0
-    }
-  ],
-  "partidasHist": [
-    {
-      "id": 1780934211195,
-      "tipo": "grupo",
-      "grupoIndex": 0,
+      "id": "conf_1780951593180_1_1779731636341_1779731648820_0.8685393837778235",
+      "grupoIndex": 1,
       "jogadorAId": 1779731636341,
-      "jogadorBId": 1779731706685,
-      "vencedorId": 1779731636341,
-      "bolasRestantes": 0,
-      "timestamp": "2026-06-08T15:56:51.195Z"
-    },
-    {
-      "id": 1780934218252,
-      "tipo": "grupo",
-      "grupoIndex": 0,
-      "jogadorAId": 1779731636341,
-      "jogadorBId": 1779731637329,
-      "vencedorId": 1779731637329,
-      "bolasRestantes": 3,
-      "timestamp": "2026-06-08T15:56:58.252Z"
-    },
-    {
-      "id": 1780934226461,
-      "tipo": "grupo",
-      "grupoIndex": 0,
-      "jogadorAId": 1779731636341,
-      "jogadorBId": 1779731667712,
-      "vencedorId": 1779731667712,
-      "bolasRestantes": 1,
-      "timestamp": "2026-06-08T15:57:06.461Z"
-    },
-    {
-      "id": 1780934238384,
-      "tipo": "grupo",
-      "grupoIndex": 0,
-      "jogadorAId": 1779731706685,
-      "jogadorBId": 1779731637329,
-      "vencedorId": 1779731706685,
-      "bolasRestantes": 6,
-      "timestamp": "2026-06-08T15:57:18.384Z"
-    },
-    {
-      "id": 1780934247692,
-      "tipo": "grupo",
-      "grupoIndex": 0,
-      "jogadorAId": 1779731706685,
-      "jogadorBId": 1779731667712,
-      "vencedorId": 1779731706685,
-      "bolasRestantes": 1,
-      "timestamp": "2026-06-08T15:57:27.692Z"
-    },
-    {
-      "id": 1780934285537,
-      "tipo": "grupo",
-      "grupoIndex": 0,
-      "jogadorAId": 1779731637329,
-      "jogadorBId": 1779731667712,
-      "vencedorId": 1779731667712,
-      "bolasRestantes": 0,
-      "timestamp": "2026-06-08T15:58:05.537Z"
-    },
-    {
-      "id": 1780934345504,
-      "tipo": "grupo",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731673678,
-      "jogadorBId": 1779731675145,
-      "vencedorId": 1779731673678,
-      "bolasRestantes": 2,
-      "timestamp": "2026-06-08T15:59:05.504Z"
-    },
-    {
-      "id": 1780934352579,
-      "tipo": "grupo",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731673678,
-      "jogadorBId": 1779731699551,
-      "vencedorId": 1779731699551,
-      "bolasRestantes": 1,
-      "timestamp": "2026-06-08T15:59:12.579Z"
-    },
-    {
-      "id": 1780934359959,
-      "tipo": "grupo",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731673678,
-      "jogadorBId": 1779731705216,
-      "vencedorId": 1779731673678,
-      "bolasRestantes": 2,
-      "timestamp": "2026-06-08T15:59:19.959Z"
-    },
-    {
-      "id": 1780934366413,
-      "tipo": "grupo",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731675145,
-      "jogadorBId": 1779731699551,
-      "vencedorId": 1779731675145,
-      "bolasRestantes": 2,
-      "timestamp": "2026-06-08T15:59:26.413Z"
-    },
-    {
-      "id": 1780934373863,
-      "tipo": "grupo",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731675145,
-      "jogadorBId": 1779731705216,
-      "vencedorId": 1779731705216,
-      "bolasRestantes": 2,
-      "timestamp": "2026-06-08T15:59:33.863Z"
-    },
-    {
-      "id": 1780934380329,
-      "tipo": "grupo",
-      "grupoIndex": 1,
-      "jogadorAId": 1779731699551,
-      "jogadorBId": 1779731705216,
-      "vencedorId": 1779731699551,
-      "bolasRestantes": 1,
-      "timestamp": "2026-06-08T15:59:40.329Z"
-    },
-    {
-      "id": 1780934397347,
-      "tipo": "grupo",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731667044,
       "jogadorBId": 1779731648820,
-      "vencedorId": 1779731667044,
-      "bolasRestantes": 2,
-      "timestamp": "2026-06-08T15:59:57.347Z"
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
     },
     {
-      "id": 1780934404755,
-      "tipo": "grupo",
+      "id": "conf_1780951593180_1_1779731705216_1779731648820_0.4478134371013188",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731705216,
+      "jogadorBId": 1779731648820,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
+    },
+    {
+      "id": "conf_1780951593180_2_1779731677633_1779731673678_0.5099137044779775",
       "grupoIndex": 2,
-      "jogadorAId": 1779731667044,
-      "jogadorBId": 1779731677633,
-      "vencedorId": 1779731677633,
-      "bolasRestantes": 0,
-      "timestamp": "2026-06-08T16:00:04.755Z"
-    },
-    {
-      "id": 1780934413474,
-      "tipo": "grupo",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731667044,
-      "jogadorBId": 1779731659091,
-      "vencedorId": 1779731667044,
-      "bolasRestantes": 3,
-      "timestamp": "2026-06-08T16:00:13.474Z"
-    },
-    {
-      "id": 1780934422626,
-      "tipo": "grupo",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731648820,
-      "jogadorBId": 1779731659091,
-      "vencedorId": 1779731659091,
-      "bolasRestantes": 2,
-      "timestamp": "2026-06-08T16:00:22.626Z"
-    },
-    {
-      "id": 1780934430512,
-      "tipo": "grupo",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731648820,
-      "jogadorBId": 1779731677633,
-      "vencedorId": 1779731677633,
-      "bolasRestantes": 1,
-      "timestamp": "2026-06-08T16:00:30.512Z"
-    },
-    {
-      "id": 1780934440636,
-      "tipo": "grupo",
-      "grupoIndex": 2,
-      "jogadorAId": 1779731659091,
-      "jogadorBId": 1779731677633,
-      "vencedorId": 1779731677633,
-      "bolasRestantes": 1,
-      "timestamp": "2026-06-08T16:00:40.636Z"
-    },
-    {
-      "id": 1780934458922,
-      "tipo": "grupo",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731673128,
-      "vencedorId": 1779731633065,
-      "bolasRestantes": 2,
-      "timestamp": "2026-06-08T16:00:58.922Z"
-    },
-    {
-      "id": 1780934477050,
-      "tipo": "grupo",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731705593,
-      "vencedorId": 1779731633065,
-      "bolasRestantes": 2,
-      "timestamp": "2026-06-08T16:01:17.050Z"
-    },
-    {
-      "id": 1780934485636,
-      "tipo": "grupo",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731635399,
-      "vencedorId": 1779731635399,
-      "bolasRestantes": 0,
-      "timestamp": "2026-06-08T16:01:25.636Z"
-    },
-    {
-      "id": 1780934494466,
-      "tipo": "grupo",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731673128,
-      "jogadorBId": 1779731705593,
-      "vencedorId": 1779731673128,
-      "bolasRestantes": 1,
-      "timestamp": "2026-06-08T16:01:34.466Z"
-    },
-    {
-      "id": 1780934502741,
-      "tipo": "grupo",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731673128,
-      "jogadorBId": 1779731635399,
-      "vencedorId": 1779731673128,
-      "bolasRestantes": 1,
-      "timestamp": "2026-06-08T16:01:42.741Z"
-    },
-    {
-      "id": 1780934512415,
-      "tipo": "grupo",
-      "grupoIndex": 3,
-      "jogadorAId": 1779731705593,
-      "jogadorBId": 1779731635399,
-      "vencedorId": 1779731705593,
-      "bolasRestantes": 0,
-      "timestamp": "2026-06-08T16:01:52.415Z"
-    },
-    {
-      "id": 1780934609865,
-      "tipo": "mata",
-      "fase": "Quartas de Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731706685,
-      "jogadorBId": 1779731699551,
-      "vencedorId": 1779731699551,
-      "timestamp": "2026-06-08T16:03:29.865Z"
-    },
-    {
-      "id": 1780934615884,
-      "tipo": "mata",
-      "fase": "Quartas de Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731673678,
-      "jogadorBId": 1779731667712,
-      "vencedorId": 1779731667712,
-      "timestamp": "2026-06-08T16:03:35.884Z"
-    },
-    {
-      "id": 1780934622237,
-      "tipo": "mata",
-      "fase": "Quartas de Final",
-      "rodada": "eliminatória",
       "jogadorAId": 1779731677633,
-      "jogadorBId": 1779731673128,
-      "vencedorId": 1779731673128,
-      "timestamp": "2026-06-08T16:03:42.237Z"
+      "jogadorBId": 1779731673678,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
     },
     {
-      "id": 1780934628285,
-      "tipo": "mata",
-      "fase": "Quartas de Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731667044,
-      "vencedorId": 1779731633065,
-      "timestamp": "2026-06-08T16:03:48.285Z"
+      "id": "conf_1780951593180_2_1779731677633_1779731705593_0.6553817280168633",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731677633,
+      "jogadorBId": 1779731705593,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
     },
     {
-      "id": 1780934689300,
-      "tipo": "mata",
-      "fase": "Semi-Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731667712,
-      "vencedorId": 1779731633065,
-      "timestamp": "2026-06-08T16:04:49.300Z"
+      "id": "conf_1780951593180_2_1779731677633_1779731659091_0.0012208032739089436",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731677633,
+      "jogadorBId": 1779731659091,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
     },
     {
-      "id": 1780934697463,
-      "tipo": "mata",
-      "fase": "Semi-Final",
-      "rodada": "eliminatória",
+      "id": "conf_1780951593180_2_1779731673678_1779731705593_0.5151387253590699",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731673678,
+      "jogadorBId": 1779731705593,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
+    },
+    {
+      "id": "conf_1780951593180_2_1779731673678_1779731659091_0.3582043834560582",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731673678,
+      "jogadorBId": 1779731659091,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
+    },
+    {
+      "id": "conf_1780951593180_2_1779731705593_1779731659091_0.3516345647815162",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731705593,
+      "jogadorBId": 1779731659091,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
+    },
+    {
+      "id": "conf_1780951593180_3_1779731699551_1779731673128_0.5255476719590577",
+      "grupoIndex": 3,
       "jogadorAId": 1779731699551,
       "jogadorBId": 1779731673128,
-      "vencedorId": 1779731699551,
-      "timestamp": "2026-06-08T16:04:57.463Z"
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
     },
     {
-      "id": 1780934761660,
-      "tipo": "mata",
-      "fase": "Final",
-      "rodada": "eliminatória",
-      "jogadorAId": 1779731633065,
-      "jogadorBId": 1779731699551,
-      "vencedorId": 1779731699551,
-      "timestamp": "2026-06-08T16:06:01.660Z"
+      "id": "conf_1780951593180_3_1779731699551_1779731675145_0.7791816372963123",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731699551,
+      "jogadorBId": 1779731675145,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
+    },
+    {
+      "id": "conf_1780951593180_3_1779731699551_1779731637329_0.3529667637813002",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731699551,
+      "jogadorBId": 1779731637329,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
+    },
+    {
+      "id": "conf_1780951593180_3_1779731673128_1779731675145_0.26459497904340035",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731675145,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
+    },
+    {
+      "id": "conf_1780951593180_3_1779731673128_1779731637329_0.767102083656306",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731637329,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
+    },
+    {
+      "id": "conf_1780951593180_3_1779731675145_1779731637329_0.8071751827428315",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731675145,
+      "jogadorBId": 1779731637329,
+      "vencedorId": null,
+      "realizado": false,
+      "bolasRestantes": 0
     }
   ],
-  "mataMataAtivo": {
-    "confrontosAtuais": [],
-    "participantesProximaRodada": [
-      1779731699551
-    ],
-    "campeaoId": 1779731699551,
-    "finalizado": true,
-    "faseAtual": "Quartas de Final"
-  }
+  "partidasHist": [],
+  "mataMataAtivo": null
 }
