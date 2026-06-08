@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T21:32:31.105Z",
+  "timestamp": "2026-06-08T21:32:41.368Z",
   "titulo": "🎱 III  Campeonato de Sinuca Lekão",
   "jogadores": [
     {
@@ -112,7 +112,7 @@
       "nome": "Andre",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
+      "vitorias": 3,
       "creditoBolas": 3
     },
     {
@@ -317,8 +317,8 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731667044,
       "jogadorBId": 1779731636341,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731667044,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -546,6 +546,16 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 0,
       "timestamp": "2026-06-08T21:32:31.104Z"
+    },
+    {
+      "id": 1780954361367,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731667044,
+      "jogadorBId": 1779731636341,
+      "vencedorId": 1779731667044,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-08T21:32:41.367Z"
     }
   ],
   "mataMataAtivo": null
