@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T16:00:22.628Z",
+  "timestamp": "2026-06-08T16:00:30.513Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -8,8 +8,8 @@
       "nome": "Sr. Geraldo",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 0
+      "vitorias": 2,
+      "creditoBolas": 1
     },
     {
       "id": 1779731648820,
@@ -308,9 +308,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731648820,
       "jogadorBId": 1779731677633,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731677633,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780934153681_2_1779731659091_1779731677633_0.20473447573004844",
@@ -536,6 +536,16 @@
       "vencedorId": 1779731659091,
       "bolasRestantes": 2,
       "timestamp": "2026-06-08T16:00:22.626Z"
+    },
+    {
+      "id": 1780934430512,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731648820,
+      "jogadorBId": 1779731677633,
+      "vencedorId": 1779731677633,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-08T16:00:30.512Z"
     }
   ],
   "mataMataAtivo": null
