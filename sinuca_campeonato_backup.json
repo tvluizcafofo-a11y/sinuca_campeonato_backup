@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T22:26:50.914Z",
+  "timestamp": "2026-06-08T22:26:59.560Z",
   "titulo": "🎱 III  Campeonato de Sinuca Lekão",
   "jogadores": [
     {
@@ -16,7 +16,7 @@
       "nome": "Tulinho",
       "email": "",
       "telefone": "",
-      "vitorias": 0,
+      "vitorias": 1,
       "creditoBolas": 0
     },
     {
@@ -209,8 +209,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731705593,
       "jogadorBId": 1779731648820,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731648820,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -426,6 +426,16 @@
       "vencedorId": 1779731667712,
       "bolasRestantes": 3,
       "timestamp": "2026-06-08T22:26:50.913Z"
+    },
+    {
+      "id": 1780957619559,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731705593,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731648820,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-08T22:26:59.559Z"
     }
   ],
   "mataMataAtivo": null
