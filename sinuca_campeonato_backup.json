@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T15:21:49.061Z",
+  "timestamp": "2026-06-08T15:21:57.742Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -48,8 +48,8 @@
       "nome": "Luiz",
       "email": "tvluizcafofo@gmail.com",
       "telefone": "31988129977",
-      "vitorias": 1,
-      "creditoBolas": 3
+      "vitorias": 2,
+      "creditoBolas": 4
     },
     {
       "id": 1779731659091,
@@ -115,9 +115,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731699551,
       "jogadorBId": 1779731633065,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731633065,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780931992439_0_1779731699551_1779731637329_0.9694449482951369",
@@ -222,6 +222,16 @@
       "vencedorId": 1779731637329,
       "bolasRestantes": 2,
       "timestamp": "2026-06-08T15:21:49.060Z"
+    },
+    {
+      "id": 1780932117742,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731699551,
+      "jogadorBId": 1779731633065,
+      "vencedorId": 1779731633065,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-08T15:21:57.742Z"
     }
   ],
   "mataMataAtivo": null
