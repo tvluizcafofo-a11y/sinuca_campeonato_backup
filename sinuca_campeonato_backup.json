@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T20:55:08.246Z",
+  "timestamp": "2026-06-08T20:55:44.119Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -88,8 +88,8 @@
       "nome": "Lau Taxi",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
-      "creditoBolas": 4
+      "vitorias": 3,
+      "creditoBolas": 5
     },
     {
       "id": 1779731705593,
@@ -263,9 +263,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731705216,
       "jogadorBId": 1779731648820,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731705216,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780951593180_2_1779731677633_1779731673678_0.5099137044779775",
@@ -486,6 +486,16 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 6,
       "timestamp": "2026-06-08T20:55:08.246Z"
+    },
+    {
+      "id": 1780952144119,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731705216,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731705216,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-08T20:55:44.119Z"
     }
   ],
   "mataMataAtivo": null
