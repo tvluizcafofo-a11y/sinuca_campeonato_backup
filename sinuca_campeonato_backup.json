@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T20:59:07.960Z",
+  "timestamp": "2026-06-08T20:59:17.503Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -128,7 +128,7 @@
       "nome": "Wilson",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 3
     }
   ],
@@ -353,8 +353,8 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731675145,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731675145,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -586,6 +586,16 @@
       "vencedorId": 1779731637329,
       "bolasRestantes": 5,
       "timestamp": "2026-06-08T20:59:07.959Z"
+    },
+    {
+      "id": 1780952357502,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731675145,
+      "vencedorId": 1779731675145,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-08T20:59:17.502Z"
     }
   ],
   "mataMataAtivo": null
