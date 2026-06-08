@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T16:01:25.637Z",
+  "timestamp": "2026-06-08T16:01:34.467Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -72,8 +72,8 @@
       "nome": "Ernani",
       "email": "",
       "telefone": "",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 1
     },
     {
       "id": 1779731667712,
@@ -353,9 +353,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731705593,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731673128,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780934153681_3_1779731673128_1779731635399_0.09499778128961656",
@@ -586,6 +586,16 @@
       "vencedorId": 1779731635399,
       "bolasRestantes": 0,
       "timestamp": "2026-06-08T16:01:25.636Z"
+    },
+    {
+      "id": 1780934494466,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731705593,
+      "vencedorId": 1779731673128,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-08T16:01:34.466Z"
     }
   ],
   "mataMataAtivo": null
