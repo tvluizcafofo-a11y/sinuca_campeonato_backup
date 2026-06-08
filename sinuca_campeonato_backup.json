@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T16:04:57.464Z",
+  "timestamp": "2026-06-08T16:06:01.662Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -676,22 +676,25 @@
       "jogadorBId": 1779731673128,
       "vencedorId": 1779731699551,
       "timestamp": "2026-06-08T16:04:57.463Z"
+    },
+    {
+      "id": 1780934761660,
+      "tipo": "mata",
+      "fase": "Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731699551,
+      "vencedorId": 1779731699551,
+      "timestamp": "2026-06-08T16:06:01.660Z"
     }
   ],
   "mataMataAtivo": {
-    "confrontosAtuais": [
-      {
-        "id": "mata_1780934697464_0",
-        "jogadorAId": 1779731633065,
-        "jogadorBId": 1779731699551,
-        "vencedorId": null,
-        "finalizado": false,
-        "fase": "Final"
-      }
+    "confrontosAtuais": [],
+    "participantesProximaRodada": [
+      1779731699551
     ],
-    "participantesProximaRodada": [],
-    "campeaoId": null,
-    "finalizado": false,
+    "campeaoId": 1779731699551,
+    "finalizado": true,
     "faseAtual": "Quartas de Final"
   }
 }
