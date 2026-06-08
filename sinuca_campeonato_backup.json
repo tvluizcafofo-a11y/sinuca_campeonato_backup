@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T15:57:18.386Z",
+  "timestamp": "2026-06-08T15:57:27.693Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -120,8 +120,8 @@
       "nome": "Carlao",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 6
+      "vitorias": 2,
+      "creditoBolas": 7
     },
     {
       "id": 1779731675145,
@@ -200,9 +200,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731706685,
       "jogadorBId": 1779731667712,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731706685,
+      "realizado": true,
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1780934153681_0_1779731637329_1779731667712_0.3739745899079866",
@@ -416,6 +416,16 @@
       "vencedorId": 1779731706685,
       "bolasRestantes": 6,
       "timestamp": "2026-06-08T15:57:18.384Z"
+    },
+    {
+      "id": 1780934247692,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731706685,
+      "jogadorBId": 1779731667712,
+      "vencedorId": 1779731706685,
+      "bolasRestantes": 1,
+      "timestamp": "2026-06-08T15:57:27.692Z"
     }
   ],
   "mataMataAtivo": null
