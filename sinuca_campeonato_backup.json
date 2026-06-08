@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T23:32:13.333Z",
+  "timestamp": "2026-06-08T23:32:35.536Z",
   "titulo": "🎱 III  Campeonato de Sinuca Lekão",
   "jogadores": [
     {
@@ -72,7 +72,7 @@
       "nome": "Ernani",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 6
     },
     {
@@ -209,8 +209,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731659091,
       "jogadorBId": 1779731673128,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731673128,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -606,6 +606,16 @@
       "vencedorId": 1779731706685,
       "bolasRestantes": 5,
       "timestamp": "2026-06-08T23:32:13.331Z"
+    },
+    {
+      "id": 1780961555535,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731659091,
+      "jogadorBId": 1779731673128,
+      "vencedorId": 1779731673128,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-08T23:32:35.535Z"
     }
   ],
   "mataMataAtivo": null
