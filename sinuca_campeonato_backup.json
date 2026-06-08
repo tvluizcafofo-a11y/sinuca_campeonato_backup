@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T20:59:17.503Z",
+  "timestamp": "2026-06-08T20:59:24.998Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -32,7 +32,7 @@
       "nome": "Cassio",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 5
     },
     {
@@ -362,8 +362,8 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731637329,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731637329,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -596,6 +596,16 @@
       "vencedorId": 1779731675145,
       "bolasRestantes": 0,
       "timestamp": "2026-06-08T20:59:17.502Z"
+    },
+    {
+      "id": 1780952364997,
+      "tipo": "grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731637329,
+      "vencedorId": 1779731637329,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-08T20:59:24.997Z"
     }
   ],
   "mataMataAtivo": null
