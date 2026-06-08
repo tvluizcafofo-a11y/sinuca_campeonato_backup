@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T16:00:04.757Z",
+  "timestamp": "2026-06-08T16:00:13.475Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -112,8 +112,8 @@
       "nome": "Andre",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 2
+      "vitorias": 2,
+      "creditoBolas": 5
     },
     {
       "id": 1779731706685,
@@ -281,9 +281,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731667044,
       "jogadorBId": 1779731659091,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731667044,
+      "realizado": true,
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1780934153681_2_1779731667044_1779731677633_0.47765049219515987",
@@ -516,6 +516,16 @@
       "vencedorId": 1779731677633,
       "bolasRestantes": 0,
       "timestamp": "2026-06-08T16:00:04.755Z"
+    },
+    {
+      "id": 1780934413474,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731667044,
+      "jogadorBId": 1779731659091,
+      "vencedorId": 1779731667044,
+      "bolasRestantes": 3,
+      "timestamp": "2026-06-08T16:00:13.474Z"
     }
   ],
   "mataMataAtivo": null
