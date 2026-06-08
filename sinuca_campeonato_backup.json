@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T20:57:32.610Z",
+  "timestamp": "2026-06-08T20:57:45.282Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -104,8 +104,8 @@
       "nome": "Felipe Lekao",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 0
+      "vitorias": 2,
+      "creditoBolas": 2
     },
     {
       "id": 1779731667044,
@@ -308,9 +308,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731673678,
       "jogadorBId": 1779731659091,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731673678,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780951593180_2_1779731705593_1779731659091_0.3516345647815162",
@@ -536,6 +536,16 @@
       "vencedorId": 1779731673678,
       "bolasRestantes": 0,
       "timestamp": "2026-06-08T20:57:32.609Z"
+    },
+    {
+      "id": 1780952265281,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731673678,
+      "jogadorBId": 1779731659091,
+      "vencedorId": 1779731673678,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-08T20:57:45.281Z"
     }
   ],
   "mataMataAtivo": null
