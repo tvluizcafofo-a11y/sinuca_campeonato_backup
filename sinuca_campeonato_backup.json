@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T21:28:11.748Z",
+  "timestamp": "2026-06-08T21:28:20.985Z",
   "titulo": "🎱 III  Campeonato de Sinuca Lekão",
   "jogadores": [
     {
@@ -8,8 +8,8 @@
       "nome": "Sr. Geraldo",
       "email": "",
       "telefone": "",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 7
     },
     {
       "id": 1779731648820,
@@ -182,9 +182,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731677633,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731677633,
+      "realizado": true,
+      "bolasRestantes": 7
     },
     {
       "id": "conf_1780953499185_0_1779731633065_1779731675145_0.6904524796354711",
@@ -396,6 +396,16 @@
       "vencedorId": 1779731673128,
       "bolasRestantes": 2,
       "timestamp": "2026-06-08T21:28:11.747Z"
+    },
+    {
+      "id": 1780954100985,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731677633,
+      "vencedorId": 1779731677633,
+      "bolasRestantes": 7,
+      "timestamp": "2026-06-08T21:28:20.985Z"
     }
   ],
   "mataMataAtivo": null
