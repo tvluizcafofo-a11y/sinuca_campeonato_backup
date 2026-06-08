@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T22:23:08.535Z",
+  "timestamp": "2026-06-08T22:23:18.851Z",
   "titulo": "🎱 III  Campeonato de Sinuca Lekão",
   "jogadores": [
     {
@@ -737,6 +737,16 @@
       "jogadorBId": 1779731706685,
       "vencedorId": 1779731706685,
       "timestamp": "2026-06-08T22:23:08.534Z"
+    },
+    {
+      "id": 1780957398851,
+      "tipo": "mata",
+      "fase": "Semi-Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731648820,
+      "jogadorBId": 1779731706685,
+      "vencedorId": 1779731648820,
+      "timestamp": "2026-06-08T22:23:18.851Z"
     }
   ],
   "mataMataAtivo": {
@@ -745,8 +755,8 @@
         "id": "mata_1780957388535_0",
         "jogadorAId": 1779731648820,
         "jogadorBId": 1779731706685,
-        "vencedorId": null,
-        "finalizado": false,
+        "vencedorId": 1779731648820,
+        "finalizado": true,
         "fase": "Semi-Final"
       },
       {
@@ -758,7 +768,9 @@
         "fase": "Semi-Final"
       }
     ],
-    "participantesProximaRodada": [],
+    "participantesProximaRodada": [
+      1779731648820
+    ],
     "campeaoId": null,
     "finalizado": false,
     "faseAtual": "Quartas de Final"
