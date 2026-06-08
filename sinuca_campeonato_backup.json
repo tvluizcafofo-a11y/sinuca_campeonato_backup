@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T22:25:58.360Z",
+  "timestamp": "2026-06-08T22:26:07.329Z",
   "titulo": "🎱 III  Campeonato de Sinuca Lekão",
   "jogadores": [
     {
@@ -96,8 +96,8 @@
       "nome": "Rodrigo Moraes",
       "email": "",
       "telefone": "",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 2
     },
     {
       "id": 1779731673678,
@@ -173,9 +173,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731705593,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731705593,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1780957498369_0_1779731673128_1779731648820_0.43495912486812427",
@@ -386,6 +386,16 @@
       "vencedorId": 1779731673128,
       "bolasRestantes": 0,
       "timestamp": "2026-06-08T22:25:58.359Z"
+    },
+    {
+      "id": 1780957567329,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731705593,
+      "vencedorId": 1779731705593,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-08T22:26:07.329Z"
     }
   ],
   "mataMataAtivo": null
