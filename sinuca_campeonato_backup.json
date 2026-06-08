@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T22:27:33.714Z",
+  "timestamp": "2026-06-08T22:27:55.771Z",
   "titulo": "🎱 III  Campeonato de Sinuca Lekão",
   "jogadores": [
     {
@@ -446,6 +446,17 @@
       "vencedorId": 1779731705216,
       "bolasRestantes": 3,
       "timestamp": "2026-06-08T22:27:33.712Z"
+    },
+    {
+      "id": 1780957675768,
+      "tipo": "edit_grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731637329,
+      "jogadorBId": 1779731705216,
+      "vencedorId": 1779731705216,
+      "bolasRestantes": 3,
+      "antigoVencedorId": 1779731705216,
+      "timestamp": "2026-06-08T22:27:55.768Z"
     }
   ],
   "mataMataAtivo": null
