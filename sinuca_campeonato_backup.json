@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T22:29:17.971Z",
+  "timestamp": "2026-06-08T22:29:27.057Z",
   "titulo": "🎱 III  Campeonato de Sinuca Lekão",
   "jogadores": [
     {
@@ -104,7 +104,7 @@
       "nome": "Felipe Lekao",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 2
     },
     {
@@ -290,8 +290,8 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731673678,
       "jogadorBId": 1779731699551,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731673678,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -527,6 +527,16 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 5,
       "timestamp": "2026-06-08T22:29:17.970Z"
+    },
+    {
+      "id": 1780957767055,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731673678,
+      "jogadorBId": 1779731699551,
+      "vencedorId": 1779731673678,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-08T22:29:27.055Z"
     }
   ],
   "mataMataAtivo": null
