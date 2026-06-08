@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-08T20:52:01.231Z",
+  "timestamp": "2026-06-08T20:52:52.914Z",
   "titulo": "🎱 I Camp. Sinuca",
   "jogadores": [
     {
@@ -80,7 +80,7 @@
       "nome": "Saulinho",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
+      "vitorias": 3,
       "creditoBolas": 0
     },
     {
@@ -209,8 +209,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731633065,
       "jogadorBId": 1779731667712,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731667712,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -426,6 +426,16 @@
       "vencedorId": 1779731667712,
       "bolasRestantes": 0,
       "timestamp": "2026-06-08T20:52:01.231Z"
+    },
+    {
+      "id": 1780951972914,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731667712,
+      "vencedorId": 1779731667712,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-08T20:52:52.914Z"
     }
   ],
   "mataMataAtivo": null
