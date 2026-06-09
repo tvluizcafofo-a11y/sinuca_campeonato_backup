@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-09T02:42:48.548Z",
+  "timestamp": "2026-06-09T02:42:56.133Z",
   "titulo": "🎱 III  Campeonato de Sinuca",
   "jogadores": [
     {
@@ -128,8 +128,8 @@
       "nome": "Wilson",
       "email": "",
       "telefone": "",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 5
     }
   ],
   "gruposSalvos": [
@@ -290,9 +290,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731636341,
       "jogadorBId": 1779731675145,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731675145,
+      "realizado": true,
+      "bolasRestantes": 5
     },
     {
       "id": "conf_1780972636243_2_1779731633065_1779731705216_0.4944899698716666",
@@ -516,6 +516,16 @@
       "vencedorId": 1779731636341,
       "bolasRestantes": 1,
       "timestamp": "2026-06-09T02:42:48.546Z"
+    },
+    {
+      "id": 1780972976131,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731636341,
+      "jogadorBId": 1779731675145,
+      "vencedorId": 1779731675145,
+      "bolasRestantes": 5,
+      "timestamp": "2026-06-09T02:42:56.131Z"
     }
   ],
   "mataMataAtivo": null
