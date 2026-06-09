@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-09T02:38:13.942Z",
+  "timestamp": "2026-06-09T02:38:21.039Z",
   "titulo": "🎱 III  Campeonato de Sinuca",
   "jogadores": [
     {
@@ -72,8 +72,8 @@
       "nome": "Ernani",
       "email": "",
       "telefone": "",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 3
     },
     {
       "id": 1779731667712,
@@ -173,9 +173,9 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731673128,
       "jogadorBId": 1779731673678,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731673128,
+      "realizado": true,
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1780972636243_0_1779731673128_1779731667712_0.6700625352073165",
@@ -386,6 +386,16 @@
       "vencedorId": 1779731705593,
       "bolasRestantes": 0,
       "timestamp": "2026-06-09T02:38:13.942Z"
+    },
+    {
+      "id": 1780972701038,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731673128,
+      "jogadorBId": 1779731673678,
+      "vencedorId": 1779731673128,
+      "bolasRestantes": 3,
+      "timestamp": "2026-06-09T02:38:21.038Z"
     }
   ],
   "mataMataAtivo": null
