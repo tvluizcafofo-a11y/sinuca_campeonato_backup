@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-11T04:18:02.165Z",
+  "timestamp": "2026-06-11T04:18:50.176Z",
   "titulo": "🎱 VIII  Campeonato de Sinuca",
   "jogadores": [
     {
@@ -8,7 +8,7 @@
       "nome": "Sr. Geraldo",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
+      "vitorias": 2,
       "creditoBolas": 2
     },
     {
@@ -24,8 +24,8 @@
       "nome": "Juninho",
       "email": "",
       "telefone": "",
-      "vitorias": 3,
-      "creditoBolas": 4
+      "vitorias": 2,
+      "creditoBolas": 3
     },
     {
       "id": 1779731637329,
@@ -362,9 +362,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731699551,
       "jogadorBId": 1779731677633,
-      "vencedorId": 1779731699551,
+      "vencedorId": 1779731677633,
       "realizado": true,
-      "bolasRestantes": 1
+      "bolasRestantes": 0
     },
     {
       "id": "conf_1781022211441_3_1779731659091_1779731677633_0.8899338967116222",
@@ -600,6 +600,17 @@
       "bolasRestantes": 1,
       "antigoVencedorId": 1779731705593,
       "timestamp": "2026-06-11T04:18:02.164Z"
+    },
+    {
+      "id": 1781151530175,
+      "tipo": "edit_grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731699551,
+      "jogadorBId": 1779731677633,
+      "vencedorId": 1779731677633,
+      "bolasRestantes": 0,
+      "antigoVencedorId": 1779731699551,
+      "timestamp": "2026-06-11T04:18:50.175Z"
     }
   ],
   "mataMataAtivo": null
