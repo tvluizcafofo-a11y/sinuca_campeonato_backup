@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-11T12:02:36.037Z",
+  "timestamp": "2026-06-11T12:05:13.525Z",
   "titulo": "🎱 VIII  Campeonato de Sinuca",
   "jogadores": [
     {
@@ -88,8 +88,8 @@
       "nome": "Lau Taxi",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 2
+      "vitorias": 2,
+      "creditoBolas": 4
     },
     {
       "id": 1779731705593,
@@ -254,9 +254,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731635399,
       "jogadorBId": 1779731705216,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731705216,
+      "realizado": true,
+      "bolasRestantes": 2
     },
     {
       "id": "conf_1781022211441_1_1779731673128_1779731705216_0.13099294242100734",
@@ -684,6 +684,16 @@
       "vencedorId": 1779731673678,
       "bolasRestantes": 0,
       "timestamp": "2026-06-11T12:02:36.037Z"
+    },
+    {
+      "id": 1781179513524,
+      "tipo": "grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731635399,
+      "jogadorBId": 1779731705216,
+      "vencedorId": 1779731705216,
+      "bolasRestantes": 2,
+      "timestamp": "2026-06-11T12:05:13.525Z"
     }
   ],
   "mataMataAtivo": null
