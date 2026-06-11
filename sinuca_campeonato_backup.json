@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-11T12:06:49.945Z",
+  "timestamp": "2026-06-11T12:06:56.700Z",
   "titulo": "🎱 VIII  Campeonato de Sinuca",
   "jogadores": [
     {
@@ -734,48 +734,38 @@
       "jogadorBId": 1779731677633,
       "vencedorId": 1779731677633,
       "timestamp": "2026-06-11T12:06:49.944Z"
+    },
+    {
+      "id": 1781179616696,
+      "tipo": "mata",
+      "fase": "Quartas de Final",
+      "rodada": "eliminatória",
+      "jogadorAId": 1779731699551,
+      "jogadorBId": 1779731636341,
+      "vencedorId": 1779731636341,
+      "timestamp": "2026-06-11T12:06:56.696Z"
     }
   ],
   "mataMataAtivo": {
     "confrontosAtuais": [
       {
-        "id": "mata_quartas_1781179583581_0_1_1",
-        "jogadorAId": 1779731667044,
-        "jogadorBId": 1779731705216,
-        "vencedorId": 1779731705216,
-        "finalizado": true,
-        "fase": "Quartas de Final"
-      },
-      {
-        "id": "mata_quartas_1781179583581_1_0_2",
-        "jogadorAId": 1779731673128,
-        "jogadorBId": 1779731633065,
-        "vencedorId": 1779731633065,
-        "finalizado": true,
-        "fase": "Quartas de Final"
-      },
-      {
-        "id": "mata_quartas_1781179583581_2_3_1",
-        "jogadorAId": 1779731673678,
+        "id": "mata_1781179616699_0",
+        "jogadorAId": 1779731705216,
         "jogadorBId": 1779731677633,
-        "vencedorId": 1779731677633,
-        "finalizado": true,
-        "fase": "Quartas de Final"
+        "vencedorId": null,
+        "finalizado": false,
+        "fase": "Semi-Final"
       },
       {
-        "id": "mata_quartas_1781179583581_3_2_2",
-        "jogadorAId": 1779731699551,
+        "id": "mata_1781179616699_1",
+        "jogadorAId": 1779731633065,
         "jogadorBId": 1779731636341,
         "vencedorId": null,
         "finalizado": false,
-        "fase": "Quartas de Final"
+        "fase": "Semi-Final"
       }
     ],
-    "participantesProximaRodada": [
-      1779731705216,
-      1779731633065,
-      1779731677633
-    ],
+    "participantesProximaRodada": [],
     "campeaoId": null,
     "finalizado": false,
     "faseAtual": "Quartas de Final"
