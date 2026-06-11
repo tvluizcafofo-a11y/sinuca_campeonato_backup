@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-11T04:16:30.656Z",
+  "timestamp": "2026-06-11T04:18:02.165Z",
   "titulo": "🎱 VIII  Campeonato de Sinuca",
   "jogadores": [
     {
@@ -64,8 +64,8 @@
       "nome": "Rodrigo Digao",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 1
+      "vitorias": 2,
+      "creditoBolas": 2
     },
     {
       "id": 1779731673128,
@@ -96,8 +96,8 @@
       "nome": "Rodrigo Moraes",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 1
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731673678,
@@ -335,7 +335,7 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731705593,
       "jogadorBId": 1779731659091,
-      "vencedorId": 1779731705593,
+      "vencedorId": 1779731659091,
       "realizado": true,
       "bolasRestantes": 1
     },
@@ -589,6 +589,17 @@
       "vencedorId": 1779731667712,
       "bolasRestantes": 0,
       "timestamp": "2026-06-11T04:16:30.655Z"
+    },
+    {
+      "id": 1781151482164,
+      "tipo": "edit_grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731705593,
+      "jogadorBId": 1779731659091,
+      "vencedorId": 1779731659091,
+      "bolasRestantes": 1,
+      "antigoVencedorId": 1779731705593,
+      "timestamp": "2026-06-11T04:18:02.164Z"
     }
   ],
   "mataMataAtivo": null
