@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-11T04:18:50.176Z",
+  "timestamp": "2026-06-11T04:20:48.907Z",
   "titulo": "🎱 VIII  Campeonato de Sinuca",
   "jogadores": [
     {
@@ -8,7 +8,7 @@
       "nome": "Sr. Geraldo",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
+      "vitorias": 3,
       "creditoBolas": 2
     },
     {
@@ -64,8 +64,8 @@
       "nome": "Rodrigo Digao",
       "email": "",
       "telefone": "",
-      "vitorias": 2,
-      "creditoBolas": 2
+      "vitorias": 1,
+      "creditoBolas": 1
     },
     {
       "id": 1779731673128,
@@ -371,9 +371,9 @@
       "grupoIndex": 3,
       "jogadorAId": 1779731659091,
       "jogadorBId": 1779731677633,
-      "vencedorId": 1779731659091,
+      "vencedorId": 1779731677633,
       "realizado": true,
-      "bolasRestantes": 1
+      "bolasRestantes": 0
     }
   ],
   "partidasHist": [
@@ -611,6 +611,17 @@
       "bolasRestantes": 0,
       "antigoVencedorId": 1779731699551,
       "timestamp": "2026-06-11T04:18:50.175Z"
+    },
+    {
+      "id": 1781151648906,
+      "tipo": "edit_grupo",
+      "grupoIndex": 3,
+      "jogadorAId": 1779731659091,
+      "jogadorBId": 1779731677633,
+      "vencedorId": 1779731677633,
+      "bolasRestantes": 0,
+      "antigoVencedorId": 1779731659091,
+      "timestamp": "2026-06-11T04:20:48.906Z"
     }
   ],
   "mataMataAtivo": null
