@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-11T04:16:23.201Z",
+  "timestamp": "2026-06-11T04:16:30.656Z",
   "titulo": "🎱 VIII  Campeonato de Sinuca",
   "jogadores": [
     {
@@ -80,7 +80,7 @@
       "nome": "Saulinho",
       "email": "",
       "telefone": "",
-      "vitorias": 0,
+      "vitorias": 1,
       "creditoBolas": 0
     },
     {
@@ -209,8 +209,8 @@
       "grupoIndex": 0,
       "jogadorAId": 1779731633065,
       "jogadorBId": 1779731667712,
-      "vencedorId": null,
-      "realizado": false,
+      "vencedorId": 1779731667712,
+      "realizado": true,
       "bolasRestantes": 0
     },
     {
@@ -579,6 +579,16 @@
       "vencedorId": 1779731706685,
       "bolasRestantes": 1,
       "timestamp": "2026-06-11T04:16:23.200Z"
+    },
+    {
+      "id": 1781151390655,
+      "tipo": "grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731633065,
+      "jogadorBId": 1779731667712,
+      "vencedorId": 1779731667712,
+      "bolasRestantes": 0,
+      "timestamp": "2026-06-11T04:16:30.655Z"
     }
   ],
   "mataMataAtivo": null
