@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-06-11T03:51:46.673Z",
+  "timestamp": "2026-06-11T03:52:30.434Z",
   "titulo": "🎱 VIII  Campeonato de Sinuca",
   "jogadores": [
     {
@@ -40,8 +40,8 @@
       "nome": "Plinio",
       "email": "",
       "telefone": "",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 3
     },
     {
       "id": 1779731635399,
@@ -299,9 +299,9 @@
       "grupoIndex": 2,
       "jogadorAId": 1779731636341,
       "jogadorBId": 1779731648820,
-      "vencedorId": null,
-      "realizado": false,
-      "bolasRestantes": 0
+      "vencedorId": 1779731636341,
+      "realizado": true,
+      "bolasRestantes": 3
     },
     {
       "id": "conf_1781022211441_2_1779731636341_1779731673678_0.9384453693336604",
@@ -539,6 +539,16 @@
       "bolasRestantes": 2,
       "antigoVencedorId": 1779731677633,
       "timestamp": "2026-06-11T03:51:46.673Z"
+    },
+    {
+      "id": 1781149950433,
+      "tipo": "grupo",
+      "grupoIndex": 2,
+      "jogadorAId": 1779731636341,
+      "jogadorBId": 1779731648820,
+      "vencedorId": 1779731636341,
+      "bolasRestantes": 3,
+      "timestamp": "2026-06-11T03:52:30.433Z"
     }
   ],
   "mataMataAtivo": null
