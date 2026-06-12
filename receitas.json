@@ -1,5 +1,12 @@
 [
   {
+    "titulo": "Adana kebab",
+    "pais": "Turco",
+    "imagem": "https://www.themealdb.com/images/media/meals/04axct1763793018.jpg",
+    "ingredientes": "• Romano Pepper: 2 grandes\n• Carne de cordeiro: 800g\n• Pasta de Pimenta Vermelha: 3  colheres de sopa\n• Pul Biber: 1 colher de sopa\n• Óleo de Girassol: 3  colheres de sopa",
+    "preparo": "passo 1\nPique finamente as pimentas em um processador de alimentos, em seguida, incline-as em uma peneira e pressione na peneira para que as pimentas liberem todos os seus sucos. Coloque uma tigela junto com a carne picada, a pasta de pimenta vermelha, a fibra pul, 1½ colher de chá de sal marinho escamoso e 2 colheres de sopa de óleo. Misture, amasse bem durante pelo menos 2-3 minutos. Se precisar, molhe as mãos com água fria para evitar que a mistura grude. A mistura deve ficar pegajosa quando estiver pronta. Cubra e esfrie por pelo menos 2 horas ou até 12 horas.\n\nst"
+  },
+  {
     "titulo": "Ajo Blanco",
     "pais": "Espanhol, castelhano",
     "imagem": "https://www.themealdb.com/images/media/meals/5jdtie1763289302.jpg",
@@ -12,6 +19,13 @@
     "imagem": "https://www.themealdb.com/images/media/meals/72fgzj1764109947.jpg",
     "ingredientes": "• Azeite: 2 colheres de sopa\n• Cebolas vermelhas: 2 picadas\n• Alho: 4 dentes esmagados\n• Cominho moído: 2 colheres de chá\n• Coentro moído: 2 colheres de chá\n• Tomates enlatados: 400g\n• Açúcar: 1/2 colher de chá\n• Hortelã: 10g\n• Carne de cordeiro: 500g\n• Damascos Secos: 8\n• Farinha de rosca: 50g\n• Pão Pita: Para servir",
     "preparo": "passo 1\nAqueça 2 colheres de chá de óleo numa panela e amoleça as cebolas durante 5 minutos. Adicione o alho e as especiarias e cozinhe por mais alguns minutos. Coloque metade da mistura de cebola numa tigela e reserve para esfriar. Adicione os tomates, o açúcar e o tempero às cebolas restantes na panela e cozinhe por cerca de 10 minutos até reduzir.\n\npasso 2\nEnquanto isso, adicione a hortelã, o cordeiro, os damascos e as migalhas de pão às cebolas resfriadas, tempere e misture bem com as mãos. Forme pequenas almôndegas.\n\npasso 3\nAqueça o resto do óleo numa"
+  },
+  {
+    "titulo": "Arroz espanhol e camarão one-pot",
+    "pais": "Espanhol, castelhano",
+    "imagem": "https://www.themealdb.com/images/media/meals/sl6vqv1763335988.jpg",
+    "ingredientes": "• Cebola: 1 fatiada\n• Pimentão Vermelho: 1 fatiado\n• Pimentão Verde: 1 fatiado\n• Chouriço: 50g\n• Alho: 2 dentes picados\n• Azeite: 1 colher de chá\n• Arroz Basmati: 250g\n• Tomates enlatados: 400g\n• Camarão: 200g",
+    "preparo": "passo 1\nFerva a chaleira. Em uma frigideira antiaderente ou rasa com tampa, frite a cebola, os pimentões, o chouriço e o alho no óleo em fogo alto por 3 minutos. Misture o arroz e os tomates picados com 500 ml de água fervente, cubra e cozinhe em fogo alto por 12 minutos.\n\npasso 2\nDescubra e mexa – o arroz deve estar quase macio. Misture os camarões, com um pouco mais de água se o arroz estiver seco, depois cozinhe por mais um minuto até que os camarões fiquem rosados e o arroz macio."
   },
   {
     "titulo": "Arroz frito com frango",
@@ -40,6 +54,13 @@
     "imagem": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
     "ingredientes": "• Caldo de Carne Bovina: 1 L\n• Cebola: 1 grande\n• Gengibre: 1 Picado Grande\n• Canela em bastão: 1\n• Anis estrelado: 2\n• Sementes de coentro: 1 colher de chá\n• Cravo-da-índia: 1/2 colher de chá\n• Bife de lombo: 225g\n• Açúcar de palma: 1 colher de chá\n• Molho de Peixe: 1 colher de sopa\n• Molho de soja: 1 ½ colher de sopa\n• Macarrão de arroz: 200g\n• Cebolinha: 2 fatias\n• Pimentões de olho de pássaro: 1 pequeno\n• Manjericão: Punhado\n• Coentro: Punhado\n• Cal: 1",
     "preparo": "passo 1\nColoque o caldo de carne junto com 500 ml de água numa panela grande. Sente a cebola e o gengibre em uma frigideira em fogo alto e carbonize por todos os lados, cerca de 3 a 5 minutos (você também pode fazer isso sob a grelha). Depois de carbonizado, adicione ao caldo de carne. Na mesma panela, torre as especiarias por 2-3 minutos e, quando começarem a cheirar mal, adicione-as ao caldo de carne também. Leve o caldo para ferver, depois cozinhe em fogo brando e cozinhe por 30 minutos antes de coar.\n\npasso 2\nEnquanto isso, corte a gordura de"
+  },
+  {
+    "titulo": "Bife à milanesa",
+    "pais": "Argentina",
+    "imagem": "https://www.themealdb.com/images/media/meals/wdfa171763065079.jpg",
+    "ingredientes": "• Costeleta de Carne: 4\n• Ovo: 2 Espancado\n• Farinha de rosca: 200g\n• Salsa: 2 colheres de sopa picadas\n• Alho: 2 dentes picados\n• Sal: A gosto\n• Pimenta: A gosto",
+    "preparo": "Tempere as costeletas: salgue e pimente as costeletas.\nPão com costeletas: mergulhe cada costeleta em ovo e, em seguida, cubra com uma mistura de farinha de rosca, salsa e alho.\nFritar: Aqueça o óleo numa panela grande em fogo médio. Frite as costeletas até dourar e cozinhe, cerca de 3-4 minutos de cada lado.\nSirva: Sirva quente com fatias de limão ou uma salada.\nDicas profissionais:\n\nPara uma crosta extra crocante, use pão ralado panko misturado com queijo parmesão finamente ralado.\nBata suavemente os cortes até obter uma espessura uniforme para um cozimento uniforme"
   },
   {
     "titulo": "Bisque de camarão e funcho",
@@ -77,6 +98,20 @@
     "preparo": "Rale finamente e misture.\n45 g de queijo amarelo picante (cheddar ou oude boerenkaas)\n1 lb. keshi di buriko (ou qualquer queijo branco, como fromage blanc, queso blanco, ricoto, feta etc.)\n\nStir in:\n6 ovos, batidos\n5 colheres de sopa de amido de milho\n\nMoldar a mistura em pequenas bolas. Estes podem ser mantidos indefinidamente no congelador. Solte as bolas em gordura profunda e quente e frite até dourar. Sirva o encanamento quente nos palitos de dente."
   },
   {
+    "titulo": "Bolos Mini bundt",
+    "pais": "Polaco",
+    "imagem": "https://www.themealdb.com/images/media/meals/tzt3it1764363293.jpg",
+    "ingredientes": "• Manteiga: 150g\n• Farinha lisa: 175g\n• Açúcar refinado: 125g\n• Ovo: 3\n• Fermento em pó: 1 colher de chá\n• Cacau em pó: 2 colheres de chá\n• Leite: 3  colheres de sopa\n• Açúcar gelado: 1 colher de sopa",
+    "preparo": "passo 1\nAqueça o forno a 180C/160C ventilador/gás 4. Derreta 25 g de manteiga e escove generosamente nos orifícios de uma mini-lata. Coloque um pouco de farinha em cada buraco e agite para cobrir e, em seguida, retire o excesso. Bata a manteiga, o açúcar refinado e uma pitada de sal juntos usando um batedor elétrico. Adicione os ovos, um de cada vez, batendo bem após cada adição. Misture a farinha e o fermento em pó numa tigela separada, depois peneire nos ingredientes húmidos e mexa até ficar homogéneo. Combine o cacau em pó e o leite em"
+  },
+  {
+    "titulo": "Briks de atum e ovos",
+    "pais": "Tunisina",
+    "imagem": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg",
+    "ingredientes": "• Azeite: 2 colheres de sopa\n• Cebolinha: 8\n• Espinafre: 200g\n• Massa Filo: 4\n• Atum: 1 lata\n• Ovos: 2\n• Hotsauce: Dash\n• Tomates: 4 picados\n• Pepino: 1/4\n• Suco de lima-da-pérsia: 1 colher de sopa\n• Doce de damasco: 4 colheres de sopa",
+    "preparo": "Aqueça 2 colheres de chá do óleo em uma panela grande e cozinhe as cebolinhas em fogo baixo por 3 minutos ou até começar a amolecer. Adicione o espinafre, cubra com uma tampa apertada e cozinhe por mais 2–3 minutos ou até ficar macio e murchar, mexendo uma ou duas vezes. Ponha a mistura numa peneira ou coador e deixe escorrer e arrefecer.\nUsando um pires como guia, recorte 24 rodadas de cerca de 12,5 cm (5 pol.) de diâmetro da massa filo, cortando 6 rodadas de cada folha. Empilhe as rodadas filo numa pilha"
+  },
+  {
     "titulo": "Campeão de mostarda",
     "pais": "Irlandês",
     "imagem": "https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg",
@@ -96,6 +131,13 @@
     "imagem": "https://www.themealdb.com/images/media/meals/q8pu1k1764114334.jpg",
     "ingredientes": "• Alho: 4 dentes\n• Pimenta vermelha: 1 pequena\n• Cominho moído: 1 colher de chá\n• Páprica: 1 colher de chá\n• Pimenta Preta: 1/2 colher de chá\n• Pimenta Caiena: 1/2 colher de chá\n• Sal: 1/2 colher de chá\n• Azeite: 2 colheres de sopa\n• Batatas Novas: 2 Lbs\n• Purê de tomate: 1 colher de sopa\n• Água: fervida\n• Sal: A gosto",
     "preparo": "Combine alho, pimenta malagueta, cominho, páprica, pimenta preta, pimenta caiena e sal em um almofariz; moa com um pilão até formar uma pasta. Adicione o azeite e misture bem o dersa.\n\nAqueça uma panela grande em fogo médio e frite dersa até ficar perfumada, 2 a 4 minutos. Adicione as metades da batata e mexa para combinar com o dersa. Misture a pasta de tomate. Despeje água suficiente para cobrir as batatas e deixe ferver. Reduza o fogo e cozinhe até que as batatas estejam macias, cerca de 40 minutos.\n\nBatatas panela em"
+  },
+  {
+    "titulo": "Chucrute de beterraba e repolho roxo",
+    "pais": "Polaco",
+    "imagem": "https://www.themealdb.com/images/media/meals/ra2k8a1764365055.jpg",
+    "ingredientes": "• Beterraba: 320g\n• Repolho Vermelho: 450g\n• Cebola: 1 pequena\n• Semente de alcaravia: 2 colheres de chá\n• Sal marinho: 1 colher de chá",
+    "preparo": "passo 1\nColoque todos os ingredientes em uma tigela grande, adicione 1-1½ colher de chá de pimenta-do-reino moída na hora e, em seguida, amasse tudo com as mãos por 5 minutos. Você pode querer usar luvas para evitar manchar a pele com os sucos de beterraba.\n\npasso 2\nPressione o vegetal para baixo na tigela com as mãos e, em seguida, cubra a superfície e a lateral da tigela com uma folha grande de película aderente compostável ou algo reutilizável como um envoltório de cera de abelha. Agora coloque outra tigela de tamanho semelhante em cima. Pressione com força e adicione"
   },
   {
     "titulo": "Confit de pato",
@@ -119,6 +161,13 @@
     "preparo": "passo 1\nColoque o cordeiro num saco de comida grande com todo o sumo e marine durante a noite.\n\npasso 2\nNo dia seguinte, retire o cordeiro do frigorífico 1 hora antes de o querer cozinhar. Aqueça o forno A 220C/200C ventilador/gás 7. Retire o cordeiro da marinada (marinada restante da reserva) e seque. Esfregue com metade do óleo e asse por 15-20 minutos até dourar. Remova o cordeiro e reduza o forno PARA 160C/140C ventilador/gás 3.\n\npasso 3\nMisture as raspas, o óleo restante, o mel, as especiarias e o alho com bastante tempero. Coloque uma grande folha de pergaminho sobre uma grande folha de papel alumínio. Sente a perna de cordeiro em cima, esfregue toda com a pasta e puxe os lados da folha. Regue a marinada na base e aperte a folha para selar.\n\netapa 4\nAsse por 4 horas, até ficar muito macio. Descanse, ainda embrulhado, por 30 minutos. Desembrulhe e sirva com sumos."
   },
   {
+    "titulo": "Diversão com Chow de Camarão",
+    "pais": "Chinês",
+    "imagem": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
+    "ingredientes": "• Macarrão com palito de arroz: 1/2 saco\n• Camarão: 8 oz\n• Ovo: 1/2\n• Pimenta: pitada\n• Óleo de semente de gergelim: 2 colheres de chá\n• Amido de milho: 2 colheres de sopa\n• Óleo: 4 colheres de sopa\n• Alho picado: 1 colher de chá\n• Gengibre: 1 colher de chá\n• Cebola: 1/2 chávena\n• Brotos de Feijão: 1 xícara\n• Cebolinha: 1/2 xícara\n• Vinho de cozinha: 1 colher de sopa\n• Molho de ostra: 1 colher de sopa\n• Açúcar: 1/2 colher de sopa\n• Vinagre: 1/2 colher de sopa\n• Molho de soja: 1 colher de sopa",
+    "preparo": "PASSO 1 - MERGULHE O MACARRÃO DE ARROZ\nMergulhe o macarrão de arroz durante a noite até ficar macio\nPASSO 2 - FERVA O MACARRÃO DE ARROZ\nFerva o macarrão por 10-15 minutos e depois enxágue com água fria para interromper o processo de cozimento do macarrão.\nPASSO 3 - MARINHE O CAMARÃO\nEm uma tigela, adicione o camarão, ovo, 1 pitada de pimenta branca, 1 colher de chá de óleo de semente de gergelim, 1 colher de sopa de amido de milho e 1 colher de sopa de óleo\nMisture bem\nPASSO 4 - REFOGAR\nEm um wok, adicione 2 colheres de sopa de óleo, camarão e frite-os até"
+  },
+  {
     "titulo": "Donuts holandeses",
     "pais": "(Internacional)",
     "imagem": "https://www.themealdb.com/images/media/meals/cz1d6v1777627421.jpg",
@@ -138,6 +187,13 @@
     "imagem": "https://www.themealdb.com/images/media/meals/1520081754.jpg",
     "ingredientes": "• Berinjela Bebê: 6 pequenas\n• Funcho: 4 pequenas\n• Pimenta Vermelha: 1 fatiado fino\n• Abobrinhas: 1 média\n• Cebola: 1 picadinho\n• Arroz Paella: 300g\n• Páprica: 1 colher de chá\n• Açafrão: pitada\n• Vinho Branco: 200ml\n• Caldo de Legumes: 700ml\n• Ervilhas Congeladas: 100g\n• Limão: 1 picadinho\n• Salsa: Punhado\n• Sal: pitada\n• Pimenta Preta: pitada",
     "preparo": "1 Coloque a erva-doce, a berinjela, a pimenta e a abobrinha numa assadeira. Adicione um pouco de azeite, tempere com sal e pimenta e misture para cobrir os vegetais com o óleo. Asse no forno por 20 minutos, girando algumas vezes até que os vegetais estejam praticamente cozidos e dourados.\n\n2 Enquanto isso, aqueça uma panela de paella ou uma frigideira grande em fogo médio baixo e adicione um pouco de azeite. Refogue a cebola por 8–10 minutos até amolecer. Aumente o fogo para médio e misture o arroz"
+  },
+  {
+    "titulo": "Espaguete com sabores espanhóis",
+    "pais": "Espanhol, castelhano",
+    "imagem": "https://www.themealdb.com/images/media/meals/vpcqn01763335688.jpg",
+    "ingredientes": "• Chouriço: 80g\n• Espaguete: 300g\n• Salsa: 20g\n• Pimenta Vermelha: 2\n• Azeite: 2 colheres de sopa\n• Queijo Parmesão: 50g",
+    "preparo": "passo 1\nColoque uma panela de água em fogo alto para ferver. Enquanto isso, corte o chouriço em tiras com uma tesoura e corte a salsa e os pimentões (verifique primeiro se há sementes perdidas).\n\npasso 2\nQuando a água estiver fervendo rapidamente, adicione o espaguete com uma boa dose de sal, mexa e volte a ferver. Cozinhe por 3 minutos.\n\npasso 3\nEm uma frigideira grande, aqueça o óleo, adicione o chouriço e as pimentas e muita pimenta preta. Cozinhe por um minuto ou mais, até aquecer completamente e os sucos ficarem manchados de vermelho"
   },
   {
     "titulo": "Fasoliyyeh Bi Z-Zayt (Feijão Verde Sírio com Azeite)",
@@ -196,6 +252,13 @@
     "preparo": "Corte o frango em pedaços pequenos. Descasque e corte as cebolas, pique o alho.\nMonte o resto dos ingredientes e estará pronto para começar a cozinhar.\nFaça o Prato\nAqueça uma frigideira em fogo médio. Adicione o óleo e, quando estiver quente, refogue a cebola até ficar translúcida. Retire da panela e transfira para um liquidificador ou processador de alimentos.\nAdicione tomates, alho, açafrão, cominho, açúcar, pasta de gengibre, leite de coco, água e misture suavemente.\nNa mesma panela que cozinhou a cebola, adicione o frango e doure tudo"
   },
   {
+    "titulo": "Frango venezuelano com coco",
+    "pais": "Venezuela",
+    "imagem": "https://www.themealdb.com/images/media/meals/z2sw3o1764378271.jpg",
+    "ingredientes": "• Peitos de Frango: 2\n• Cebola: 2 picadas\n• Alho: 1 dente descascado esmagado\n• Folhas de louro: 4\n• Pimenta Preta: Pitada\n• Cúrcuma: Pitada\n• Cominho: Pitada\n• Sal: Pitada\n• Açúcar: 1 colher de sopa\n• Tomate: 3\n• Pasta de gengibre: 1 colher de sopa\n• Azeite: 1/3 chávena\n• Leite de coco: 1 lata\n• Água: 1/2 chávena",
+    "preparo": "Corte o frango em pedaços pequenos. Descasque e corte as cebolas, pique o alho.\nMonte o resto dos ingredientes e estará pronto para começar a cozinhar.\nFaça o Prato\nAqueça uma frigideira em fogo médio. Adicione o óleo e, quando estiver quente, refogue a cebola até ficar translúcida. Retire da panela e transfira para um liquidificador ou processador de alimentos.\nAdicione tomates, alho, açafrão, cominho, açúcar, pasta de gengibre, leite de coco, água e misture suavemente.\nNa mesma panela que cozinhou a cebola, adicione o frango e doure tudo"
+  },
+  {
     "titulo": "Fritas no Microondas - Batata Inglesa",
     "pais": "Brasil",
     "imagem": "https://receitas.globo.com/tipos-de-prato/acompanhamentos/batata-frita-de-microondas-4e82f5f71d3a3c39ab000425.ghtml",
@@ -222,6 +285,20 @@
     "imagem": "https://www.themealdb.com/images/media/meals/rw64di1766595573.jpg",
     "ingredientes": "• Farinha Autoelevatória: 300g\n• Açúcar mascavo: 150g\n• Mix de Especiarias Speculaas: 10g\n• Sal: Pitada\n• Manteiga: 125g\n• Leite: 10 colheres de chá\n• Pasta de Amêndoa: 300g\n• Ovo: 1\n• Leite: Para escovar\n• Amêndoas: Decorar",
     "preparo": "Misture a farinha auto-surgente, o açúcar, a mistura de especiarias speculaas e o sal. Adicione a manteiga e o leite e amasse numa bola de massa firme. Comece com 6 colheres de sopa de leite, se a massa estiver muito dura, você pode adicionar mais leite.\nEnrole a massa em filme plástico e leve à geladeira durante a noite. Você pode processá-lo e assá-lo imediatamente, mas o sabor será muito melhor se você deixá-lo descansar.\nMisture a pasta de amêndoas com metade do ovo batido e amasse bem. Isso facilita o trabalho e dá um tex melhor e mais saboroso"
+  },
+  {
+    "titulo": "hambúrgueres kofta",
+    "pais": "Turco",
+    "imagem": "https://www.themealdb.com/images/media/meals/lgmnff1763789847.jpg",
+    "ingredientes": "• Cordeiro: 1kg\n• Cebola: 2\n• Bulbo de Alho: 1\n• Garam Masala: 6 colheres de sopa\n• Coentro: Bunch\n• Molho de Pimenta: 1 colher de sopa\n• Pão Pita: 8\n• Tomate: 4 fatias\n• Repolho Vermelho: 1/2\n• Cebolas vermelhas: 1 fatiada\n• Iogurte: Embalagem pequena",
+    "preparo": "passo 1\nColoque a carne picada numa tigela grande (use uma tigela de lavagem limpa se não tiver nada grande o suficiente) com todos os outros ingredientes de hambúrguer e uma boa pitada de sal. Arregace as mangas, coloque as mãos na mistura e esmague tudo com os dedos até ficar completamente misturado. Pat a mistura em 16 hambúrgueres pequenos. Estes podem agora ser congelados até 1 mês ou refrigerados até um dia antes.\n\npasso 2\nPara cozinhar, aqueça a grelha na sua configuração mais alta e coloque os hambúrgueres numa única camada sobre"
+  },
+  {
+    "titulo": "Handesh – Farinha de arroz de Bangladesh e bolos de melaço de tâmaras",
+    "pais": "(Internacional)",
+    "imagem": "https://www.themealdb.com/images/media/meals/vfybi01780261706.jpg",
+    "ingredientes": "• Data Melaço: 250g\n• Água Quente: 400ml\n• Farinha de Arroz: 250g\n• Farinha: 150g\n• Canela em pó: 1/4 colher de chá\n• Cardomomo moído: 1/4 colher de chá",
+    "preparo": "Adicione o melaço a uma tigela grande e comece derramando 300 ml de água para começar e misture. A textura do melaço de Bangladesh varia de um xarope espesso a ligeiramente endurecido. Eu uso marcas como Zilani ou Akza. Se o conjunto for muito xaroposo (como xarope dourado), você precisará apenas de 300-325 ml de água\n2\nDespeje as farinhas e especiarias (se estiver usando) e bata por 3–5 minutos, até obter uma massa lisa. Você precisa verificar cuidadosamente se há caroços, pois eles impedem que a mão suba e"
   },
   {
     "titulo": "Handesh – Farinha de arroz de Bangladesh e bolos de melaço de tâmaras",
@@ -259,11 +336,25 @@
     "preparo": "1\n\nPré-aqueça o forno a 450 graus. Lave e seque todos os produtos. Corte as batatas doces em fatias de ½polegada de espessura. Misture uma assadeira com um fio de óleo, sal e pimenta. Asse até dourar e ficar macio, de 20 a 25 minutos.\n\n2\n\nEnquanto isso, corte pela metade e descasque a cebola. Fatie o mais finamente possível até ter ¼ de xícara (½ xícara para 4 porções); pique finamente a cebola restante. Descasque e pique o alho finamente. Divida o limão pela metade; esprema o suco numa tigela pequena. Corte os pães pela metade. Adicione 1 COLHER DE SOPA de manteiga (2 COLHERES DE SOPA para 4) a um pequeno mi separado"
   },
   {
+    "titulo": "Kapsalon",
+    "pais": "Países Baixos",
+    "imagem": "https://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg",
+    "ingredientes": "• Batatas fritas: 250 gramas\n• Carne Doner: 500 gramas\n• Molho de alho: cobertura\n• Hotsauce: Cobertura\n• Alface: 1 Lâmpada\n• Tomate: 1\n• Pepino: 3º\n• Queijo Gouda: 100 gramas",
+    "preparo": "Corte a carne em tiras. Aqueça o óleo numa panela e frite as tiras durante 6 minutos até que esteja pronto.\nAsse as batatas fritas até dourar numa fritadeira. Quando estiver pronto, transfira para um prato de apoio. Certifique-se de que as batatas fritas estão espalhadas por todo o prato.\nCubra as batatas fritas com uma nova camada de carne e espalhe uniformemente.\nAdicione uma camada de queijo sobre a carne. Você também pode usar queijo ralado. Quando terminar, coloque no forno por alguns minutos até que o queijo derreta.\nPique a alface, o tomate e o pepino em pedaços pequenos e"
+  },
+  {
     "titulo": "Karbonader (hambúrgueres de carne magra) com cebola caramelizada",
     "pais": "Noruega",
     "imagem": "https://www.themealdb.com/images/media/meals/0bpjb11763075817.jpg",
     "ingredientes": "• Cebola: 2\n• Manteiga: 1 colher de sopa\n• Carne moída: 0,5 kg\n• Sal: 1/2 colher de chá\n• Pimenta: 1/2 colher de chá\n• Noz-moscada: 1/2 colher de chá\n• Amido de milho: 1/2 colher de sopa\n• Água: 50 ml\n• Manteiga: 2 colheres de chá",
     "preparo": "Rale meia cebola e reserve. Fatie o resto das cebolas e frite na manteiga em fogo baixo/médio até caramelizar.\n▢\nEm uma tigela, misture carne moída, cebola ralada, sal, pimenta, noz-moscada, amido de batata/milho e água.\n▢\nForme uma salsicha e corte 6 hambúrgueres. Usando uma faca, faça um padrão de grade de luz em cada hambúrguer.\n▢\nMarrom ambos os lados do karbonader na manteiga em fogo alto, em seguida, abaixe para fogo baixo e frite por mais 2 – 3 minutos.\n▢\nSirva o karbonader e as cebolas com batatas"
+  },
+  {
+    "titulo": "Katsudon Japonês",
+    "pais": "Japonês",
+    "imagem": "https://www.themealdb.com/images/media/meals/d8f6qx1604182128.jpg",
+    "ingredientes": "• Óleo Vegetal: 1 colher de sopa\n• Cebola: 1 grande\n• Carne de porco: 1 picada\n• Caldo de Legumes: 150ml\n• Molho de soja: 1 colher de sopa\n• Mirin: 1 colher de chá\n• Açúcar: 1 colher de chá\n• Ovos: 2 batidos\n• Arroz Sushi: 200g\n• Cebolinha: picada",
+    "preparo": "PASSO 1\nAqueça o óleo em uma panela, frite a cebola fatiada até dourar e, em seguida, adicione o tonkatsu (veja a receita aqui), colocando-o no meio da panela. Misture o dashi, a soja, o mirin e o açúcar e aplique três quartos da mistura ao redor do tonkatsu. Ferva por alguns minutos para que o molho engrosse um pouco e o tonkatsu reaqueça.\n\nPASSO 2\nIncline os ovos batidos ao redor do tonkatsu e cozinhe por 2-3 minutos até que o ovo esteja cozido, mas ainda um pouco escorrendo. Divida o arroz entre dois bo"
   },
   {
     "titulo": "Kedgeree",
@@ -278,6 +369,13 @@
     "imagem": "https://www.themealdb.com/images/media/meals/qpqtuu1511386216.jpg",
     "ingredientes": "• Biscoitos Digestivos: 300g\n• Manteiga: 150g\n• Leite Condensado: 400g\n• Gemas de ovos: 3\n• Cal: 4\n• Creme Duplo: 300ml\n• Açúcar gelado: 1 tbls\n• Cal: para servir",
     "preparo": "Aqueça o forno a 160C/ventoinha 140C/gás 3. Coloque os biscoitos em migalhas num processador de alimentos (ou coloque num saco plástico forte e bata com um rolo). Misture com a manteiga derretida e pressione na base e nas laterais de uma lata de torta solta de 22 cm. Asse no forno por 10 minutos. Remover e arrefecer.\nColoque as gemas numa tigela grande e bata durante um minuto com batedores elétricos. Adicione o leite condensado e bata por 3 minutos, em seguida, adicione as raspas e o suco e bata novamente por 3 minutos. Despeje o enchimento"
+  },
+  {
+    "titulo": "Knafeh",
+    "pais": "Saudita",
+    "imagem": "https://www.themealdb.com/images/media/meals/76nffj1763593933.jpg",
+    "ingredientes": "• Knafeh: 400g\n• Manteiga sem sal: 6 colheres de sopa\n• Corante Amarelo: 1 pitada\n• Mussarela: 1 chávena\n• Cream Cheese: 1/4 xícara\n• Leite: 1 1/2 chávena\n• Açúcar: 4 colheres de sopa\n• Farinha de Milho: 2 colheres de sopa\n• Açúcar: 1 chávena\n• Água: 1 chávena\n• Água de rosas: 1 colher de chá\n• Suco de lima-da-pérsia: 1/2 colher de chá",
+    "preparo": "1\nPegue o kanfhe numa tigela e corte-os grosseiramente. Despeje a manteiga derretida, a cor amarela dos alimentos e misture bem com as mãos.\nEm uma tigela separada, misture bem o leite, o cream cheese, o açúcar e o amido de milho.\n2\nAcenda a chama e ferva o líquido, quando ficar espesso desligue a chama deixe esfriar um pouco.\nAdicione a mussarela e misture bem.\nAgora faça uma base com metade do kanfhe em um prato, pressione suavemente para nivelar bem a massa.\nDespeje a mistura de queijo por cima e nivele com uma colher.\n3\nTampa"
   },
   {
     "titulo": "Lasanha",
@@ -301,6 +399,20 @@
     "preparo": "1. Etapas para a Carne: \n Asse a carne em fogo médio por 50 minutos e salgue enquanto gira.\n\n2. Etapas para Ugali:\nFerva a água e o sal numa panela de fundo pesado. Mexa a farinha de milho lentamente, deixando-a cair pelos dedos da mão.\n\n3. Reduza o fogo para médio-baixo e continue mexendo regularmente, esmagando qualquer caroço com uma colher, até que o mingau se afaste das laterais da panela e fique muito espesso, cerca de 10 minutos.\n\n4. Retire do calor e deixe arrefecer."
   },
   {
+    "titulo": "Molho de abacate com batatas novas",
+    "pais": "Australiano",
+    "imagem": "https://www.themealdb.com/images/media/meals/flrajf1762341295.jpg",
+    "ingredientes": "• Abacate: 3 Grandes\n• Iogurte Natural: 200g\n• Lima: Raspas e sumo de 1\n• Limão: Suco de 1/2\n• Baby New Potatoes: 1,25kg\n• Azeite: 2 colheres de sopa\n• Hot Chilli Powder: 1 colher de chá\n• Sementes de cominho: 1 colher de chá\n• Tortilhas: 200g",
+    "preparo": "passo 1\nWhizz metade da polpa de abacate com o iogurte, limão e suco de limão e tempero. Corte o abacate restante em cubos e, em seguida, mexa suavemente na mistura zunida com a maior parte das raspas de limão. Cubra e, em seguida, esfrie até estar pronto para servir.\n\npasso 2\nFerva as batatas por 6 minutos, depois escorra bem e misture com azeite, pimenta em pó e sementes de cominho. Agora reserve até meia hora antes da chegada dos seus hóspedes.\n\npasso 3\nAqueça o forno a 200C/180C ventilador/gás 6 e, em seguida, as batatas assadas por cerca de 30 minutos, agitando a bandeja halfwa"
+  },
+  {
+    "titulo": "Molusco, chouriço e guisado de feijão branco",
+    "pais": "Espanhol, castelhano",
+    "imagem": "https://www.themealdb.com/images/media/meals/92wbmf1763252334.jpg",
+    "ingredientes": "• Chouriço: 50g\n• Cebola: 1 picada\n• Cravo de alho: 1\n• Salsa: Bunch\n• Caldo de Legumes: 200ml\n• Tomates enlatados: 400g\n• Feijão Manteiga: 400g\n• Vinagre de xerez: 1 colher de chá\n• Amêijoas: 600g\n• Pão Crocante: Para servir",
+    "preparo": "passo 1\nFrite o chouriço numa frigideira grande com uma tampa, em fogo médio até começar a ficar crocante e solte o óleo. Adicione a cebola e cozinhe por 5 minutos até começar a amolecer. Em seguida, adicione o alho e a salsa finamente picada e frite por mais 1 min.\n\npasso 2\nDespeje sobre o caldo e os tomates. Deixe ferver, reduza o fogo e, em seguida, adicione o feijão e o vinagre de xerez. Cozinhe por 10 minutos até que o líquido seja ligeiramente reduzido.\n\npasso 3\nEspalhe sobre as amêijoas, cubra com a tampa e stea"
+  },
+  {
     "titulo": "Mousse de framboesa",
     "pais": "Polaco",
     "imagem": "https://www.themealdb.com/images/media/meals/v5jrnn1764362830.jpg",
@@ -322,11 +434,25 @@
     "preparo": "Misture o molho em uma tigela pequena.\nPique o alho no wok com óleo. Coloque em fogo alto, quando estiver quente, adicione o frango e os caules de brócolis chineses, cozinhe até que o frango fique dourado claro.\nEmpurre para o lado do wok, quebre o ovo e embaralhe. Não se preocupe se ele grudar no fundo do wok - ele vai carbonizar e adicionar um sabor autêntico.\nAdicione macarrão, folhas de brócolis chinês e molho. Misture suavemente até que o macarrão fique manchado e as folhas murchem. Sirva imediatamente!"
   },
   {
+    "titulo": "Pad See Ew",
+    "pais": "Thai",
+    "imagem": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+    "ingredientes": "• macarrão com palito de arroz: 6 oz/180 g\n• molho de soja escuro: 2 colheres de sopa\n• molho de ostras: 2 colheres de sopa\n• molho de soja: 2 colheres de chá\n• vinagre branco: 2 colheres de chá\n• açúcar: 2 colheres de chá\n• água: 2 colheres de sopa\n• óleo de amendoim: 2 colheres de sopa\n• alho: 2 dentes\n• Frango: 1 chávena\n• Ovo: 1\n• Brócolis chinês: 4 chávenas",
+    "preparo": "Misture o molho em uma tigela pequena.\nPique o alho no wok com óleo. Coloque em fogo alto, quando estiver quente, adicione o frango e os caules de brócolis chineses, cozinhe até que o frango fique dourado claro.\nEmpurre para o lado do wok, quebre o ovo e embaralhe. Não se preocupe se ele grudar no fundo do wok - ele vai carbonizar e adicionar um sabor autêntico.\nAdicione macarrão, folhas de brócolis chinês e molho. Misture suavemente até que o macarrão fique manchado e as folhas murchem. Sirva imediatamente!"
+  },
+  {
     "titulo": "Panqueca / Crepe em camadas Flija",
     "pais": "(Internacional)",
     "imagem": "https://www.themealdb.com/images/media/meals/eqnf3p1779649407.jpg",
     "ingredientes": "• Farinha: 1 kg\n• Água: 1 L\n• Sal: 1 colher de chá\n• Manteiga Derretida: 220g\n• Óleo Vegetal: 200ml\n• Iogurte grego: 5 colheres de sopa\n• Manteiga Derretida: 220g\n• Óleo Vegetal: 200ml\n• Creme coagulado: 3  colheres de sopa\n• Manteiga Derretida: 220g\n• Creme Azedo: 500ml\n• Azeite: 3  colheres de sopa",
     "preparo": "1\nPrepare a massa de farinha\nMisture a farinha, a água e o sal, garantindo que todos os grumos estejam dissolvidos. A mistura deve ser espessa, mas ainda de consistência vertida, adicione um pouco de água extra, se necessário. Coloque de lado.\n2\nPrepare o enchimento da massa\nMisture a manteiga, o óleo e o iogurte / creme escolhido, garantindo que todos os grumos sejam dissolvidos. A mistura deve estar escorrendo, deixe descansar por 10 minutos antes de dar-lhe outra boa mistura. A consistência deve ser semelhante ao creme. Coloque a um"
+  },
+  {
+    "titulo": "Paracuca (amendoim torrado)",
+    "pais": "(Internacional)",
+    "imagem": "https://www.themealdb.com/images/media/meals/vgsipt1779917593.jpg",
+    "ingredientes": "• Amendoim sem sal: 5 xícaras\n• Açúcar: 1 chávena\n• Água: 1 chávena\n• Sal: 1/4 colher de chá",
+    "preparo": "1\nEm uma panela grande e pesada, misture os amendoins, o açúcar e a água. Deixe ferver; cozinhe até que o xarope evapore, cerca de 10 minutos.\n2\nEspalhe os amendoins numa única camada numa assadeira untada de 15x10x1 pol.; polvilhe com sal.\n3\nAsse a 300° durante 30-35 minutos ou até secar e dourar ligeiramente. Arrefecer completamente. Armazenar num recipiente hermético."
   },
   {
     "titulo": "Paracuca (amendoim torrado)",
@@ -390,6 +516,13 @@
     "imagem": "https://www.themealdb.com/images/media/meals/8c8m4q1763791156.jpg",
     "ingredientes": "• Beringela: 2 médias\n• Limão: Suco de 1\n• Alho: 3 dentes esmagados\n• Iogurte: 150ml\n• Endro: Bunch",
     "preparo": "passo 1\nAqueça a grelha a muito quente. Corte as berinjelas ao meio, depois grelhe por 25 minutos, girando ocasionalmente, até ficar macia – a pele permanecerá firme, mas a carne ficará macia. Levante as berinjelas da grelha e deixe-as esfriar o suficiente para manusear.\n\npasso 2\nUsando uma faca afiada, marque a carne grelhada e retire a carne com uma colher. Coloque a ponta numa tigela e amasse com um garfo até obter uma polpa espessa. Bata no sumo de limão e alho. Adicione o iogurte e o endro e tempere. Sirva com"
+  },
+  {
+    "titulo": "Pão Sírio",
+    "pais": "Sírio",
+    "imagem": "https://www.themealdb.com/images/media/meals/54xzk31760524666.jpg",
+    "ingredientes": "• Água: 1 e 1/8 chávena\n• Óleo Vegetal: 2 colheres de chá\n• Açúcar: 1/2 colher de chá\n• Sal: 1 1/2 colher de chá\n• Farinha: 3 xícaras\n• Levedura: 1 1/2 colher de chá",
+    "preparo": "Coloque os ingredientes na panela da máquina de pão na ordem recomendada pelo fabricante. Seleccione Ciclo de massa; prima Iniciar.\n\nQuando o ciclo da massa estiver quase completo, pré-aqueça o forno a 245 graus Celsius.\n\nVire a massa para uma superfície levemente enfarinhada. Divida em oito partes iguais e forme em rodadas. Cubra as rondas com um pano húmido e deixe descansar.\n\nEnrole a massa em círculos planos finos, com cerca de 20 cm de diâmetro. Cozinhe dois de cada vez em assadeiras pré-aquecidas ou assadeiras"
   },
   {
     "titulo": "Queijo creme",
@@ -469,6 +602,13 @@
     "preparo": "Pré-aqueça o forno a 350°. Remova os caules de um cacho de couve toscana e rasgue as folhas em pedaços de 1 polegada (mostarda, couve, espinafre e acelga também são ótimos). Pique grosseiramente meia cabeça de repolho verde. Misture as verduras numa assadeira grande e adicione 4 dentes de alho em fatias finas. Adicionar algumas cebolas fatiadas e cogumelos shiitake neste momento é opcional, mas altamente recomendado (vou refogar as cebolas e cogumelos em uma assadeira de ferro fundido bem no fogão antes de adicionar ao"
   },
   {
+    "titulo": "Sancocho venezuelano",
+    "pais": "Venezuela",
+    "imagem": "https://www.themealdb.com/images/media/meals/8859m71764377470.jpg",
+    "ingredientes": "• Hind Shank: 2 Lbs\n• Cebola: 2 pequenas\n• Pimenta: 1/2\n• Alho: 4 dentes picados\n• Alho: 4 dentes esmagados\n• Alho-poró: 1\n• Caldo de Carne Bovina: 8 xícaras\n• Pimentas vermelhas doces: 1/2 xícara\n• Cebolinha: 1/2 xícara\n• Milho doce: 2\n• Cassaba: 1/2 lb\n• Yautia: 1/2 lb\n• Inhame branco: 1/2 lb\n• Abóbora Butternut: 1/2 lb\n• Sal: A gosto\n• Pimenta: A gosto\n• Coentro: picado",
+    "preparo": "Adicione a haste traseira, 1 cebola pequena cortada ao meio, pimentão cortado ao meio, 4 dentes de alho inteiros, as folhas verde-escuras do alho-poró e o caldo em uma panela grande. Cozinhe por 45-60 minutos até que a carne esteja macia aos garfos. OBSERVAÇÃO: a carne pode demorar um pouco mais para ficar macia aos garfos; tudo bem, basta adicionar mais tempo de cozimento, se necessário.\nQuando a carne estiver macia, remova os pedaços grandes de legumes e ossos. Descarte.\nAdicione cebola picada, 2 alhos picados, mini pimentões doces, alho-poró fatiado (parte verde claro), cebolinha, mandioca,"
+  },
+  {
     "titulo": "Sanduíche de queijo grelhado",
     "pais": "Estados Unidos",
     "imagem": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg",
@@ -502,6 +642,13 @@
     "imagem": "https://www.themealdb.com/images/media/meals/1ngcbf1628770793.jpg",
     "ingredientes": "• Cogumelos: 150g\n• Trigo mourisco: 50g\n• Óleo Vegetal: 4 colheres de sopa\n• Cebola: 40g\n• Alho: 2 dentes\n• Folha de louro: 1\n• Cubo de caldo de legumes: 1 colher de sopa\n• Creme Azedo: 50 ml\n• Vinagre de Vinho Branco: Dash\n• Salsa: Superior",
     "preparo": "Pique a cebola e o alho, corte os cogumelos e lave o trigo sarraceno. Aqueça o óleo e refogue levemente a cebola. Adicione os cogumelos e o alho e continue a refogar. Adicione o sal, o tempero vegetal, o trigo mourisco e a folha de louro e cubra com água. Cozinhe suavemente e pouco antes de estar completamente cozido, adicione pimenta, creme azedo misturado com farinha, salsa picada e vinagre a gosto."
+  },
+  {
+    "titulo": "Tarte Tatin",
+    "pais": "França",
+    "imagem": "https://www.themealdb.com/images/media/meals/ryspuw1511786688.jpg",
+    "ingredientes": "• Massa folhada: 300g\n• Farinha lisa: pó\n• Maçãs Braeburn: 6\n• Açúcar refinado: 100g\n• Manteiga: 85g\n• Creme Fraiche: para servir",
+    "preparo": "Enrole a massa até uma volta de 3 mm de espessura numa superfície levemente enfarinhada e corte um círculo de 24 cm, usando um prato como guia. Picar levemente tudo com um garfo, embrulhar em película aderente numa assadeira e congelar enquanto prepara as maçãs.\nAqueça o forno a 180C/160C ventilador/gás 4. Descasque, corte e fole as maçãs. Coloque o açúcar numa placa de cerâmica à prova de fogo de 20 cm ou numa frigideira pesada à prova de forno de 20 cm e coloque em fogo médio-alto. Cozinhe o açúcar por 5-7 minutos para um xarope de caramelo âmbar escuro que é Starti"
   },
   {
     "titulo": "Timbits",
