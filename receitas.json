@@ -1,5 +1,19 @@
 [
   {
+    "titulo": "Ajo Blanco",
+    "pais": "Espanhol, castelhano",
+    "imagem": "https://www.themealdb.com/images/media/meals/5jdtie1763289302.jpg",
+    "ingredientes": "• Pão branco: 150g\n• Amêndoas: 200g\n• Azeite Virgem Extra: 50 ml\n• Cravo de alho: 1\n• Vinagre de Vinho Tinto: 1 ½ colher de sopa",
+    "preparo": "passo 1\nColoque o pão numa tigela e despeje mais de 350 ml de água. Deixe de molho por 10 minutos.\n\npasso 2\nMisture os ingredientes com 350 ml de água e 1 colher de chá de sal.\n\npasso 3\nDeixe a sopa arrefecer no frigorífico durante 1 hora ou mais e, em seguida, sirva com um fio de azeite e um pouco de pimenta preta."
+  },
+  {
+    "titulo": "Almôndegas de cordeiro e damasco",
+    "pais": "Turco",
+    "imagem": "https://www.themealdb.com/images/media/meals/72fgzj1764109947.jpg",
+    "ingredientes": "• Azeite: 2 colheres de sopa\n• Cebolas vermelhas: 2 picadas\n• Alho: 4 dentes esmagados\n• Cominho moído: 2 colheres de chá\n• Coentro moído: 2 colheres de chá\n• Tomates enlatados: 400g\n• Açúcar: 1/2 colher de chá\n• Hortelã: 10g\n• Carne de cordeiro: 500g\n• Damascos Secos: 8\n• Farinha de rosca: 50g\n• Pão Pita: Para servir",
+    "preparo": "passo 1\nAqueça 2 colheres de chá de óleo numa panela e amoleça as cebolas durante 5 minutos. Adicione o alho e as especiarias e cozinhe por mais alguns minutos. Coloque metade da mistura de cebola numa tigela e reserve para esfriar. Adicione os tomates, o açúcar e o tempero às cebolas restantes na panela e cozinhe por cerca de 10 minutos até reduzir.\n\npasso 2\nEnquanto isso, adicione a hortelã, o cordeiro, os damascos e as migalhas de pão às cebolas resfriadas, tempere e misture bem com as mãos. Forme pequenas almôndegas.\n\npasso 3\nAqueça o resto do óleo numa"
+  },
+  {
     "titulo": "Arroz frito com frango",
     "pais": "Chinês",
     "imagem": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
@@ -19,6 +33,13 @@
     "imagem": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
     "ingredientes": "• Batatas: 3 Médias\n• Azeite: 1 colher de sopa\n• Bacon: 2 tiras\n• Cravo de alho: picado\n• Xarope de bordo: 1 colher de sopa\n• Salsa: Decorar\n• Sal: Pitada\n• Pimenta: Pitada\n• Pimenta da Jamaica: a gosto",
     "preparo": "Antes de fazer qualquer coisa, congele suas fatias de bacon dessa maneira quando estiver pronto para se preparar, será muito mais fácil de cortar!\nLave as batatas e corte os dados médios em pedaços quadrados. Para evitar qualquer escurecimento, coloque as batatas já cortadas numa tigela cheia de água.\nEnquanto isso, aqueça 1-2 colheres de sopa de óleo em uma frigideira grande em fogo médio-alto. Incline a frigideira para que o óleo se espalhe uniformemente.\nQuando o óleo estiver quente, escorra as batatas e adicione à frigideira. Tempere com sal, pimenta e Old Bay como"
+  },
+  {
+    "titulo": "Beef pho",
+    "pais": "Vietnamita",
+    "imagem": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+    "ingredientes": "• Caldo de Carne Bovina: 1 L\n• Cebola: 1 grande\n• Gengibre: 1 Picado Grande\n• Canela em bastão: 1\n• Anis estrelado: 2\n• Sementes de coentro: 1 colher de chá\n• Cravo-da-índia: 1/2 colher de chá\n• Bife de lombo: 225g\n• Açúcar de palma: 1 colher de chá\n• Molho de Peixe: 1 colher de sopa\n• Molho de soja: 1 ½ colher de sopa\n• Macarrão de arroz: 200g\n• Cebolinha: 2 fatias\n• Pimentões de olho de pássaro: 1 pequeno\n• Manjericão: Punhado\n• Coentro: Punhado\n• Cal: 1",
+    "preparo": "passo 1\nColoque o caldo de carne junto com 500 ml de água numa panela grande. Sente a cebola e o gengibre em uma frigideira em fogo alto e carbonize por todos os lados, cerca de 3 a 5 minutos (você também pode fazer isso sob a grelha). Depois de carbonizado, adicione ao caldo de carne. Na mesma panela, torre as especiarias por 2-3 minutos e, quando começarem a cheirar mal, adicione-as ao caldo de carne também. Leve o caldo para ferver, depois cozinhe em fogo brando e cozinhe por 30 minutos antes de coar.\n\npasso 2\nEnquanto isso, corte a gordura de"
   },
   {
     "titulo": "Bisque de camarão e funcho",
@@ -56,11 +77,32 @@
     "preparo": "Rale finamente e misture.\n45 g de queijo amarelo picante (cheddar ou oude boerenkaas)\n1 lb. keshi di buriko (ou qualquer queijo branco, como fromage blanc, queso blanco, ricoto, feta etc.)\n\nStir in:\n6 ovos, batidos\n5 colheres de sopa de amido de milho\n\nMoldar a mistura em pequenas bolas. Estes podem ser mantidos indefinidamente no congelador. Solte as bolas em gordura profunda e quente e frite até dourar. Sirva o encanamento quente nos palitos de dente."
   },
   {
+    "titulo": "Campeão de mostarda",
+    "pais": "Irlandês",
+    "imagem": "https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg",
+    "ingredientes": "• Batatas: 1kg\n• Leite: 200ml\n• Manteiga: 50g\n• Mostarda: 2 colheres de sopa\n• Spring Onions: Bunch\n• Spring Onions: Bunch",
+    "preparo": "PASSO 1\nFerva as batatas por 15 minutos ou até ficarem macias. Drene e, em seguida, misture.\n\nPASSO 2\nAqueça o leite e metade da manteiga no canto da panela, depois bata no mosto, junto com a mostarda integral.\n\nPASSO 3\nFrite suavemente as cebolinhas na manteiga restante por 2 minutos até ficarem macias, mas ainda verdes. Dobre no purê e sirva. Ótimo com gamão ou para cobrir uma torta de peixe."
+  },
+  {
     "titulo": "Carne picada venezuelana",
     "pais": "Venezuela",
     "imagem": "https://www.themealdb.com/images/media/meals/mq27gf1764436795.jpg",
     "ingredientes": "• Bife Skirty: 2 Lbs\n• Alho: 2 dentes picados\n• Cebola: 1 picada\n• Cebola: 1 fatiada\n• Pimentão Vermelho: 1 fatiado\n• Tomate: 3 fatias finas\n• Caldo de Carne Bovina: 4 xícaras\n• Molho Worcestershire: 2 colheres de chá\n• Purê de tomate: 1 colher de sopa\n• Cominho: 1 colher de chá\n• Ketchup de tomate: 1/4 chávena\n• Sal: A gosto\n• Pimenta: A gosto\n• Azeite: 1 colher de sopa",
     "preparo": "Tempere a carne com sal, pimenta e alho picado\nPique 1 cebola em 4 fatias grandes\nColoque na panela de pressão de carne bovina com as 4 fatias de cebola e o caldo\nCozinhe sob pressão por 20 minutos\nLibere a pressão e abra a tampa\nRetire a carne e GUARDE 2 chávenas de caldo noutra embalagem\nCom 2 garfos, triture a carne. A carne deve ser macia o suficiente para ser facilmente. Caso contrário, cozinhe por mais 10 minutos\nPressione o botão de refogar do Instant Pot. Adicione o azeite\nQuando a máquina emitir um sinal sonoro, adicione a cebola fatiada, a pimenta e os tomates. Cozinhe até ficar macio\nAdicione a carne desfiada de volta à panela e misture\nDespeje em 1 1/2 xícaras do caldo salvo, o molho Worcestershire, pasta de tomate, ketchup e cominho. Misture\nSe o molho parecer secar, adicione um pouco mais de caldo\nTempere com sal e pimenta\nSirva!"
+  },
+  {
+    "titulo": "Chtitha Batata (ensopado de batata argelino)",
+    "pais": "Argelino",
+    "imagem": "https://www.themealdb.com/images/media/meals/q8pu1k1764114334.jpg",
+    "ingredientes": "• Alho: 4 dentes\n• Pimenta vermelha: 1 pequena\n• Cominho moído: 1 colher de chá\n• Páprica: 1 colher de chá\n• Pimenta Preta: 1/2 colher de chá\n• Pimenta Caiena: 1/2 colher de chá\n• Sal: 1/2 colher de chá\n• Azeite: 2 colheres de sopa\n• Batatas Novas: 2 Lbs\n• Purê de tomate: 1 colher de sopa\n• Água: fervida\n• Sal: A gosto",
+    "preparo": "Combine alho, pimenta malagueta, cominho, páprica, pimenta preta, pimenta caiena e sal em um almofariz; moa com um pilão até formar uma pasta. Adicione o azeite e misture bem o dersa.\n\nAqueça uma panela grande em fogo médio e frite dersa até ficar perfumada, 2 a 4 minutos. Adicione as metades da batata e mexa para combinar com o dersa. Misture a pasta de tomate. Despeje água suficiente para cobrir as batatas e deixe ferver. Reduza o fogo e cozinhe até que as batatas estejam macias, cerca de 40 minutos.\n\nBatatas panela em"
+  },
+  {
+    "titulo": "Confit de pato",
+    "pais": "França",
+    "imagem": "https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg",
+    "ingredientes": "• Sal Marinho: Punhado\n• Folha de louro: 4\n• Alho: 4 dentes\n• Tomilho: Punhado\n• Pernas de pato: 4\n• Vinho Branco: 100ml",
+    "preparo": "Um dia antes de querer fazer o prato, espalhe metade do sal, metade do alho e metade das ervas sobre a base de um pequeno prato raso. Coloque as pernas de pato, do lado da pele para cima, em cima, depois espalhe sobre o sal, alho e ervas restantes. Cubra o pato e refrigere durante a noite. Isso pode ser feito com até 2 dias de antecedência.\nDespeje o vinho numa panela que encaixe confortavelmente as pernas de pato numa única camada. Escove o sal das pernas do pato e coloque-as, com a pele para baixo, no vinho. Cubra a panela com"
   },
   {
     "titulo": "Congee de frango",
@@ -98,6 +140,20 @@
     "preparo": "1 Coloque a erva-doce, a berinjela, a pimenta e a abobrinha numa assadeira. Adicione um pouco de azeite, tempere com sal e pimenta e misture para cobrir os vegetais com o óleo. Asse no forno por 20 minutos, girando algumas vezes até que os vegetais estejam praticamente cozidos e dourados.\n\n2 Enquanto isso, aqueça uma panela de paella ou uma frigideira grande em fogo médio baixo e adicione um pouco de azeite. Refogue a cebola por 8–10 minutos até amolecer. Aumente o fogo para médio e misture o arroz"
   },
   {
+    "titulo": "Fasoliyyeh Bi Z-Zayt (Feijão Verde Sírio com Azeite)",
+    "pais": "Sírio",
+    "imagem": "https://www.themealdb.com/images/media/meals/21yc5s1760524759.jpg",
+    "ingredientes": "• Feijão verde: 16 onças\n• Azeite: 1/4 chávena\n• Sal: Traço\n• Alho: 1 dente\n• Coentro: 1/4 chávena",
+    "preparo": "Coloque o feijão verde numa panela grande e regue com azeite. Tempere com sal a gosto e coloque a tampa na panela. Cozinhe em fogo médio-alto, mexendo ocasionalmente, até que o feijão esteja cozido até o ponto desejado. Os sírios gostam de cozinhar até que o feijão verde fique acastanhado. A ideia não é refogá-los, mas deixá-los vaporizar na umidade liberada pelos cristais de gelo.\n\nAdicione coentro e alho ao feijão e continue a cozinhar apenas até que o coentro comece a ficar"
+  },
+  {
+    "titulo": "Fofos de peixe",
+    "pais": "Português",
+    "imagem": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+    "ingredientes": "• Arinca: 600g\n• Batatas: 300g\n• Pimenta verde: 1 picada\n• Coentro: 3 colheres de sopa\n• Sementes de cominho: 1 colher de chá\n• Pimenta: 1/2 colher de chá\n• Alho: 3 dentes\n• Gengibre: 2 peças\n• Farinha: 2 colheres de sopa\n• Ovos: 3\n• Farinha de rosca: 75g\n• Óleo Vegetal: Para fritar",
+    "preparo": "PASSO 1\n\nColoque o peixe numa panela com tampa e despeje água suficiente para cobrir. Leve ao lume brando e cozinhe suavemente durante 10 minutos em fogo baixo com a tampa colocada. Escorra e lave o peixe.\n\nPASSO 2\n\nColoque o peixe, a batata, a pimenta verde, o coentro, o cominho, a pimenta preta, o alho e o gengibre numa tigela grande. Tempere, adicione a farinha de arroz, misture bem e quebre em 1 ovo. Mexa a mistura e divida em 15, depois forme pequenas toras. Parta os ovos restantes numa tigela e bata levemente. Coloque as migalhas de pão"
+  },
+  {
     "titulo": "Folhas de uva recheadas",
     "pais": "(Internacional)",
     "imagem": "https://www.themealdb.com/images/media/meals/oga0ax1780089591.jpg",
@@ -133,6 +189,13 @@
     "preparo": "PASSO 1\n\nJunte todos os ingredientes da marinada em um pequeno processador de alimentos. Esfregue a marinada no frango e deixe por 1 hora em temperatura ambiente.\n\nPASSO 2\n\nAqueça o forno a 190C/ventilador 170C/gás 5. Coloque o frango numa assadeira e cozinhe durante 1 hora e 20 minutos. Descanse sob papel alumínio solto por 20 minutos. Enquanto o frango está descansando, misture os ingredientes e tempere. Sirva o frango com salada de repolho, batatas fritas e condimentos."
   },
   {
+    "titulo": "Frango venezuelano com coco",
+    "pais": "Venezuela",
+    "imagem": "https://www.themealdb.com/images/media/meals/z2sw3o1764378271.jpg",
+    "ingredientes": "• Peitos de Frango: 2\n• Cebola: 2 picadas\n• Alho: 1 dente descascado esmagado\n• Folhas de louro: 4\n• Pimenta Preta: Pitada\n• Cúrcuma: Pitada\n• Cominho: Pitada\n• Sal: Pitada\n• Açúcar: 1 colher de sopa\n• Tomate: 3\n• Pasta de gengibre: 1 colher de sopa\n• Azeite: 1/3 chávena\n• Leite de coco: 1 lata\n• Água: 1/2 chávena",
+    "preparo": "Corte o frango em pedaços pequenos. Descasque e corte as cebolas, pique o alho.\nMonte o resto dos ingredientes e estará pronto para começar a cozinhar.\nFaça o Prato\nAqueça uma frigideira em fogo médio. Adicione o óleo e, quando estiver quente, refogue a cebola até ficar translúcida. Retire da panela e transfira para um liquidificador ou processador de alimentos.\nAdicione tomates, alho, açafrão, cominho, açúcar, pasta de gengibre, leite de coco, água e misture suavemente.\nNa mesma panela que cozinhou a cebola, adicione o frango e doure tudo"
+  },
+  {
     "titulo": "Fritas no Microondas - Batata Inglesa",
     "pais": "Brasil",
     "imagem": "https://receitas.globo.com/tipos-de-prato/acompanhamentos/batata-frita-de-microondas-4e82f5f71d3a3c39ab000425.ghtml",
@@ -159,6 +222,13 @@
     "imagem": "https://www.themealdb.com/images/media/meals/rw64di1766595573.jpg",
     "ingredientes": "• Farinha Autoelevatória: 300g\n• Açúcar mascavo: 150g\n• Mix de Especiarias Speculaas: 10g\n• Sal: Pitada\n• Manteiga: 125g\n• Leite: 10 colheres de chá\n• Pasta de Amêndoa: 300g\n• Ovo: 1\n• Leite: Para escovar\n• Amêndoas: Decorar",
     "preparo": "Misture a farinha auto-surgente, o açúcar, a mistura de especiarias speculaas e o sal. Adicione a manteiga e o leite e amasse numa bola de massa firme. Comece com 6 colheres de sopa de leite, se a massa estiver muito dura, você pode adicionar mais leite.\nEnrole a massa em filme plástico e leve à geladeira durante a noite. Você pode processá-lo e assá-lo imediatamente, mas o sabor será muito melhor se você deixá-lo descansar.\nMisture a pasta de amêndoas com metade do ovo batido e amasse bem. Isso facilita o trabalho e dá um tex melhor e mais saboroso"
+  },
+  {
+    "titulo": "Handesh – Farinha de arroz de Bangladesh e bolos de melaço de tâmaras",
+    "pais": "(Internacional)",
+    "imagem": "https://www.themealdb.com/images/media/meals/vfybi01780261706.jpg",
+    "ingredientes": "• Data Melaço: 250g\n• Água Quente: 400ml\n• Farinha de Arroz: 250g\n• Farinha: 150g\n• Canela em pó: 1/4 colher de chá\n• Cardomomo moído: 1/4 colher de chá",
+    "preparo": "Adicione o melaço a uma tigela grande e comece derramando 300 ml de água para começar e misture. A textura do melaço de Bangladesh varia de um xarope espesso a ligeiramente endurecido. Eu uso marcas como Zilani ou Akza. Se o conjunto for muito xaroposo (como xarope dourado), você precisará apenas de 300-325 ml de água\n2\nDespeje as farinhas e especiarias (se estiver usando) e bata por 3–5 minutos, até obter uma massa lisa. Você precisa verificar cuidadosamente se há caroços, pois eles impedem que a mão suba e"
   },
   {
     "titulo": "Hodge Podge",
@@ -210,11 +280,25 @@
     "preparo": "Aqueça o forno a 160C/ventoinha 140C/gás 3. Coloque os biscoitos em migalhas num processador de alimentos (ou coloque num saco plástico forte e bata com um rolo). Misture com a manteiga derretida e pressione na base e nas laterais de uma lata de torta solta de 22 cm. Asse no forno por 10 minutos. Remover e arrefecer.\nColoque as gemas numa tigela grande e bata durante um minuto com batedores elétricos. Adicione o leite condensado e bata por 3 minutos, em seguida, adicione as raspas e o suco e bata novamente por 3 minutos. Despeje o enchimento"
   },
   {
+    "titulo": "Lasanha",
+    "pais": "Italiano",
+    "imagem": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "ingredientes": "• Azeite: 1 colher de chá\n• Bacon: 2\n• Cebola: 1 picadinho\n• Aipo: 1 palito\n• Cenouras: 1 média\n• Alho: 2 dentes picados\n• Carne moída: 500g\n• Purê de tomate: 1 tbls\n• Tomates picados: 800g\n• Mel: 1 colher de chá\n• Folhas de Lasanha: 500g\n• Creme Fraiche: 400ml\n• Bolas de muçarela: 125g\n• Queijo Parmesão: 50g\n• Folhas de manjericão: cobertura",
+    "preparo": "Aqueça o óleo numa panela grande. Use uma tesoura de cozinha para cortar o bacon em pedaços pequenos ou use uma faca afiada para cortá-lo em uma tábua de cortar. Adicione o bacon à panela e cozinhe por apenas alguns minutos até começar a ficar dourado. Adicione a cebola, o aipo e a cenoura e cozinhe em fogo médio por 5 minutos, mexendo ocasionalmente, até amolecer.\nAdicione o alho e cozinhe por 1 min, em seguida, adicione o picado e cozinhe, mexendo e quebrando com uma colher de pau, por cerca de 6 minutos até dourar tudo."
+  },
+  {
     "titulo": "Macarrão de camarão tailandês picante",
     "pais": "Thai",
     "imagem": "https://www.themealdb.com/images/media/meals/568t931763584227.jpg",
     "ingredientes": "• Macarrão de arroz: 200g\n• Óleo de Semente de Gergelim: 1 colher de sopa\n• Ovo: 2 Espancado\n• Pimenta vermelha: 1 picada\n• Gengibre: peça de 3cm\n• Camarão: 450g\n• Molho de soja: 1 colher de sopa\n• Coentro: Bunch\n• Menta: 1/2 punhado\n• Lima: Raspas e sumo de 1\n• Amendoim: Punhado",
     "preparo": "passo 1\nCozinhe o macarrão seguindo as instruções da embalagem, escorra e reserve para mais tarde. Aqueça o óleo numa frigideira grande e despeje o ovo batido. Gire em torno da panela para fazer uma omelete fina, cozinhe por 1-2 minutos, depois vire e cozinhe o outro lado por 1 minuto. Ponta para fora e corte em tiras finas.\n\npasso 2\nAdicione a pimenta e o gengibre à panela, frite por 1-2 minutos e, em seguida, coloque o macarrão, os camarões e o ovo. Mergulhe no molho de soja e refogue por mais 1 min. Jogue as ervas picadas e despeje"
+  },
+  {
+    "titulo": "Mbuzi Choma (Cabra Assada)",
+    "pais": "Queniana",
+    "imagem": "https://www.themealdb.com/images/media/meals/cuio7s1555492979.jpg",
+    "ingredientes": "• Carne de Cabra: 1 kg\n• Farinha de Milho: 1 kg\n• Tomates: 2\n• Sal: Pitada\n• Cebola: 1\n• Pimenta verde: 1\n• Folhas de coentro: 1  maço",
+    "preparo": "1. Etapas para a Carne: \n Asse a carne em fogo médio por 50 minutos e salgue enquanto gira.\n\n2. Etapas para Ugali:\nFerva a água e o sal numa panela de fundo pesado. Mexa a farinha de milho lentamente, deixando-a cair pelos dedos da mão.\n\n3. Reduza o fogo para médio-baixo e continue mexendo regularmente, esmagando qualquer caroço com uma colher, até que o mingau se afaste das laterais da panela e fique muito espesso, cerca de 10 minutos.\n\n4. Retire do calor e deixe arrefecer."
   },
   {
     "titulo": "Mousse de framboesa",
@@ -238,6 +322,13 @@
     "preparo": "Misture o molho em uma tigela pequena.\nPique o alho no wok com óleo. Coloque em fogo alto, quando estiver quente, adicione o frango e os caules de brócolis chineses, cozinhe até que o frango fique dourado claro.\nEmpurre para o lado do wok, quebre o ovo e embaralhe. Não se preocupe se ele grudar no fundo do wok - ele vai carbonizar e adicionar um sabor autêntico.\nAdicione macarrão, folhas de brócolis chinês e molho. Misture suavemente até que o macarrão fique manchado e as folhas murchem. Sirva imediatamente!"
   },
   {
+    "titulo": "Panqueca / Crepe em camadas Flija",
+    "pais": "(Internacional)",
+    "imagem": "https://www.themealdb.com/images/media/meals/eqnf3p1779649407.jpg",
+    "ingredientes": "• Farinha: 1 kg\n• Água: 1 L\n• Sal: 1 colher de chá\n• Manteiga Derretida: 220g\n• Óleo Vegetal: 200ml\n• Iogurte grego: 5 colheres de sopa\n• Manteiga Derretida: 220g\n• Óleo Vegetal: 200ml\n• Creme coagulado: 3  colheres de sopa\n• Manteiga Derretida: 220g\n• Creme Azedo: 500ml\n• Azeite: 3  colheres de sopa",
+    "preparo": "1\nPrepare a massa de farinha\nMisture a farinha, a água e o sal, garantindo que todos os grumos estejam dissolvidos. A mistura deve ser espessa, mas ainda de consistência vertida, adicione um pouco de água extra, se necessário. Coloque de lado.\n2\nPrepare o enchimento da massa\nMisture a manteiga, o óleo e o iogurte / creme escolhido, garantindo que todos os grumos sejam dissolvidos. A mistura deve estar escorrendo, deixe descansar por 10 minutos antes de dar-lhe outra boa mistura. A consistência deve ser semelhante ao creme. Coloque a um"
+  },
+  {
     "titulo": "Paracuca (amendoim torrado)",
     "pais": "(Internacional)",
     "imagem": "https://www.themealdb.com/images/media/meals/vgsipt1779917593.jpg",
@@ -252,11 +343,25 @@
     "preparo": "passo 1\nAqueça o óleo numa panela e frite a cebola durante cerca de 5 minutos até amolecer. Adicione o alho, o tomate picado, o purê de tomate, a páprica doce, a pimenta em pó, o açúcar e uma pitada de sal e, em seguida, deixe ferver, mexendo ocasionalmente. Abaixe até ferver e cozinhe por 10 minutos até ficar polpudo. Pode ser mantido refrigerado por até 24 horas.\n\npasso 2\nAqueça o forno a 200C/180C ventilador/gás 6. Seque as batatas com papel de cozinha, em seguida, incline para uma assadeira e misture o azeite e um pouco de tempero. Assado para 40-50"
   },
   {
+    "titulo": "Peixe cozido no vapor ao estilo tailandês",
+    "pais": "Thai",
+    "imagem": "https://www.themealdb.com/images/media/meals/yx8j1i1763484612.jpg",
+    "ingredientes": "• Truta: 2\n• Gengibre: Botão\n• Cravo de alho: 1 pequeno finamente picado\n• Red Chilli: 1 pimentão pequeno em cubos finos\n• Limão: Suco/raspas de um\n• Baby Pak Koi: 3\n• Molho de soja: 2 colheres de chá",
+    "preparo": "passo 1\nAninhem os filetes de peixe lado a lado em um grande quadrado de papel alumínio e espalhem o gengibre, o alho, a pimenta e as raspas de limão sobre eles. Regue o suco de limão por cima e, em seguida, espalhe os pedaços de pak choi ao redor e em cima do peixe. Despeje o molho de soja sobre o pak choi e feche frouxamente a folha para fazer uma embalagem, certificando-se de deixar espaço no topo para o vapor circular enquanto o peixe cozinha.\n\npasso 2\nVaporizar por 15 minutos. (Se não tiver um vaporizador, coloque o pacote numa placa à prova de calor"
+  },
+  {
     "titulo": "Peixe frito crocante com gengibre e soja fermentada (trey chien chuon)",
     "pais": "(Internacional)",
     "imagem": "https://www.themealdb.com/images/media/meals/9q1ci41779735714.jpg",
     "ingredientes": "• Gengibre: 2 xícaras\n• Filé de peixe: 0,5 kg\n• Farinha Tempura: 2 colheres de sopa\n• Óleo: 2 chávenas\n• Alho: 4 dentes\n• Soja: 800g\n• Açúcar: 1/2 colher de sopa\n• Água: 1/2 chávena\n• Cebolinha: 3",
     "preparo": "Frite o gengibre com bastante óleo até dourar e ficar ligeiramente crocante. Reserve para mais tarde.\nCorte o peixe em tiras. Drague o peixe com uma camada muito fina de farinha de tempura.\nFrite o peixe em abundância até dourar e ficar crocante. Você pode usar o mesmo óleo que estava usando para fritar o gengibre.\nEsmague o alho e corte-o em pedaços pequenos. Pique a cebolinha.\nDrene a soja fermentada usando um coador. Se estiver a usar feijão salgado (soja numa salmoura muito salgada), precisa de lavar o"
+  },
+  {
+    "titulo": "Presunto assado lentamente com limão, alho e sálvia",
+    "pais": "Polaco",
+    "imagem": "https://www.themealdb.com/images/media/meals/w36ets1764362474.jpg",
+    "ingredientes": "• Alho: 5 dentes picados\n• Limão: Raspas de 1\n• Sal: 15g\n• Pimenta Preta: 10g\n• Óleo Vegetal: 50 ml\n• Ombro de porco: 2kg\n• Vinho Branco Seco: 500ml",
+    "preparo": "passo 1\nAqueça o forno a 200C/180C ventilador/gás 6. Bata o alho, a sálvia, as raspas de limão, o sal e a pimenta juntos usando um pilão e um almofariz até que a mistura se torne uma pasta. Misture o óleo e, em seguida, espalhe a mistura sobre a paleta de porco, evitando a pele por cima. Marque a pele com uma faca afiada e, em seguida, esfregue uma grande pitada de sal na pele. Amarre a carne de porco usando o cordão da cozinha.\n\npasso 2\nForre uma assadeira grande com uma camada dupla de papel alumínio e coloque a carne de porco por cima, do lado da pele para cima. Traga o sid"
   },
   {
     "titulo": "Pudim autêntico de tapioca do Laos com bananas",
@@ -280,6 +385,13 @@
     "preparo": "Pré-aqueça o forno a 350°F (175°C). Unte e alinhe uma panela redonda de 15 cm ou uma panela de pão com papel de pergaminho.\nColoque a batata-doce cortada na tigela de um processador de alimentos e processe até ficar ralada. Em uma tigela pequena, misture as passas em 2 colheres de chá de farinha da ½ xícara. Reserve.\nEm uma tigela grande, misture batata-doce ralada, açúcar mascavo claro, farinha para todos os fins, extrato de baunilha, pimenta da Jamaica, canela, noz-moscada, gengibre e sal. Misture 1½ xícara de leite de coco até formar uma massa. Dobrar nas passas th"
   },
   {
+    "titulo": "Purê de berinjela defumado",
+    "pais": "Turco",
+    "imagem": "https://www.themealdb.com/images/media/meals/8c8m4q1763791156.jpg",
+    "ingredientes": "• Beringela: 2 médias\n• Limão: Suco de 1\n• Alho: 3 dentes esmagados\n• Iogurte: 150ml\n• Endro: Bunch",
+    "preparo": "passo 1\nAqueça a grelha a muito quente. Corte as berinjelas ao meio, depois grelhe por 25 minutos, girando ocasionalmente, até ficar macia – a pele permanecerá firme, mas a carne ficará macia. Levante as berinjelas da grelha e deixe-as esfriar o suficiente para manusear.\n\npasso 2\nUsando uma faca afiada, marque a carne grelhada e retire a carne com uma colher. Coloque a ponta numa tigela e amasse com um garfo até obter uma polpa espessa. Bata no sumo de limão e alho. Adicione o iogurte e o endro e tempere. Sirva com"
+  },
+  {
     "titulo": "Queijo creme",
     "pais": "Estados Unidos",
     "imagem": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
@@ -301,11 +413,25 @@
     "preparo": "Em uma tigela média, misture as gemas de ovos, o queijo philly e o fermento em pó usando um misturador manual. Comece a adicionar a farinha com cuidado. Quando a mistura não estiver a misturar bem e parecer lascas de madeira, guarde o misturador e use as mãos para amassar a massa.\nCrie um rolo e cubra com papel alumínio e congele por 15 minutos. Neste momento, pré-aqueça o forno a 375.\nRetire a massa e separe-a em duas. Enrole e corte os trangles de 3 polegadas.\nFaça o máximo que puder e no centro de cada um coloque uma pequena colher de geleia. Enrole-os em forma de croissant.\nColoque os croissants sobre uma assadeira untada e asse por 10-12 minutos ou até dourar.\nRepita com o resto da massa.\nQuando os retirar, reserve e polvilhe com açúcar em pó por cima.\nIsso faz cerca de 3 lotes de 20 biscoitos cada.\nContagem total de cerca de 60 biscoitos."
   },
   {
+    "titulo": "Rosol (sopa de frango polaca)",
+    "pais": "Polaco",
+    "imagem": "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg",
+    "ingredientes": "• Pernas de frango: 4 picadas\n• Cebolas: 2 grandes\n• Cenouras: 5 picadas\n• Alho-poró: 1 picado\n• Aipo: 1 pequeno\n• Repolho: 1/4\n• Cravo-da-índia: 1 inteiro\n• Pimenta da Jamaica: 1 colher de chá\n• Folha de louro: 2\n• Salsa: 4 raminhos\n• Endro: 4 raminhos\n• Pimenta: 1 colher de chá\n• Sal: 1 colher de sopa",
+    "preparo": "Adicione o frango a um forno holandês grande ou a uma panela de caldo \nCobrir com água\nFerva e cozinhe por 2 a 2 horas e meia, retirando quaisquer impurezas da parte superior para garantir um caldo transparente\nSe a sua panela for grande o suficiente, adicione os legumes e especiarias para a última hora do tempo de cozimento\nMeu forno holandês não era grande o suficiente para conter tudo, apenas o frango e outros ossos enchiam a panela, então cozinhei a carne/ossos durante todo o tempo de cozimento, depois os removi e cozinhei os legumes e especiarias separadamente\nStra"
+  },
+  {
     "titulo": "Salada de abacate e salmão",
     "pais": "Britânico",
     "imagem": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
     "ingredientes": "• Salmão: 400g\n• Abacate: 3\n• Pepino: 1\n• Espinafre: 400g\n• Hortelã: 4 colheres de sopa\n• Limão: raspas e sumo de 1\n• Mel: 2 colheres de chá\n• Azeite: 3 colheres de sopa",
     "preparo": "Tempere o salmão e depois esfregue com óleo. Misture os ingredientes do curativo. Corte pela metade, lapide, descasque e corte em fatias os abacates. Divida e divida o pepino ao meio e, em seguida, corte em fatias. Divida a salada, o abacate e o pepino entre quatro pratos, depois regue com metade do molho.\n\nAqueça uma panela antiaderente. Adicione o salmão e frite por 3-4 minutos de cada lado até ficar crocante, mas ainda úmido por dentro. Coloque um filete de salmão em cima de cada salada e regue sobre o restante do molho. Sirva quente."
+  },
+  {
+    "titulo": "Salada de batata-doce",
+    "pais": "Turco",
+    "imagem": "https://www.themealdb.com/images/media/meals/z458v91763817681.jpg",
+    "ingredientes": "• Batata Doce: 1200g\n• Azeite: 1 colher de sopa\n• Chalotas: 2\n• Cebolinha: 4 fatias\n• Cebolinho: Bunch\n• Vinagre de xerez: 5 colheres de sopa\n• Azeite Virgem Extra: 2 colheres de sopa\n• Mel: 2 colheres de sopa",
+    "preparo": "passo 1\nAqueça o forno a 200C/180C ventilador/gás 6. Misture os pedaços de batata-doce com o azeite e um pouco de tempero e espalhe em uma assadeira forrada de pergaminho. Asse por 30 a 35 minutos até ficar macio e dourado. Arrefecer à temperatura ambiente.\n\npasso 2\nQuando estiver quase frio, misture todos os ingredientes do molho com um pouco mais de tempero e jogue suavemente os pedaços de batata – use as mãos para evitar quebrá-los."
   },
   {
     "titulo": "Salada de Gergelim e Pepino",
@@ -315,18 +441,18 @@
     "preparo": "Prepare os pepinos:\nDescasque os pepinos. Corte-os em quartos, longitudinalmente. (Se as sementes estiverem amargas, raspe as sementes e descarte.) Corte os pepinos novamente, transversalmente, em pedaços de 1/2 polegada de espessura.\n\nMisture a salada:\nColoque os pepinos numa tigela de servir. Polvilhe com sal. Misture com óleo de gergelim, vinagre de arroz temperado, manjericão (se estiver em uso) e flocos de pimenta. Polvilhe com sementes de sésamo torradas se estiver a usar."
   },
   {
+    "titulo": "Salada de romã",
+    "pais": "Polaco",
+    "imagem": "https://www.themealdb.com/images/media/meals/fqpqml1764359125.jpg",
+    "ingredientes": "• Azeite: 60 ml\n• Suco de lima-da-pérsia: 2 colheres de sopa\n• Mel: 1 colher de sopa\n• Tomilho: 2 raminhos\n• Folhas de Alface Bebê: 100g\n• Tomate cereja: 250g\n• Cebolinha: 3 picadas\n• Pimenta vermelha: 1 picada\n• Romã: 1\n• Feta: 50g",
+    "preparo": "passo 1\nMisture o azeite, o sumo de limão, o mel e as folhas de tomilho numa tigela grande. Tempere bem, depois adicione a alface, os tomates, as cebolinhas e a pimenta e misture.\n\npasso 2\nRetire as sementes de romã sobre uma tigela e remova qualquer membrana branca. Organize a salada vestida em um prato e, em seguida, espalhe sobre as sementes de romã e feta."
+  },
+  {
     "titulo": "Salada mediterrânea de massas",
     "pais": "Italiano",
     "imagem": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
     "ingredientes": "• bolas de muçarela: 200 g\n• tomate ameixa bebé: 250 g\n• manjericão fresco: 1  cacho\n• farfalle: 350 g\n• azeite virgem extra: 3  colheres de sopa\n• Azeitonas Verdes: 40 g\n• atum: 200 g\n• sal: a gosto\n• pimenta: a gosto",
     "preparo": "Leve uma panela grande de água salgada para ferver\nAdicione a massa, mexa uma vez e cozinhe por cerca de 10 minutos ou conforme indicado na embalagem.\nEnquanto isso, lave os tomates e corte em quartos. Fatie as azeitonas. Lave o manjericão.\nColoque os tomates numa saladeira e rasgue as folhas de manjericão sobre eles. Adicione uma colher de sopa de azeite e misture.\nQuando a massa estiver pronta, escorra para um coador e passe água fria sobre ela para resfriá-la rapidamente.\nJogue a massa na saladeira com os tomates e o manjericão.\nAdicionar"
-  },
-  {
-    "titulo": "Salmão assado com erva-doce e tomate",
-    "pais": "Britânico",
-    "imagem": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
-    "ingredientes": "• Funcho: 2 médios\n• Salsa: 2 colheres de sopa picadas\n• Limão: Suco de 1\n• Tomates-cereja: 175g\n• Azeite: 1 colher de sopa\n• Salmão: 350g\n• Azeitonas Pretas: para servir",
-    "preparo": "Aqueça o forno a 180C/ventilador 160C/gás 4. Apare as folhas da erva-doce e reserve. Corte os bulbos de erva-doce ao meio e, em seguida, corte cada metade em 3 fatias. Cozinhe em água salgada fervente por 10 minutos e, em seguida, escorra bem. Pique as folhas de funcho grosseiramente, depois misture com a salsa e as raspas de limão.\n\nEspalhe a erva-doce escorrida sobre um prato raso à prova de forno e, em seguida, adicione os tomates. Regue com azeite e, em seguida, asse por 10 minutos. Aninhem o salmão entre os vegetais, polvilhem com suco de limão e, em seguida, asse por mais 15 minutos até que o"
   },
   {
     "titulo": "Salmão assado com erva-doce e tomate",
