@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-07-11T23:29:26.114Z",
+  "timestamp": "2026-07-11T23:29:39.836Z",
   "titulo": "🎱 VIII  Campeonato de Sinuca",
   "jogadores": [
     {
@@ -48,8 +48,8 @@
       "nome": "Rodrigo Gomes",
       "email": "",
       "telefone": "",
-      "vitorias": 0,
-      "creditoBolas": 0
+      "vitorias": 1,
+      "creditoBolas": 4
     },
     {
       "id": 1779731633065,
@@ -72,8 +72,8 @@
       "nome": "Ernani",
       "email": "",
       "telefone": "",
-      "vitorias": 1,
-      "creditoBolas": 2
+      "vitorias": 0,
+      "creditoBolas": 0
     },
     {
       "id": 1779731667712,
@@ -245,9 +245,9 @@
       "grupoIndex": 1,
       "jogadorAId": 1779731635399,
       "jogadorBId": 1779731673128,
-      "vencedorId": 1779731673128,
+      "vencedorId": 1779731635399,
       "realizado": true,
-      "bolasRestantes": 2
+      "bolasRestantes": 4
     },
     {
       "id": "conf_1781022211441_1_1779731635399_1779731705216_0.5120210920178566",
@@ -829,6 +829,17 @@
       "bolasRestantes": 1,
       "antigoVencedorId": 1779731706685,
       "timestamp": "2026-07-11T23:20:03.310Z"
+    },
+    {
+      "id": 1783812579835,
+      "tipo": "edit_grupo",
+      "grupoIndex": 1,
+      "jogadorAId": 1779731635399,
+      "jogadorBId": 1779731673128,
+      "vencedorId": 1779731635399,
+      "bolasRestantes": 4,
+      "antigoVencedorId": 1779731673128,
+      "timestamp": "2026-07-11T23:29:39.835Z"
     }
   ],
   "mataMataAtivo": null
