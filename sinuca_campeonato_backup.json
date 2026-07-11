@@ -1,6 +1,6 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-07-11T11:29:46.333Z",
+  "timestamp": "2026-07-11T12:07:37.241Z",
   "titulo": "🎱 VIII  Campeonato de Sinuca",
   "jogadores": [
     {
@@ -113,7 +113,7 @@
       "email": "",
       "telefone": "",
       "vitorias": 2,
-      "creditoBolas": 6
+      "creditoBolas": 2
     },
     {
       "id": 1779731706685,
@@ -166,7 +166,7 @@
       "jogadorBId": 1779731706685,
       "vencedorId": 1779731667044,
       "realizado": true,
-      "bolasRestantes": 5
+      "bolasRestantes": 1
     },
     {
       "id": "conf_1781022211441_0_1779731667044_1779731633065_0.2439754594045218",
@@ -774,6 +774,17 @@
       "jogadorBId": 1779731633065,
       "vencedorId": 1779731633065,
       "timestamp": "2026-06-11T12:07:48.624Z"
+    },
+    {
+      "id": 1783771657231,
+      "tipo": "edit_grupo",
+      "grupoIndex": 0,
+      "jogadorAId": 1779731667044,
+      "jogadorBId": 1779731706685,
+      "vencedorId": 1779731667044,
+      "bolasRestantes": 1,
+      "antigoVencedorId": 1779731667044,
+      "timestamp": "2026-07-11T12:07:37.231Z"
     }
   ],
   "mataMataAtivo": {
