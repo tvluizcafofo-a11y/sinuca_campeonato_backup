@@ -1,13 +1,13 @@
 {
   "versao": "2.0",
-  "timestamp": "2026-07-11T20:15:47.624Z",
+  "timestamp": "2026-07-11T20:16:31.684Z",
   "titulo": "🎱 VIII  Campeonato de Sinuca",
   "jogadores": [
     {
       "id": 1779731677633,
       "nome": "Sr. Geraldo",
-      "email": "",
-      "telefone": "",
+      "email": "geraldo@gmil.com",
+      "telefone": "31977776789",
       "vitorias": 2,
       "creditoBolas": 2
     },
